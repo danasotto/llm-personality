@@ -1,0 +1,14 @@
+Model_Name,Num_Comments,Num_Duplicates
+generated_comments_Qwen2.5-72B-Instruct_temp-0.0,11101,3086
+generated_comments_Qwen2.5-72B-Instruct_temp-0.7,10208,1304
+generated_comments_mixtral-8x22B-instruct-v0.1_temp-0.0,9306,1035
+generated_comments_llama-3-3-70b-instruct_temp-0.0,16350,964
+generated_comments_llama-3-3-70b-instruct_temp-0.7,16186,952
+generated_comments_claude-sonnet-4-0_temp_0.0,9971,615
+generated_comments_mixtral-8x22B-instruct-v0.1_temp-0.7,8519,437
+generated_comments_gpt4.1-instruct_temp-0.0,8346,31
+generated_comments_gpt4.1Mini-instruct_temp-0.0,7183,12
+comments_reddit_OC,11678,6
+generated_comments_claude-sonnet-4-0_temp_0.7,8813,0
+generated_comments_gpt4.1-instruct_temp-0.7,15553,0
+generated_comments_gpt4.1Mini-instruct_temp-0.7,7426,0

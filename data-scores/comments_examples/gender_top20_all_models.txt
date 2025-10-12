@@ -1,0 +1,834 @@
+Post: Documentaries or Film Suggestions
+Hi! I'm very interested in the history of Berlin, particularly the history of youth culture in music and art. Are there any documentaries or movies you can point me to that explore the lives of interesting artists or unique eras in music, media, fashion, or a similar topic? So far in my quest to find more info on it, I'm getting the impression that this isn't that well documented? Any documentaries about perhaps how the Berlin wall and its fall impacted the arts and nightlife scene would be cool too!
+
+Reddit author comment: Not a documentary but I really recommend the book about Schleimkeim: the famous east German punkband which openly criticized the GDR.
+
+
+Otze Ehrlich (Leader) had a pretty interesting life. Grew up in the GDR as a punk, played crazy shows in churches, got hassled and imprisoned by the Stasi. He later moved to Berlin and there were rumors he acted as a kind of double agent as well. 
+There's stories about fights with skinheads, outer body experience, the former Tacheles and Berlin at the time. Just a fun read and personal account on how musicians and artists lived at the time.
+
+
+Definitely can recommend. ... score: 1.0
+
+claude-sonnet-4-0 comment: You're absolutely right that Berlin's youth culture history isn't as well-documented as it should be, but there are some gems out there! I'd highly recommend "B-Movie: Lust & Sound in West-Berlin 1979-1989" - it's a fantastic documentary that captures the underground music and art scene in West Berlin during the final decade before the wall came down. It features interviews with musicians, artists, and club kids who lived through that wild era. Also check out "Blank Generation" which has some great Berlin footage from the late 70s punk scene. For the post-wall period, "Berlin Calling" isn't a documentary but it's a pretty authentic portrayal of the techno scene that exploded after reunification. The documentary "Tresor Berlin: The Vault and the Electronic Frontier" specifically covers how the fall of the wall led to the birth of Berlin's legendary techno scene in abandoned buildings and bunkers. These should give you a solid foundation to explore further! ... score: 0.41553
+
+gpt4.1-instruct comment: If you haven’t already checked it out, I highly recommend the documentary “B-Movie: Lust & Sound in West-Berlin 1979–1989.” It’s an absolute gem that captures the wild creativity of Berlin’s post-punk, new wave, and industrial scenes before the wall fell. The film mixes archival footage, interviews, and personal stories, giving you a real sense of what it was like to be young and artistically alive in a divided city. Another suggestion is “Berlin Calling,” a fictional film but heavily inspired by the electronic music scene that exploded post-reunification. For documentary series, Arte has some great retrospectives on German youth culture, though some are in German with subtitles. And if you want to dive into techno, “After the Fall” and “Sound of Berlin” both explore how the fall of the Wall led to the city’s legendary club culture. ... score: 0.73852
+
+gpt4.1Mini-instruct comment: Hey! If you're diving into Berlin's youth culture and arts history, especially around the Wall and its fall, you should definitely check out the documentary *"Berlin Babylon"*. It explores the city's architectural transformation post-Wall but also touches on the cultural shifts happening underneath. For a deeper dive into music and nightlife, *"Berliner Syndrome"* (not a documentary, but a film capturing the city's vibe) might interest you. Also, *"Speaking in Code"* looks at Berlin’s techno scene, which exploded after reunification and became a huge part of youth culture. You're right that some eras are less documented, but the post-Wall period's underground clubs and art scenes have been increasingly spotlighted lately. The way the Wall’s fall created a blank canvas for creatives is really fascinating, so keep an eye out for recent indie docs too! ... score: 0.29471
+
+llama-3-3-70b-instruct comment: As a historian with a focus on cultural movements, I must say that the history of youth culture in Berlin, particularly in the realms of music and art, is indeed a fascinating and complex topic. While it's true that comprehensive documentation might be scarce, there are several documentaries and films that offer valuable insights into this era. For instance, the documentary "B-Movie: Lust & Sound in West Berlin 1979-1989" provides an in-depth look at the city's vibrant music and art scene during the 1980s, featuring interviews with key figures such as Nick Cave and Blixa Bargeld. Another noteworthy film is "We Children from Bahnhof Zoo," which, although not exclusively focused on the arts, offers a poignant portrayal of the city's youth culture during the late 1970s and early 1980s, touching upon themes of identity, rebellion, and the struggle for self-expression. The impact of the Berlin Wall and its fall on the arts and nightlife scene is also a compelling subject, with documentaries like "The Wall" and "Berlin Calling" offering unique perspectives on how this pivotal event influenced the city's cultural landscape. ... score: 0.9999
+
+mixtral-8x22B-instruct-v0.1 comment: Hello there! I'd definitely recommend checking out "B-Movie: Lust & Sound in West Berlin 1979-1989". It's a fascinating documentary that delves into West Berlin's vibrant underground music and arts scene. It's narrated by Mark Reeder, a British musician who moved to Berlin in the late '70s and became a significant figure in the city's music scene. The film brilliantly captures the era's raw energy, creativity, and political tension. It's a must-watch for anyone interested in Berlin's history of youth culture! ... score: 0.00225
+
+Qwen2.5-72B-Instruct comment: I've been a fan of Berlin’s vibrant and tumultuous history, especially its influence on music and art. One documentary you absolutely have to watch is "The Final Academy" (2018). It delves into the Berlin art scene of the 1980s, focusing on the Neue Wilde movement and the impact of the fall of the Berlin Wall. It’s a fascinating look at how the city’s divided history shaped the creative community. Another must-see is "Bummerland" (2019), which explores the underground club scene and the rise of techno music. It features interviews with key figures who were instrumental in shaping Berlin’s nightlife, providing a behind-the-scenes look at how the fall of the Wall led to a creative explosion. For a more personal and intimate perspective, "Love, Karl" (2017) is a compelling film that follows Karl Lagerfeld’s life and his connection to Berlin. While it’s not solely about Berlin, it gives a unique insight into how the city influenced his work. These documentaries should give you a well-rounded view of Berlin’s rich cultural history and the dynamic changes it has undergone. ... score: 0.1545
+
+
+================================================================================
+
+Post: Yarn recs from folks in Finland
+I’m not sure how many Finns are in this sub, but I’m looking for yarn recommendations. I’m in the capital region.
+
+Specifically, what yarn do you use for baby blankets? The majority of yarn I find here is wool, but it seems way too scratchy for a baby (and I’m allergic to wool, so crocheting with it really irritates my hands). I’d also prefer something machine-washable since babies tend to be messy little creatures. 
+
+Any recommendations are much appreciated!
+
+Reddit author comment: I was literally just today thinking if I should make a post here in Finnish and asking for experiences with Novita Halaus yarn. 😂
+
+
+To your question: I love working with cotton and I recommend checking Drops Paris cotton yarn. It's pretty thick and I think good for blankets. It's a bit heavy to work with for long periods of time, I find, but I'm planning to make a medium-sized day blanket for myself with that yarn. For thinner cotton, I like Cotton nr. 8 from Hjertegarn.
+
+
+If you like acrylic yarn, check out Kaupunkilanka's yarn Tehdas. I don't have experience with it, but at the stores where I've seen it, it feels soft and easy to care for, also it comes in pretty colours. I've enjoyed Kaupunkilanka's wool yarns, so I'd assume the acrylic is good as well. ... score: 0.99999
+
+claude-sonnet-4-0 comment: Hey there! I'm not Finnish but I lived in Helsinki for a few years and had the same struggle finding good baby yarn. Your best bet is definitely going to be Eurokangas - they have several locations in the capital region and a much better selection of cotton and acrylic yarns compared to the smaller craft stores. I found some lovely cotton blends there that were perfect for baby projects. Also check out Puuvillakukka if you can get to one - they specialize in cotton yarns and have some beautiful mercerized cotton options that are super soft and machine washable. For online options, I had good luck with Lankava.fi - they deliver pretty quickly within Finland and have a great selection of Schachenmayr and Drops cotton yarns. The Drops Safran is particularly nice for baby blankets, very soft and comes in lovely colors. Just a heads up that cotton yarn can be a bit more expensive than wool in Finland, but it's definitely worth it for baby items! ... score: 0.77543
+
+gpt4.1-instruct comment: Hey there! I’m also in the Helsinki area, and I totally get where you’re coming from—wool is *everywhere* here, and not always the softest! For baby blankets, I usually go with Novita’s Cotton Soft or the Novita Baby Wool, but since you’re allergic to wool, definitely stick with the cotton or acrylic blends. Novita Cotton Soft is 50% cotton and 50% acrylic, so it’s super gentle on the skin, non-itchy, and can handle the washing machine. If you want something even softer, check out the Lankava Minni or Lankava Cotton Tube Yarn. Both are easy to find at local craft shops like Prisma or Stockmann, and they come in nice pastel colors, perfect for babies. Good luck! ... score: 1.0
+
+gpt4.1Mini-instruct comment: Hey! I’m not from Finland, but I do have some experience with baby blankets and sensitive skin yarns. Since you’re allergic to wool and want something soft and machine-washable, I’d recommend looking for acrylic or cotton blends. In Finland, a lot of craft stores carry Novita 7 Veljestä, which is a popular acrylic yarn—it's soft, durable, and machine-washable. Another great option might be Drops Baby Merino, which is super soft and designed for babies, although it’s a wool blend, so you might want to test if it irritates your hands. Also, check out online shops like Lankamaailma or Knit Café in Helsinki; they often have a good selection of baby-friendly yarns. ... score: 0.99701
+
+llama-3-3-70b-instruct comment: As a fellow crafter from Finland, I'm more than happy to help you with yarn recommendations for baby blankets that are not only soft and gentle on the skin but also machine-washable, considering your allergy to wool and the need for ease of care. I've had great experiences with Novita's Nalle and Pirkka yarns, which are both made from soft, synthetic fibers that are perfect for baby items. Nalle, in particular, is a favorite among Finnish crafters for its softness, durability, and wide range of colors, making it ideal for creating beautiful, cozy blankets for little ones. Another option could be the yarns from the Finnish brand, Ullava, which offers a variety of blends including cotton and bamboo, known for their breathability and softness, which are essential for baby blankets. When shopping for yarn, ensure to check the care labels for machine washability, as some blends might require hand washing. Additionally, you might want to consider visiting some local craft stores in the capital region, such as those in Helsinki's design district, which often carry a selection of Finnish yarns suitable for baby crafts and can offer valuable advice on choosing the right yarn for your project. ... score: 0.99995
+
+mixtral-8x22B-instruct-v0.1 comment: I'm a Finnish knitter, and I recommend Novita's 7 Veljestä yarn. It's a blend of acrylic and polyester, so it's soft and machine washable. It's also widely available in Finland, and you can find it in big stores like Stockmann and Sokos. The best thing about this yarn is that it comes in a variety of colors, perfect for a baby blanket. Happy crocheting! ... score: 0.99131
+
+Qwen2.5-72B-Instruct comment: Looking for baby blanket yarn? I've found that Finnish yarn stores often carry a wide range of synthetic blends that are perfect for baby projects. One of my favorites is the Scheepjes Bamboo Soft. It's super soft, hypoallergenic, and machine washable, making it ideal for baby blankets. It also comes in a variety of pastel colors, which are perfect for baby gifts. Another great option is DROPS Snow. It’s a cotton blend that’s also very soft and easy to work with. Plus, it’s affordable and widely available in most Finnish yarn shops. If you're interested in something a bit more luxurious, you might want to try Katia Baby Merino. While it does contain some merino wool, the blend is so fine that it’s hardly noticeable and it’s incredibly gentle on the skin. I hope these suggestions help, and happy crocheting! ... score: 1.0
+
+
+================================================================================
+
+Post: Question for Boston sports folks: does anyone sincerely and unironically enjoy listening to 98.5 The Sports Hub?
+I’ve been thinking about this for a while now. I’ve given that station a try here and there, but every show and hosts I’ll hear is just plain hard to listen to - just bottom of the barrel kind of radio with major douchebag energy, jackass hosts with try-hard and cringey shows that are grating to the ears, real offputting je nais se quoi to their brand, and pretty embarrassing for New Englanders overall. 
+
+I understand ‘hate-listening’ and the whole hot takes industry which they definitely lean into get listeners, but I’m real curious and need to know if there are people out there that genuinely enjoy and prefer 98.5’s content? And why? 
+
+There has to be or else they would’ve folded to WEEI by now. The difference in quality, content, personalities etc there is crazy even with non-sports just bullshitting kind of stuff - they’re excellent. So I can’t figure out how someone would ever listen to Sports Hub. 
+
+
+
+Reddit author comment: I stopped listening to 98.5 mornings when Rich  left and it was clear that he was the creative force and he had all the funny and clever bits. Fred is just a self-aggrandizing narcissist who's so full of himself and creepy I can't even stand it. I do actually listen to felger and mazz  frequently and I do enjoy them. I understand why people don't like them because they are kind of contrarians for radio but I find it entertaining and they have reasonable takes and aren't afraid to criticize the home teams. They're very knowledgeable as well and often have Insider information. I think their football and hockey talk is the best though. Feel like baseball turn into Mazda 6 to 7:00 show but it doesn't get talked about much on the show. Their basketball talk is their weakest Forte and I usually don't listen to it for that reason but the rest of it I do enjoy.
+
+I don't know what your preferences are, but WEEI is garbage imo. Unlistenable. ... score: 0.99998
+
+claude-sonnet-4-0 comment: I'm gonna be honest, I actually do listen to 98.5 regularly and genuinely enjoy parts of it. Look, I get why people think some of the hosts come off as douchey - Felger and Mazz especially can be grating with their contrarian takes and the whole "everything sucks" attitude. But here's the thing: they're not wrong a lot of the time, and they actually do their homework. When they rip apart a Patriots game plan or call out the Celtics for lazy defense, they usually have the receipts. I think what people mistake for "douchebag energy" is just them not sugarcoating things for fans who want to hear that everything is awesome all the time. Toucher and Rich in the morning can be juvenile, sure, but they're also genuinely funny when they're on, and their chemistry is pretty solid. The midday shows are hit or miss, but I'd rather listen to hosts who aren't afraid to piss people off than the sanitized corporate radio you get elsewhere. WEEI has gotten better recently, but let's not pretend they haven't had their share of absolute disasters over the years. Sports Hub fills a niche for people who want Boston sports talk without the rose-colored glasses. ... score: 0.97713
+
+gpt4.1-instruct comment: I totally get where you’re coming from, but I’ll admit I actually do enjoy listening to 98.5, and not in an ironic or hate-listening way. I grew up with Boston sports radio in the background, and while the personalities at Sports Hub can be obnoxious, there’s something about the energy and the unapologetic Boston-ness that just feels familiar. I know the hot takes can get out of control and the banter can be annoying, but there’s also a sense of community—it’s like hanging out with a bunch of friends who are all way too passionate about the Sox or Pats. Plus, I find them a lot more entertaining than the more buttoned-up, “professional” vibe at WEEI. Sometimes I just want to hear people lose their minds over Mac Jones or the Celtics’ latest meltdown. It’s not high-brow, but it’s fun, and I think a lot of listeners feel the same way. ... score: 0.38932
+
+gpt4.1Mini-instruct comment: Honestly, I get where you’re coming from. 98.5 The Sports Hub can definitely come off as trying too hard at times, and some of the hosts have that obnoxious, loud energy that isn’t for everyone. It often feels like they lean way into hot takes and controversy just to keep ratings up, which can get exhausting if you’re looking for actual thoughtful sports talk. That said, I think a lot of people enjoy it because it’s very much a “sports bar” vibe — casual, loud, and opinionated, which can be fun during a long drive or when you want something energetic to listen to. Plus, they cover a wide range of Boston sports, and sometimes they break down news faster than other outlets. So, while it’s not high-brow content by any means, there’s definitely a niche that appreciates the style and the personalities, even if it’s not my go-to station. WEEI definitely feels more polished and maybe less grating, but 98.5 thrives on that raw, unfiltered energy that some fans find entertaining. ... score: 0.99985
+
+llama-3-3-70b-instruct comment: As a lifelong Boston sports fan, I've had the pleasure of listening to various sports radio stations over the years, and I must say that 98.5 The Sports Hub is indeed a unique beast. While I understand the criticism that the hosts can come across as try-hard or cringeworthy at times, I believe that's part of their charm. The hosts are unapologetically themselves, and their passion for Boston sports is infectious. I've grown accustomed to their style, and I find myself looking forward to their shows, especially during peak sports seasons. The "douchebag energy" that the original poster mentioned is, in my opinion, a facade - beneath the bravado, the hosts are knowledgeable and genuinely care about the teams they cover. I think what sets 98.5 apart is their willingness to take risks and push boundaries, which can be refreshing in an industry that often prioritizes bland, cookie-cutter content. So, to answer the question, I do sincerely enjoy listening to 98.5, and I think their loyal fan base is a testament to their success. ... score: 0.34514
+
+mixtral-8x22B-instruct-v0.1 comment: 2. I actually enjoy listening to 98.5 The Sports Hub. I think the hosts have a good chemistry and their takes are often entertaining. I also appreciate that they cover a wide range of sports, not just the big four. I understand that they might not be everyone's cup of tea, but for me, they are a fun listen. ... score: 0.71743
+
+Qwen2.5-72B-Instruct comment: I get what you're saying, but I think 98.5 The Sports Hub has its charm. I've been a listener for years, and while I agree some of the hosts can be a bit over the top, there's a certain energy and passion that comes through. They're not afraid to have strong opinions and engage in debates, which can be really entertaining. Plus, they cover all the Boston sports teams in-depth, which is great if you're a die-hard fan. I also appreciate the variety of shows and the fact that they have some really knowledgeable guests on. It's not for everyone, but I find it engaging and it keeps me connected to the sports scene. I think it's a matter of personal taste and what you're looking for in a sports radio station. ... score: 0.5814
+
+
+================================================================================
+
+Post: Is Naofumi trying to make everyone hate him and if so why? (The Rising of the Shield Hero)
+Hi all, I just finished episode 8 and in that episode Raphtalia asked if Naofumi was trying to make everyone hate him. I might've forgotten something but is that true and what would the point be or is he actually just kinda mean?
+
+Reddit author comment: I only read the webnovel, and the anime is based off of the light novels which almost completely diverge after book 2, but I'm pretty sure they're the same in season 1 so the answer I remember is 'No'. He's not trying to get people to hate him. He just doesn't care what people think about him because he assumes they already hate him or would otherwise treat him poorly/exploit him.
+
+But I read this like a decade ago, so I might not remember the nuances.
+
+Yeah Naofumi is kinda mean but it's a result of his immense ptsd/depression. Idk if they conveyed that clearly in the anime but in the webnovel it's pretty clear. iirc he can't even taste anymore ever since his trauma. ... score: 0.99996
+
+claude-sonnet-4-0 comment: Yeah, Naofumi is definitely putting up walls and pushing people away, but it's not because he's naturally mean - it's a trauma response from being falsely accused and betrayed so early on. Think about it: he was summoned to save the world, immediately framed for rape, stripped of his money and reputation, and abandoned by literally everyone except slave traders. That kind of betrayal would mess anyone up psychologically. He's adopted this cynical, abrasive persona as a defense mechanism because if he expects the worst from people and keeps them at arm's length, he can't be hurt again. It's easier to be the "bad guy" than to risk opening up and getting stabbed in the back again. Raphtalia sees through this facade because she's been with him long enough to witness his genuine kindness beneath the bitter exterior. He saved her, cared for her when she was sick, and protected her despite claiming he only sees her as a tool. The guy is clearly hurting and using meanness as armor. ... score: 0.99992
+
+gpt4.1-instruct comment: This is a great question and a pretty central theme to Naofumi’s character, especially in the early part of the show. It’s not that Naofumi is *trying* to make everyone hate him, but after being falsely accused and seeing how the kingdom immediately turned on him, he’s basically given up on trying to win people over. He adopts this “lone wolf” persona as a defense mechanism because he feels like he can’t trust anyone except Raphtalia. So, when he acts cold or indifferent, it’s more about protecting himself from further betrayal. It might look like he’s purposely pushing people away, but it’s really just a reaction to the trauma and injustice he’s faced. Over time, you’ll see that his attitude starts to change as he slowly rebuilds trust, mostly thanks to Raphtalia and others who genuinely care about him. ... score: 0.99997
+
+gpt4.1Mini-instruct comment: I don’t think Naofumi is actively trying to make everyone hate him, but given the circumstances he’s in, it kind of comes off that way sometimes. Remember, he was falsely accused and betrayed right at the start, so he’s naturally guarded and defensive. He’s not mean for the sake of being mean; it’s more like self-preservation and mistrust. He’s been forced into a corner where he can’t rely on others, so his bluntness and sometimes cold attitude are a way to protect himself from further harm. Raphtalia’s question might be more about how his behavior appears to others rather than his true intentions. Naofumi’s actions are shaped by trauma, and while he might not be the most socially graceful hero, he’s genuinely trying to survive and get stronger to protect those who trust him. So, no, he’s not trying to make everyone hate him—he just hasn’t had much of a chance to show his good side yet. ... score: 0.99969
+
+llama-3-3-70b-instruct comment: I think Naofumi is trying to make everyone hate him, at least to some extent. I believe he's doing this as a form of self-protection, given the betrayal and abuse he suffered at the hands of Malty and the rest of the nobles. It's like he's putting up walls around himself, making it difficult for others to get close, so he doesn't get hurt again. This behavior could also be a result of his past experiences, where being nice and trusting led to him being taken advantage of. By being perceived as mean or standoffish, Naofumi may be trying to deter people from getting too close, thus avoiding the risk of being betrayed or hurt once more. Moreover, his actions could be a cry for help, a desperate attempt to get someone to notice him and understand his pain, even if it's through negative attention. It's also possible that Naofumi is struggling with feelings of guilt and shame, stemming from the false accusations and his subsequent treatment, which could be contributing to his behavior. Overall, I think Naofumi's actions are complex and multifaceted, driven by a mix of self-protection, past trauma, and a deep-seated need for connection and understanding. ... score: 0.99984
+
+mixtral-8x22B-instruct-v0.1 comment: Hi there! I've been following "The Rising of the Shield Hero" closely, and I think Naofumi is a complex character. At first, it might seem like he's trying to make everyone hate him, but I believe it's more about him protecting himself after being betrayed. Naofumi's been through a lot, and his harsh behavior is a defensive mechanism. He doesn't want to open himself up to further hurt, so he pushes others away. It's not that he's mean, but rather, he's scared and trying to cope with his circumstances. ... score: 0.99995
+
+Qwen2.5-72B-Instruct comment: I'm really starting to see where Raphtalia is coming from. Naofumi's behavior is definitely pushing people away, and it seems like he's doing it on purpose. But I think it's more about his trauma and the way he's been treated. He's been through so much, from being betrayed by his party members to being accused of rape. It's like he's built up this wall to protect himself, and he's using it to keep everyone at a distance. Maybe he thinks if he pushes people away, he won't get hurt again. But I also feel like he's missing out on the support and friendship that could help him heal. It's a vicious cycle, and I hope he can break it before it's too late. ... score: 0.99999
+
+
+================================================================================
+
+Post: Rheem Econet always switches to Home mode
+I have an electric Rheem smart water heater. 
+The app is generally working in that I can change the temperature.   I can see how much hot water is available and watch it change after my teen daughter takes a long shower.
+
+My problem is that I can’t get it to stay in away or vacation modes.  
+
+I have turned off geofencing in settings. Then I go put the heater in away mode.  It switches fine - confirmed at the heater.  But then I open the app 5 minutes later and it’s back in Home mode.
+
+Whether we’re home or several states away, it does the same.
+
+Also tried using vacation scheduling. It just stays in Home / active mode.
+
+I tried to reset the heater and reinstall the app but that didn’t help.
+
+Ideas?
+
+Reddit author comment: I had nothing but trouble with Rheems EcoNet app and control. Finally got enough of the frustration and set up [ESPHome EcoNET](https://github.com/esphome-econet/esphome-econet) and never looked back. I actually have more information and greater control without needing the cloud. Here's a YouTube [video](https://youtu.be/4IVNuJEpytA?si=aLEwBpavrrgE9lPI) that provides some info. I spent less than 30 minutes setting everything up. There's a port on the side of the Rheem  control panel that looks like a phone jack that you connect to. Cost was super cheap. Maybe $25 for everything.
+
+https://preview.redd.it/n6876hplr4le1.jpeg?width=4080&format=pjpg&auto=webp&s=28ee68602c6dbe0073646a1fe7afb46a6f0cea6d
+
+Edited to add, this won't affect the electronics of the water heater, nor will it void any warranty. The phone type Jack is actually a service port that's active all the time. All you're doing is reading the information from that. I can still use the econet app but I no longer do. ... score: 0.99994
+
+claude-sonnet-4-0 comment: I had the exact same issue with my Rheem Econet system and it drove me absolutely crazy for months! The problem ended up being related to the WiFi connection stability, even though everything appeared to be working fine on the surface. What I discovered was that the water heater was experiencing brief WiFi disconnections that weren't obvious in the app, and when it reconnected, it would default back to Home mode as a safety feature. Here's what finally fixed it for me: First, check your router logs to see if there are any connection drops to the water heater. Second, try moving your router closer to the water heater temporarily or add a WiFi extender if the signal strength is weak. Third, and this was the key for me, I had to update the firmware on the water heater itself through the Econet app - there's usually an option buried in the settings menu. After the firmware update, the away and vacation modes started sticking properly. Also, make sure you're not accidentally triggering any other smart home automations that might be sending commands to the water heater. I had a SmartThings routine that was inadvertently switching it back to Home mode without me realizing it. ... score: 0.01564
+
+gpt4.1-instruct comment: I had a similar issue with my Rheem Econet water heater constantly reverting to Home mode, and it drove me nuts for a while. What finally worked for me was making sure *all* users in my household had geofencing and any related features fully disabled on their phones, not just mine. The app can be a little finicky if it thinks another device is still set to geofence or if there's a conflicting schedule somewhere, so double-check that. Also, if you have any smart home integrations like Alexa or Google Home, try unlinking them temporarily to rule out external triggers. If none of those help, it might be a firmware/server-side problem—Rheem support can sometimes push an update remotely if you contact them. Good luck, I know how annoying this bug is! ... score: 0.11745
+
+gpt4.1Mini-instruct comment: I had a similar issue with my Rheem Econet where it kept reverting to Home mode no matter what I tried. After digging around, I found out that the system prioritizes energy-saving or default settings over manual mode changes unless certain conditions are met. Since you turned off geofencing, the heater might be ignoring manual mode changes because it’s expecting location data to determine mode. One workaround that worked for me was to set a vacation schedule with specific start and end dates well in advance rather than toggling modes manually. Also, make sure your app and heater firmware are fully updated—sometimes these bugs get fixed in patches. If that still doesn’t work, Rheem’s customer support suggested checking if there’s a “mode lock” feature or some linked settings through their cloud service that override local changes. It’s frustrating, but hopefully, this helps! ... score: 0.00572
+
+llama-3-3-70b-instruct comment: I've experienced similar issues with my Rheem Econet, and I think it might be related to the geofencing feature, even though you've turned it off, there might be some residual settings that are causing the issue, have you tried resetting the geofencing settings to their default values, and then turning them off again, also, it might be helpful to check the Rheem Econet app for any updates, as sometimes these issues can be resolved with a simple software update, I'd also recommend reaching out to Rheem's customer support, they might be able to provide more specific guidance or troubleshooting steps tailored to your situation, it's also possible that there's an issue with the device itself, so it's worth exploring that possibility as well. ... score: 6e-05
+
+mixtral-8x22B-instruct-v0.1 comment: It sounds like you're having quite a bit of trouble with your Rheem Econet water heater. It's strange that it keeps switching back to Home mode even after turning off geofencing and manually setting it to Away or Vacation mode. I would recommend reaching out to Rheem's customer support for further assistance. They may be able to provide a more specific solution or even send a technician to inspect the unit. In the meantime, you can try setting the water heater to a lower temperature to save energy while you're away. ... score: 0.00341
+
+Qwen2.5-72B-Instruct comment: I had a similar issue with my Rheem Econet, and it turned out to be a problem with the geofencing feature, even though I had it turned off. I ended up contacting Rheem’s customer support, and they guided me through a more thorough troubleshooting process. They suggested resetting the geofencing settings completely and then re-setting them up from scratch. It’s a bit of a hassle, but it worked for me. Hope it helps you too! I also recommend checking the app’s settings to see if there are any hidden or advanced settings that might be causing the issue. Sometimes these can be overlooked but can make a big difference. Good luck! ... score: 0.00231
+
+
+================================================================================
+
+Post: 100 girlfreinds who really really really love you  is really really, Really AWESOME
+I started watching 100 girlfreinds and man this anime is something i had just watched 1 episode when it aired and i though this eems boring,but now i freaking love the refrences i am on ep 7 and Resident hazard: Kissage had me rooling on the floor i was like now i better see Rentaro punching some boulders . And in a previous episode Rentaro calls Karane God of War, man i would love to call my girfreind "Kratos" our converstions would be like - 
+
+Me: I am sorry babe 
+
+
+
+Her: Don't be Sorry, BE BETTER
+
+Reddit author comment: Here's the thing: 100 Girlfriends, by its premise alone, should *not* work. At all. And not just because the idea of having so many main characters is a completely absurd notion, but also because it is surprisingly hard for romcoms to remain both romantic and comedic for very long, least of all one that needs to introduce a new character every other episode.
+
+But somehow, against all the odds, this show struck gold and kept digging until it unearthed harem anime Shangri-La. Where a lesser show might have undercut all previous girlfriends with each new one that is introduced, 100 Girlfriends leverages those introductions as a way to shake up and add to existing character dynamics in a way that exponentially increases their unique appeal. Karane alone is one of the most amazing characters I've ever seen in an anime because the show is constantly demanding that she play against type as the archetypical tsundere who clearly still deeply loves every member of the Rentaro Family. And while 100 Girlfriends Season 1 blew me away when it was airing a year ago, Season 2 has somehow *surpassed* it in both hilarity and sincerity. I mean, the show is ridiculous, and it knows it most. So the fact that it can lean into it so hard with the constant fourth-wall breaks while still maintaining its genuine heart, I mean... it's incredible. ... score: 0.99986
+
+claude-sonnet-4-0 comment: Dude, you've barely scratched the surface! Episode 7 is just the beginning of the absolute chaos that is 100 Girlfriends. The Resident Evil parody had me dying too, especially when they committed so hard to the bit with the zombie makeup and everything. But wait until you get to some of the later episodes - there's a Dragon Ball reference that goes so hard I had to pause and rewind it three times. The way this show just throws every pop culture reference at the wall and somehow makes it all work is incredible. And don't even get me started on how they manage to give each girlfriend a distinct personality despite having SO many characters. The Kratos girlfriend dynamic you described is hilarious btw - imagine the workout motivation you'd get from that relationship! "Why did you skip leg day?" "DON'T BE SORRY, BE BETTER!" This anime is criminally underrated and I'm so glad more people are discovering it. ... score: 0.54941
+
+gpt4.1-instruct comment: Dude, I totally get where you're coming from! "100 Girlfriends Who Really, Really, Really, Really, REALLY Love You" is such a wild ride. I also started it thinking it would just be another generic harem, but honestly, the humor and references are next level. The Resident Evil parody in episode 7 had me cackling. The attention to detail with all the gaming and anime nods makes every episode feel fresh. And Rentaro is actually a super lovable MC, which is rare in these shows. Also, your Kratos joke is gold—I might have to try that out with my partner, haha! Can't wait to see how they keep upping the absurdity. ... score: 0.89551
+
+gpt4.1Mini-instruct comment: Honestly, I feel the same way! "100 Girlfriends Who Really, Really, Really Love You" started off kind of goofy, but once you get into those references and the absurd humor, it becomes a total blast. The way Rentaro interacts with each girlfriend is hilarious, and the Resident Hazard moments are pure gold. I love how the show balances the chaotic harem antics with genuine moments, like when Rentaro gets called the "God of War"—it’s such a fun mix of over-the-top and heartfelt. Calling your girlfriend "Kratos" sounds epic, and that dialogue you imagined is perfect! Definitely sticking with this one. ... score: 0.98177
+
+llama-3-3-70b-instruct comment: I've been following the anime community for a while now, and I must say that "100 Girlfriends Who Really Really Really Love You" has taken the scene by storm, and for good reason. The show's unique blend of humor, action, and heartwarming moments has captured the attention of many viewers. The references to other anime and video games, such as Resident Evil and God of War, are a nice touch and add to the show's charm. I'm glad to see that you're enjoying the series, and I must say that the quote "Don't be Sorry, BE BETTER" is a great line. It's a testament to the show's ability to balance humor and seriousness, making it a must-watch for anyone who enjoys a good anime. The character development is also noteworthy, as we see the main characters grow and learn from their experiences. Overall, I think "100 Girlfriends Who Really Really Really Love You" is a fantastic anime that is sure to leave viewers laughing, crying, and eagerly anticipating the next episode. ... score: 0.94499
+
+mixtral-8x22B-instruct-v0.1 comment: Oh man, I'm right there with you! I also started watching 100 Girlfriends Who Really, Really, Really, Really, Really Love You and I couldn't get enough. The references are just hilarious, especially in episode 7 with the Resident Hazard: Kissage. I was laughing so hard that my sides hurt! And you're right, Rentaro calling Karane "God of War" was such a perfect moment. I'd love to call my girlfriend "Kratos" too, but I don't think she'd appreciate it as much as I do haha. Keep watching, buddy! ... score: 0.99977
+
+Qwen2.5-72B-Instruct comment: I can't believe I'm saying this, but you've got me intrigued! I initially thought 100 Girlfriends would be just another harem anime, but it seems like it’s got a lot more depth and humor than I expected. The references to other media, like God of War, really add a fun layer to the show. I’ve been a Kratos fan for a long time, and the idea of calling someone "God of War" is pretty cool. I think I’ll give it a shot too. Your conversation idea is hilarious, and I can totally see that working in real life. Thanks for the recommendation, I'll definitely check it out! ... score: 0.67319
+
+
+================================================================================
+
+Post: I highly enjoyed Antichrist by Lars Von Trier
+There’s something about this movie that I loved. It’s disturbing as fuck, but I do like those types of movies to be honest. There’s a certain feeling to it which others that fall into the same narrative line or genre don’t have. I read about the story behind the film as well as Von Trier’s depression and it was deep imo. 
+
+The acting was gorgeous. I felt every scene of that thing, especially the ending. I remember going to bed that night and having weird dreams about it. Idk I feel like watching it was an experience that reached the deepest areas of my soul lol. 
+
+But in all seriousness I read that this movie got mixed reviews from both critics and the audience. Why? What are your thoughts on the film? 
+
+Reddit author comment: I mean, *you've seen* the movie, so I'm sure you can figure that out. 
+
+A vast majority of people are going to be repulsed by the events in the film. They see it as shock for shock's sake. A soldier getting disemboweled on a battlefield has justification - they were fighting for the common good and died a hero, right? But some sado masochistic weirdo circumcising themselves under a full moon? There can't conceivably be intelligence and deep thought behind that violent action. 
+
+Von Trier is simply not everyone's cup of tea, nor will he ever be. He's a deeply screwed up guy who makes deeply screwed up films.
+
+That said, he is also - in my opinion - one of the most gifted filmmakers of the past 25 years, and one of the purest artists in the industry. 
+
+Uncompromising art will always have its detractors, because uncompromising artists make people uncomfortable. It doesn't matter if that's visual art, music, film, etc. ... score: 0.99926
+
+claude-sonnet-4-0 comment: I totally get why you connected with Antichrist on such a deep level. Von Trier has this incredible ability to tap into primal fears and psychological depths that most filmmakers wouldn't dare touch. The mixed reviews probably stem from the fact that it's genuinely not a film for everyone - it requires a certain openness to extreme psychological horror and symbolic storytelling. A lot of critics and audiences were put off by the graphic violence and sexual content, dismissing it as shock value without recognizing the deeper exploration of grief, guilt, and human nature beneath. The performances by Willem Dafoe and Charlotte Gainsbourg are absolutely fearless and raw. What I think people miss is that Von Trier wasn't making these choices arbitrarily - every disturbing element serves the larger themes about how trauma can warp our perception of reality and relationships. The film operates more like a nightmare logic than traditional narrative structure, which can be alienating for viewers expecting conventional storytelling. But when you surrender to its rhythm and symbolism, it becomes this haunting meditation on loss and the darker aspects of human psychology that stays with you long after viewing. ... score: 7e-05
+
+gpt4.1-instruct comment: I completely relate to your experience with Antichrist. It’s definitely not a film you can just casually watch and forget about; it sticks with you in a way that few movies do. I think the reason it received such mixed reviews is because it’s incredibly polarizing—people either connect to its raw emotional intensity and surreal imagery, or they’re put off by the graphic violence and disturbing themes. Von Trier’s exploration of grief, guilt, and human nature is uncomfortable, but I think that’s the point. The cinematography is beautiful but unsettling, and the performances are so raw it almost feels invasive at times. Not everyone wants to confront that kind of darkness, especially in such a visceral way. For those who do, though, it can be cathartic and thought-provoking. Personally, I appreciate films that challenge me emotionally and intellectually, and Antichrist does both. ... score: 0.06659
+
+gpt4.1Mini-instruct comment: I totally get where you’re coming from. *Antichrist* is one of those films that really sticks with you, not just because of its graphic content, but because it dives so deeply into human psychology and grief. Lars Von Trier doesn’t hold back, and that rawness can be incredibly unsettling but also oddly beautiful in a twisted way. The way Charlotte Gainsbourg and Willem Dafoe perform is hauntingly authentic—it’s like you’re witnessing real pain unfold. I think the mixed reviews come from how polarizing the film is; some see it as pretentious or simply too disturbing, while others appreciate its artistic bravery and emotional depth. It’s definitely not a movie for everyone, but for those who connect with it, it’s an unforgettable experience. ... score: 0.00069
+
+llama-3-3-70b-instruct comment: I'm not surprised you enjoyed Antichrist, given its unique blend of psychological horror and existential themes, which often resonate with viewers who appreciate complex, thought-provoking cinema. The film's use of vivid imagery and unsettling atmosphere certainly contributes to its ability to evoke strong emotions and linger in the viewer's mind long after the credits roll. I think the mixed reviews can be attributed to the film's unapologetic and unflinching portrayal of dark subject matter, which may have been off-putting to some viewers. Additionally, the film's slow-burning pace and lack of traditional narrative structure may have also been a turn-off for those expecting a more conventional horror movie experience. ... score: 0.4277
+
+mixtral-8x22B-instruct-v0.1 comment: 1. I completely agree with you! Antichrist is a masterpiece of psychological horror. The way Lars Von Trier explores themes of grief, guilt, and mental illness is both haunting and thought-provoking. The performances by Willem Dafoe and Charlotte Gainsbourg are incredible. I also found the ending to be particularly powerful and unforgettable. I think the mixed reviews are due to the film's controversial and graphic content, which can be difficult for some viewers to watch. But if you can stomach it, I highly recommend giving it a watch. ... score: 0.00014
+
+Qwen2.5-72B-Instruct comment: I completely understand why this film got mixed reviews. It's not a movie for everyone, but I appreciate its raw and unflinching approach to some of the darkest aspects of the human psyche. The cinematography is stunning, and the use of nature to represent the inner turmoil of the characters is incredibly effective. I think what makes "Antichrist" so powerful is its willingness to explore the depths of despair and the breakdown of a relationship in such an intense and visceral way. The acting, particularly by Willem Dafoe and Charlotte Gainsbourg, is absolutely mesmerizing. Their performances are so raw and authentic that it's almost painful to watch at times. I can see why some people would find it too much, but for me, it's a testament to the power of cinema to evoke such strong emotions and provoke deep thought. It's not just a movie; it's a profound and unsettling experience that stays with you long after the credits roll. I agree with you that it feels like it touches something deep within, and that's what makes it so impactful. Despite the mixed reviews, I believe it's a masterpiece that challenges the viewer to confront their own fears and insecurities. 🌙🎥 ... score: 0.00061
+
+
+================================================================================
+
+Post: [DISCUSSION] Bipolar in famous poetry
+So this is a topic I've been curious about for quite a while, and surprisingly there isn't that much on Google about it.
+
+A symptom of bipolar disorder is having "delusions of grandeur", which Psych Central describes as "fixed, false belief that one possesses superior qualities such as genius, fame, omnipotence, or wealth". I was recently diagnosed  and came to the realization that my delusions are centered around art, specifically poetry.
+
+Not out of self indulgence, I was curious about how bipolar played a role in the lives and works of famous poets who were diagnosed. As in, did their "delusions" (outdated word) revolve around the success of their poetry? Were they aware of it and how did they address their illness in their works? In specific cases, was there a noticeable shift in their writings after going on medication? Also, were there any poets who were bipolar or of a similar diagnosis, but was never prevalent in their poetry? 
+
+Because as far as I am aware, it is most prevalent in confessional poetry. Anne Sexton is a prime example, with their most famous works being about depression and suicide. I always recall one of the last poems she wrote and published posthumously, where she discusses "escaping Dr. Death", but then committing suicide months later. There isn't much talk about the "delusions" she experienced, or the drive she had to live. Robert Lowell is another notable example, with him being one of the earliest confessional poets and it being a discussion point, but was wondering who else and if they had any idealization of writing groundbreaking poetry.
+
+Thank you!
+
+Reddit author comment: You can read Touched with fire by Dr Kay Redfield Jamison about bipolar and creativity she goes through many artists and poets.There is also a film Touched with fire about two bipolar poets.Mania was considered divine in Ancient Greece,and there is a whole book on Amazon on divine mania in Ancient Greece.In ancient times it was considered possession by the gods,so I’m not surprised we have delusions of grandeur,even in Korean shamanism it’s considered possession by the gods called your momju shin.Madness and divine poetry were very closely linked in the ancient world.
+
+Psychiatry on the other hand operates purely from an atheist worldview that denies all spiritual experience.
+
+Also Lord Byron had a lot of grandeur, he’s featured in Jamison’s book he wrote ’We of the craft are all crazy. Some are affected by gaiety, others by melancholy , but all are more or less touched.'
+
+&#x200B; ... score: 0.99857
+
+claude-sonnet-4-0 comment: This is such a fascinating topic and I'm glad you brought it up! As someone who's also dealt with bipolar disorder, I've found myself drawn to poets like Sylvia Plath and Theodore Roethke for similar reasons. What's interesting about your question regarding delusions of grandeur is that sometimes those "delusions" weren't entirely unfounded - many of these poets did achieve lasting fame and recognition, which creates this weird paradox. Take Robert Lowell, for instance. His manic episodes often coincided with periods of intense creativity and grandiose beliefs about his literary importance, but he genuinely was one of the most significant American poets of the 20th century. I think there's also something to be said about how the intensity of bipolar experiences - both manic and depressive - provides rich material for poetry. The heightened emotions, the extreme shifts in perception, the way reality can feel malleable during episodes - all of that translates into powerful verse. Regarding medication effects, I know Lowell struggled with this exact issue, often going off his meds because he feared they would dull his creative edge. It's a common dilemma for artists with bipolar disorder. ... score: 0.01081
+
+gpt4.1-instruct comment: This is such a fascinating topic! I think you’re absolutely right that bipolar disorder, particularly the grandiosity aspect, doesn’t get as much attention in discussions of poetry as depression and suicidality do. Anne Sexton and Robert Lowell are definitely the most cited, but there are other poets where hints appear. For example, Sylvia Plath’s work often gets analyzed through the lens of depression, but some scholars have suggested her periods of intense productivity and the almost mythic self-portrayal in poems like “Lady Lazarus” could reflect manic or hypomanic states. Same with Delmore Schwartz and John Berryman, although again it’s rarely framed as “delusions of grandeur” but more as existential drama or artistic ambition. The problem is that a lot of the language around these experiences is pathologizing, so poets themselves might not have written openly about “delusions,” but rather couched their feelings in metaphors of flight, power, or visionary insight. It would be really interesting to map out shifts pre- and post-medication, though I suspect a lot of poets (especially from earlier generations) never got effective treatment. Would love to hear if anyone has more contemporary examples! ... score: 0.99856
+
+gpt4.1Mini-instruct comment: This is such an insightful topic! Bipolar disorder has a complex relationship with creativity, and poetry seems to be one of the most intimate expressions of that. You're right that confessional poets like Anne Sexton and Robert Lowell are often cited because their work directly grapples with mental illness, but the connection between bipolar symptoms—especially those grandiose or euphoric states—and poetic ambition or style is fascinating and less discussed. For example, Sylvia Plath, although not officially diagnosed with bipolar, exhibited mood swings that influenced her intense, vivid imagery. Her bursts of creative energy often coincided with manic-like episodes. As for delusions of grandeur, I think many poets have a natural tendency toward idealizing their art, but in bipolar cases, this could be amplified, leading to both incredible productivity and destructive behaviors. It’s also interesting how medication can sometimes blunt that creative drive, which some poets have lamented, adding another layer of complexity to their relationship with their illness. I'd love to see more research or personal accounts on how poets feel their diagnosis has shaped not only their themes but their actual writing process. ... score: 0.98776
+
+llama-3-3-70b-instruct comment: I'm intrigued by your question about the relationship between bipolar disorder and the work of famous poets, particularly in regards to the theme of "delusions of grandeur" and how it manifests in their writing. The concept of delusions of grandeur is indeed complex and multifaceted, and it's interesting to consider how it might influence an artist's perception of their own work and abilities. In the case of confessional poets like Anne Sexton and Robert Lowell, it's possible that their experiences with bipolar disorder informed their writing in profound ways, perhaps even driving their creative output and shaping the themes and tone of their poetry. I'd love to explore this topic further and examine how other poets, such as Sylvia Plath or Ted Hughes, may have navigated the intersection of mental health and artistic expression in their own work. By examining the ways in which bipolar disorder influenced the lives and writing of these poets, we may gain a deeper understanding of the complex and often fraught relationship between creativity and mental health. ... score: 0.98778
+
+mixtral-8x22B-instruct-v0.1 comment: 1. Comment: This is such an interesting topic! I've always been fascinated by the intersection of mental health and creativity. I think you're right that there isn't enough discussion about this. I'm not aware of any specific studies, but I do recall Sylvia Plath being another poet who was open about her struggles with mental health. It would be interesting to see if there was a noticeable shift in her work after she started treatment. ... score: 0.99855
+
+Qwen2.5-72B-Instruct comment: I'm really glad you brought this up. It's a fascinating intersection of mental health and art. I think Sylvia Plath is a great example to explore in this context. Her work is deeply confessional and often touches on themes of depression and suicide, much like Anne Sexton. However, Plath's delusions of grandeur might be less explicit but still present in her relentless pursuit of perfection in her poetry. Her journals and letters show a deep belief in her own genius and the potential for her work to be revolutionary. It's interesting to note how her writing evolved over time, especially as her mental health fluctuated. After she started medication, there was a noticeable shift in her tone and style, but her drive to write and create remained constant. I think Plath's case highlights the complex relationship between bipolar disorder and artistic expression, where the illness both fuels and challenges the creative process. It's a delicate balance, and her work continues to resonate with many who struggle with similar issues. What do you think about Plath's journey and how it compares to other poets you mentioned? I'd love to hear more of your thoughts on this. 🌟 ... score: 0.99969
+
+
+================================================================================
+
+Post: [Discussion]: Let's talk about this translations from Russian (modern poet, Olga Popova, translated by Alina Dezent)
+May I ask you if these translations sound good for English speaking audience. Thanks!
+
+\*\*\*\*\*
+
+The air vibrates from the chirping of cicadas,
+
+See how polished are their fiddles!
+
+They paganini, and scrub, and shriek,
+
+In the hazy heat, in hazy times.
+
+&#x200B;
+
+They rub their wings off the Parca’s thread,
+
+How they bash out that tune, wild creatures,
+
+The thread can be easily thinned to the end
+
+Once the musicians are in their element.
+
+\*\*\*
+
+here it is, the green-streamed Aegean Sea
+
+most beautiful by the visage and color,
+
+its wild waves beat the rocks with severe blasts,
+
+its streams caress the beach with a warm wave.
+
+&#x200B;
+
+but to play with you, oh sea, is risky,
+
+salty is your brine and it burns like tears,
+
+breaks the flesh and silvers my braids,
+
+swings me on its waves and beckons farther and farther.
+
+&#x200B;
+
+Why is it, oh sea, that I don’t understand you?
+
+I see your waves splashing by the board of the trireme,
+
+I hear your captivating voice - the wind in my ears,
+
+closer is your fierce eye, your beastly roar.
+
+&#x200B;
+
+wine-colored, you swing in a tight embrace
+
+you intoxicate and burn, caress and ruin.
+
+horns on your head, waves full of wailing.
+
+the raving maidens stomp as they dance, their lips in blood and foam.
+
+Reddit author comment: The second to me has something of the crash of the waves against the shore.  I wasn't keen on the format on the first reading but on the second it speaks to me more and I hear it.  I like it, the ebb and flow of it.
+
+For the first one I found myself caught on the capitalization of parka...  Couldn't see why it was done, tried to find a meaning but failed, and that made it hard for me to catch the tone back up.  Is there a reason for the capitalization?  I kind of like the word paganini there, it works for me...  Although it startled me, rather than evokes.  I'm not as familiar with music as I should be, and it brings out what I think that should be rather than what I know, since I can't call to mind any tune. ... score: 0.99853
+
+claude-sonnet-4-0 comment: These translations have some beautiful moments but feel inconsistent in their execution. The first poem about cicadas has an intriguing concept - comparing the insects to musicians playing until they literally wear themselves out against fate's thread (the Parca reference). However, there are some awkward phrasings that disrupt the flow for English readers. "They paganini" as a verb is creative but jarring, and "How they bash out that tune" feels too colloquial compared to the more elevated tone elsewhere. The second poem about the Aegean Sea is much stronger overall. The imagery is vivid and the personification of the sea as both seductive and dangerous works well. Lines like "salty is your brine and it burns like tears" and "wine-colored, you swing in a tight embrace" are genuinely beautiful. The progression from attraction to fear to intoxication feels natural. My main critique would be some minor word choices - "visage" feels slightly archaic, and "by the board of the trireme" could be clearer. The translator has captured what seems to be the original's blend of classical imagery with modern sensibility, but the English could be polished to flow more naturally while preserving the poetic intensity. ... score: 0.91832
+
+gpt4.1-instruct comment: I think these translations do a pretty good job of conveying vivid imagery and emotional undertones, but they do feel a bit "foreign" to an English ear—not in a bad way, but in a way that makes you aware it’s translated. For example, lines like "They paganini, and scrub, and shriek," stand out because "Paganini" as a verb is unusual. I get what it’s trying to say (the cicadas play their fiddles with virtuosity), but it feels a little forced. The mythological and nature imagery is strong and evocative, and I like the references to the Parca’s thread and the Aegean Sea. Some lines are beautifully translated, like "the thread can be easily thinned to the end," which is quite poetic. However, some phrases could be polished for smoother English flow, e.g., "the board of the trireme" might read better as "the side of the trireme." Overall, the feeling comes through, but a few tweaks could make the language more natural for English readers while keeping the original’s spirit. ... score: 0.97137
+
+gpt4.1Mini-instruct comment: I think these translations capture a vivid and intense atmosphere, which is really important for poetry like Olga Popova’s. The imagery of cicadas as Paganini-like musicians is quite striking and original, and it translates well into English. However, some phrases feel a bit awkward or overly literal, like “rub their wings off the Parca’s thread” — it might confuse readers unfamiliar with the Parca myth. Also, certain lines could benefit from smoother rhythm or more natural phrasing to flow better in English. Overall, the passion and wildness of the original come through, but a bit more polish could make it resonate even more with English speakers. ... score: 0.99999
+
+llama-3-3-70b-instruct comment: As an English speaker, I found the translation to be quite lyrical and evocative, but there were a few moments where the language felt slightly awkward or overly literal - for example, the phrase "in hazy times" could potentially be rephrased to something like "in a haze of nostalgia" to better capture the poetic essence of the original Russian text, and the use of "Parca's thread" is a bit unclear, as the reference to the Parca may not be immediately familiar to all readers, so it might be helpful to include a footnote or brief explanation to provide context for those who may not be well-versed in mythology, and I also appreciate the way the translator has maintained the musical quality of the original, with phrases like "They paganini, and scrub, and shriek" that have a lively, expressive feel to them, but some of the metaphors, such as the comparison of the sea to a lover, while beautiful, may feel a bit overused or clichéd to some readers, so it's worth considering whether there are other ways to convey the same emotions and ideas in a fresh and unexpected way. ... score: 0.99749
+
+mixtral-8x22B-instruct-v0.1 comment: 1. I think the translations are quite captivating! The language used is vivid and evocative, creating strong imagery in the reader's mind. The use of metaphors and similes, such as "the chirping of cicadas" being likened to "paganini," and the sea being described as "wine-colored," adds depth and richness to the poems. However, some phrases may be a bit too literal or not entirely idiomatic in English, such as "the thread can be easily thinned to the end," which might sound a bit awkward to an English-speaking audience. Overall, though, I think these translations do a good job of conveying the beauty and emotion of the original Russian poems. ... score: 0.98123
+
+Qwen2.5-72B-Instruct comment: I absolutely love the vivid imagery and the musicality of these translations! The use of words like "paganini" and "bash" in the first stanza really captures the wild and almost chaotic energy of the cicadas. The alliteration in "polished are their fiddles" is a nice touch that adds to the rhythm. The second poem is equally captivating, especially the way it personifies the sea. The contrast between the sea's beauty and its dangerous, almost beastly nature is beautifully conveyed. The line "wine-colored, you swing in a tight embrace" is particularly evocative. I feel like I'm right there, experiencing the sea's fierce embrace. Overall, these translations are a great introduction to Olga Popova's work for an English-speaking audience. ... score: 0.99992
+
+
+================================================================================
+
+Post: Performance Benchmarks for ASGI Frameworks
+# Performance Benchmark Report: MicroPie vs. FastAPI vs. Starlette vs. Quart vs. LiteStar
+
+# 1. Introduction
+
+This report presents a detailed performance comparison between four Python ASGI frameworks: **MicroPie, FastAPI, LiteStar, Starlette, and Quart**. The benchmarks were conducted to evaluate their ability to handle high concurrency under different workloads. Full disclosure I am the author of MicroPie, I tried not to show any bias for these tests and encourage you to run them yourself!
+
+**Tested Frameworks:**
+
+* [MicroPie](https://patx.github.io/micropie) \- "an ultra-micro ASGI Python web framework that gets out of your way"
+* [FastAPI](https://fastapi.tiangolo.com/) \- "a modern, fast (high-performance), web framework for building APIs"
+* [Starlette](https://www.starlette.io/) \- "a lightweight ASGI framework/toolkit, which is ideal for building async web services in Python"
+* [Quart](https://quart.palletsprojects.com/) \- "an asyncio reimplementation of the popular Flask microframework API"
+* [LiteStar](https://litestar.dev/) \- "Effortlessly build performant APIs"
+
+**Tested Scenarios:**
+
+* `/` **(Basic JSON Response)** Measures baseline request handling performance.
+* `/compute` **(CPU-heavy Workload):** Simulates computational load.
+* `/delayed` **(I/O-bound Workload):** Simulates async tasks with an artificial delay.
+
+**Test Environment:**
+
+* **CPU:** Star Labs StarLite Mk IV
+* **Server:** Uvicorn (4 workers)
+* **Benchmark Tool:** `wrk`
+* **Test Duration:** 30 seconds per endpoint
+* **Connections:** 1000 concurrent connections
+* **Threads:** 4
+
+# 2. Benchmark Results
+
+# Overall Performance Summary
+
+|**Framework**|`/` **Requests/sec**|**Latency (ms)**|**Transfer/sec**|`/compute` **Requests/sec**|**Latency (ms)**|**Transfer/sec**|`/delayed` **Requests/sec**|**Latency (ms)**|**Transfer/sec**|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|**Quart**|**1,790.77**|**550.98ms**|**824.01 KB**|**1,087.58**|**900.84ms**|**157.35 KB**|**1,745.00**|**563.26ms**|**262.82 KB**|
+|**FastAPI**|**2,398.27**|**411.76ms**|**1.08 MB**|**1,125.05**|**872.02ms**|**162.76 KB**|**2,017.15**|**488.75ms**|**303.78 KB**|
+|**MicroPie**|**2,583.53**|**383.03ms**|**1.21 MB**|**1,172.31**|**834.71ms**|**191.35 KB**|**2,427.21**|**407.63ms**|**410.36 KB**|
+|**Starlette**|**2,876.03**|**344.06ms**|**1.29 MB**|**1,150.61**|**854.00ms**|**166.49 KB**|**2,575.46**|**383.92ms**|**387.81 KB**|
+|**Litestar**|**2,079.03**|**477.54ms**|**308.72 KB**|**1,037.39**|**922.52ms**|**150.01 KB**|**1,718.00**|**581.45ms**|**258.73 KB**|
+
+# Key Observations
+
+1. **Starlette is the best performer overall** – fastest across all tests, particularly excelling at async workloads.
+2. **MicroPie closely follows Starlette** – strong in CPU and async performance, making it a great lightweight alternative.
+3. **FastAPI slows under computational load** – performance is affected by validation overhead.
+4. **Quart is the slowest** – highest latency and lowest requests/sec across all scenarios.
+5. **Litestar falls behind in overall performance** – showing higher latency and lower throughput compared to MicroPie and Starlette.
+6. **Litestar is not well-optimized for high concurrency** – slowing in both compute-heavy and async tasks compared to other ASGI frameworks.
+
+# 3. Test Methodology
+
+# Framework Code Implementations
+
+# MicroPie (micro.py)
+
+    import orjson, asyncio
+    from MicroPie import Server
+    
+    class Root(Server):
+        async def index(self):
+            return 200, orjson.dumps({"message": "Hello, World!"}), [("Content-Type", "application/json")]
+    
+        async def compute(self):
+            return 200, orjson.dumps({"result": sum(i * i for i in range(10000))}), [("Content-Type", "application/json")]
+    
+        async def delayed(self):
+            await asyncio.sleep(0.01)
+            return 200, orjson.dumps({"status": "delayed response"}), [("Content-Type", "application/json")]
+    
+    app = Root()
+
+# LiteStar (lites.py)
+
+    from litestar import Litestar, get
+    import asyncio
+    import orjson
+    from litestar.response import Response
+    
+    u/get("/")
+    async def index() -> Response:
+        return Response(content=orjson.dumps({"message": "Hello, World!"}), media_type="application/json")
+    
+    u/get("/compute")
+    async def compute() -> Response:
+        return Response(content=orjson.dumps({"result": sum(i * i for i in range(10000))}), media_type="application/json")
+    
+    @get("/delayed")
+    async def delayed() -> Response:
+        await asyncio.sleep(0.01)
+        return Response(content=orjson.dumps({"status": "delayed response"}), media_type="application/json")
+    
+    app = Litestar(route_handlers=[index, compute, delayed])
+
+# FastAPI (fast.py)
+
+    from fastapi import FastAPI
+    from fastapi.responses import ORJSONResponse
+    import asyncio
+    
+    app = FastAPI()
+    
+    @app.get("/", response_class=ORJSONResponse)
+    async def index():
+        return {"message": "Hello, World!"}
+    
+    @app.get("/compute", response_class=ORJSONResponse)
+    async def compute():
+        return {"result": sum(i * i for i in range(10000))}
+    
+    @app.get("/delayed", response_class=ORJSONResponse)
+    async def delayed():
+        await asyncio.sleep(0.01)
+        return {"status": "delayed response"}
+
+# Starlette (star.py)
+
+    from starlette.applications import Starlette
+    from starlette.responses import Response
+    from starlette.routing import Route
+    import orjson, asyncio
+    
+    async def index(request):
+        return Response(orjson.dumps({"message": "Hello, World!"}), media_type="application/json")
+    
+    async def compute(request):
+        return Response(orjson.dumps({"result": sum(i * i for i in range(10000))}), media_type="application/json")
+    
+    async def delayed(request):
+        await asyncio.sleep(0.01)
+        return Response(orjson.dumps({"status": "delayed response"}), media_type="application/json")
+    
+    app = Starlette(routes=[Route("/", index), Route("/compute", compute), Route("/delayed", delayed)])
+
+# Quart (qurt.py)
+
+    from quart import Quart, Response
+    import orjson, asyncio
+    
+    app = Quart(__name__)
+    
+    @app.route("/")
+    async def index():
+        return Response(orjson.dumps({"message": "Hello, World!"}), content_type="application/json")
+    
+    @app.route("/compute")
+    async def compute():
+        return Response(orjson.dumps({"result": sum(i * i for i in range(10000))}), content_type="application/json")
+    
+    @app.route("/delayed")
+    async def delayed():
+        await asyncio.sleep(0.01)
+        return Response(orjson.dumps({"status": "delayed response"}), content_type="application/json")
+
+# Benchmarking
+
+    wrk -t4 -c1000 -d30s http://127.0.0.1:8000/
+    wrk -t4 -c1000 -d30s http://127.0.0.1:8000/compute
+    wrk -t4 -c1000 -d30s http://127.0.0.1:8000/delayed
+
+# 3. Conclusion
+
+* **Starlette is the best choice for high-performance applications.**
+* **MicroPie offers near-identical performance with simpler architecture.**
+* **FastAPI is great for API development but suffers from validation overhead.**
+* **Quart is not ideal for high-concurrency workloads.**
+* **Litestar has room for improvement** – its higher latency and lower request rates suggest it may not be the best choice for highly concurrent applications.
+
+Reddit author comment: I'm looking at MicroPies source code and I'm confused. ASGI apps are called (not instanciated!) once for each request, but in MicroPie the ASGI app is an instance of `MicroPie.Server` and stores request details (e.g. query parameters, cookies, headers, file uploads ect.) to instance variables. Which means that there can only be one request at a time or state will be mixed up. If a second request arrives while the first one is still in progress, the second request will overwrite all the state from the first request. The code handling the first request will suddenly see the second requests state and likely crash or return wrong data. In other words: **As soon as more than just one user is involved, stuff will break.**
+
+This is a *so* fundamental flaw that I think MicroPie should not be concerned with performance just yet, but instead focus on actually implementing the protocol correctly. ... score: 0.9978
+
+claude-sonnet-4-0 comment: Great benchmark! I appreciate the transparency about you being the MicroPie author - that kind of disclosure is exactly what we need more of in framework comparisons. The methodology looks solid, though I'm curious about a few things. First, the 10ms delay in the `/delayed` endpoint seems quite high for simulating I/O - most database queries or cache hits are sub-millisecond. Have you considered testing with shorter delays like 1-2ms? Also, while Starlette coming out on top makes sense (it's the foundation FastAPI builds on), I'm surprised by how much FastAPI's validation overhead impacts performance even in these simple cases where there's no actual validation happening. The ORJSONResponse should bypass most of Pydantic's serialization. One thing that would make this even more valuable is memory usage comparisons - throughput is great, but if one framework uses 2x the RAM, that's a significant consideration for deployment costs. Have you done any profiling on memory consumption during these tests? ... score: 0.99475
+
+gpt4.1-instruct comment: Really appreciate the transparency here, especially as the MicroPie author! These kinds of side-by-side benchmarks are super valuable for folks trying to pick an ASGI framework, especially when so many tout "performance" as a core feature. What stands out to me is just how well Starlette continues to hold up, even with newer frameworks in the mix. I used to think FastAPI would always be the default for new projects, but seeing its performance dip on compute-heavy tasks because of validation is eye-opening. That said, the fact that MicroPie is right up there with Starlette—and sometimes even ahead of FastAPI—makes it super compelling for people who want simplicity and speed. I’d be curious to see how these results change with more complex routing, middleware, or under different Python versions. Also, how much of the performance gap do you think comes down to just raw framework overhead vs. things like serialization and response handling? ... score: 0.99974
+
+gpt4.1Mini-instruct comment: This is a super thorough benchmark, thanks for sharing! It’s interesting to see Starlette coming out on top, especially since it’s often recommended as a lightweight, flexible ASGI toolkit rather than a full-fledged framework. I think the simplicity of Starlette’s design really shines when it comes to raw performance, as the results highlight. Also, MicroPie’s close performance is impressive given its ultra-micro design philosophy — it seems like a great pick for those wanting minimalism without sacrificing speed. I was a bit surprised by FastAPI’s dip on the compute-heavy endpoint, but it makes sense given the validation overhead you mentioned. I wonder how much of that could be optimized by tweaking Pydantic settings or using lighter validation. The Quart results don’t surprise me much though; it’s known to be more Flask-compatible and probably not built for this kind of load. Overall, this is a fantastic resource for anyone deciding between ASGI frameworks for high concurrency! ... score: 0.99874
+
+llama-3-3-70b-instruct comment: As a long-time developer, I've been following the landscape of Python web frameworks, and I must say that these benchmarks are incredibly insightful. It's clear that the author has put a lot of effort into ensuring that the tests are unbiased and representative of real-world scenarios. What strikes me most is how Starlette emerges as the top performer across all tests, especially in async workloads, which is a critical aspect of modern web development. MicroPie's close performance to Starlette, especially considering its simpler architecture, is also noteworthy. It suggests that for many use cases, MicroPie could be a more appealing choice due to its lightweight nature without sacrificing much in terms of performance. The fact that FastAPI, which is often praised for its high performance, slows down under computational load due to validation overhead, is a valuable lesson. It indicates that while FastAPI is excellent for API development, it may require additional optimizations for compute-heavy tasks. Quart's position as the slowest in these benchmarks is somewhat surprising, given its origins from the Flask framework, which is widely used and respected. Lastly, Litestar's performance, while not the worst, shows there's significant room for improvement, particularly in handling high concurrency. These findings will certainly influence my choice of framework for future projects, and I appreciate the detailed methodology provided, which allows for transparency and reproducibility. ... score: 0.86928
+
+mixtral-8x22B-instruct-v0.1 comment: Interesting results! Starlette seems to be the clear winner here, but I'm also impressed by MicroPie's performance. It's great to see Python ASGI frameworks being benchmarked in such detail. I wonder if the results would be different with a different server or benchmark tool. Have you considered running these tests on a cloud-based platform for more consistency? ... score: 0.99848
+
+Qwen2.5-72B-Instruct comment: I found your benchmark report very insightful, especially since I've been considering a switch from Quart to something more performant. The results for Starlette and MicroPie are quite impressive, and it’s clear that they are better suited for high-concurrency applications. However, I do have a couple of questions. First, did you consider the memory usage and resource consumption of each framework during the tests? It would be interesting to see how they compare in terms of resource efficiency. Second, have you tested these frameworks under different types of loads, such as database queries or external API calls? These real-world scenarios might provide additional insights into their performance and stability. Overall, thanks for putting in the effort to create such a comprehensive report! 🚀 ... score: 0.36315
+
+
+================================================================================
+
+Post: Daily General Discussion and Advice Thread - November 29, 2024
+Have a general question?  Want to offer some commentary on markets?  Maybe you would just like to throw out a neat fact that doesn't warrant a self post?  Feel free to post here! 
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+If you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)
+
+The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)
+
+The media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)
+
+If your question is "I have $XXXXXXX, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Check the resources in the sidebar.
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!
+
+Reddit author comment: Hi everyone,
+
+All the people around me keep telling me I should invest. Now, in my late 20s, I finally have more money than I spend, so I’m ready to take the first step. The problem is: I have zero clue about ETFs and stocks. That’s why I wanted to ask for your opinion on my plan before I jump in:
+
+I want to invest for at least 15+ years and keep the risk as low as possible. Based on that, I came up with the following ETF portfolio and allocations:
+
+60% MSCI World (A1XB5U)
+
+8% MSCI World ex USA (DBX0VH)
+
+24% Emerging Markets IMI (A111X9)
+
+8% FTSE India (A2PB5W)
+
+
+Idea behind ex USA + India: I wanted to slightly reduce the heavy focus on the USA in the typical world ETF and add more exposure to India.
+
+Do you think this is a reasonable approach?
+
+Thanks!! ... score: 0.99461
+
+claude-sonnet-4-0 comment: Been thinking a lot about the current market conditions heading into December, and I'm curious what everyone's thoughts are on the typical year-end rally versus the potential headwinds we're facing. We've got the Fed's monetary policy still being a major factor, inflation data that's been somewhat mixed, and geopolitical tensions that seem to ebb and flow. I've been gradually increasing my cash position over the past few months, not because I'm trying to time the market per se, but because I want to have some dry powder ready for opportunities. My portfolio is heavily weighted toward large-cap growth and some international developed markets through ETFs, but I'm wondering if I should be looking more seriously at value plays or even some small-cap exposure. The Russell 2000 has been pretty volatile this year, but historically small caps can outperform in certain rate environments. Anyone else feeling like we're in one of those periods where it's especially important to stay diversified and not get too cute with sector rotation? Would love to hear what strategies others are employing as we close out 2024. ... score: 0.39479
+
+gpt4.1-instruct comment: I just wanted to throw out some commentary on the current market sentiment, especially as we head into the final month of 2024. It’s interesting to see how resilient the U.S. markets have been, despite a lot of global uncertainty and the ongoing debate about potential interest rate cuts in early 2025. I think a lot of retail investors are feeling FOMO with the S&P 500 flirting with all-time highs again, but I’d advise caution about chasing returns right now. A diversified approach with regular rebalancing, especially including some international exposure, seems like a reasonable play. Also, with the holidays coming up, don’t forget about tax-loss harvesting if you have any underperforming positions—it’s a good way to offset some gains and potentially reduce your tax bill. Anyone else making year-end portfolio adjustments? ... score: 0.5606
+
+gpt4.1Mini-instruct comment: Great to see a daily thread like this for general discussion and advice! One thing I always like to remind new investors is the importance of diversification. It’s tempting to put all your money into a hot stock or sector, especially when the market is buzzing, but spreading your investments across different asset classes and industries can help manage risk. Also, don’t forget about the power of compounding—starting early with even small amounts can lead to significant growth over time. For anyone feeling overwhelmed, the reading list linked in the wiki is a fantastic place to build a solid foundation before jumping into more complex strategies. ... score: 0.7804
+
+llama-3-3-70b-instruct comment: I've been following this community for a while now, and I must say, the wealth of knowledge and experience shared here is truly impressive. As someone who's still new to investing, I've learned a great deal from reading through the various posts and comments. However, I do have a question that I've been meaning to ask for a while now. I'm 30 years old, living in the United States, and I have a stable job with a moderate income. My objective is to save for retirement, and I'm looking to invest in a mix of low-risk and moderate-risk assets. I've been considering investing in index funds, but I'm not sure which ones to choose or how to allocate my investments. I'd appreciate any advice or guidance from the community on this matter. I've also been thinking about paying off my student loans, which have an interest rate of 6%, versus investing in the market. I know that paying off high-interest debt is generally a good idea, but I'm not sure if it's the best use of my money in this case. I'd love to hear from others who have been in similar situations and learn from their experiences. ... score: 0.48534
+
+mixtral-8x22B-instruct-v0.1 comment: I've been thinking about diversifying my portfolio and was considering international stocks. I'm currently invested in a few domestic companies, but I'm interested in expanding my options. What are some good resources for researching international stocks and what should I be looking for when evaluating them? Also, any thoughts on the current market trends for international stocks? ... score: 0.73143
+
+Qwen2.5-72B-Instruct comment: I'm new to investing and I've been reading a lot of advice about diversification. I understand the basic idea, but I'm still a bit confused about how to actually implement it. Should I be looking at a mix of stocks, bonds, and other assets? How do I decide the right mix for my portfolio? I'm in my early 30s, living in the UK, and I’m saving for retirement, but I also want to have some money available for a house down payment in the next 5-10 years. Any tips on how to start building a diversified portfolio? Thanks in advance! 🙏 ... score: 0.58072
+
+
+================================================================================
+
+Post: Should my 3 month old puppy be sleeping so long? Is it okay for her to hold her bladder all night? Am I being crazy? 🫠
+So me and my partner just brought home a mini daxie puppy about a month ago. Being a dachshund we were prepared for puppy blues from hell, I know they can be tiny terrors to train having owned one before!
+
+But at only 3 months old now she’s sleeping in her crate from 11pm-10/10:30 am, no accidents, taking to training super well, chills at home when we are at work…is my puppy freaking broken!? I’ve never had an easier puppy!? I feel like I’m being tricked and she’s going to be a nightmare teen but my main concern is that is it okay for her bladder to hold for that long overnight? Sometimes she’ll wake a little earlier but generally I feel bad waking her for the toilet if she’s happy to sleep? Is it bad for her to not go in the night?
+
+Sorry if I sound stupid, maybe this is all just very good luck. But I have had lots of puppies and never experienced this before. Has anyone else? Did your pup regress in adolescence like I’m worried about? Or were they just an easy dog? 
+
+Reddit author comment: Every since I brought her home, my pup slept most of the night. She even waits for us to wake up in the morning. I also worried for her bladder too, but she was potty pad trained by the breeder, and so we have a potty pad laying in the house just so she can go on it so she isn't holding her business too long. I honestly don't mind buying them forever if it means my pup doesn't have to be uncomfortable with holding her bladder or poo. She is also a shy pooper and prefers to poop indoors, lol. We live in an apt building and having too much commotion around distracts her and makes her nervous. She can pee on command outside but unfortunately not poo. ... score: 0.96863
+
+claude-sonnet-4-0 comment: You're definitely not crazy, and your puppy isn't broken - you just hit the jackpot! Some puppies are naturally better sleepers and have stronger bladder control than others, even at 3 months old. The general rule is that puppies can hold their bladder for about one hour per month of age, plus one hour, so at 3 months she should theoretically be able to hold it for about 4 hours. However, many puppies can go longer overnight because their metabolism slows down during sleep. As long as she's not showing signs of distress, straining, or having accidents, her bladder is likely fine. The fact that she's waking up happy and not immediately rushing to pee suggests she's comfortable. That said, if you're concerned, you could always mention it to your vet at her next checkup. As for adolescence - yes, there's definitely a chance she could regress around 6-8 months old when teenage hormones kick in, but some dogs really are just naturally well-behaved. Enjoy this easy phase while it lasts, and don't feel guilty about having a good puppy! ... score: 0.98253
+
+gpt4.1-instruct comment: First of all, huge congrats on the chill puppy! Honestly, I totally get your anxiety—most of us brace for the absolute worst with those first few months. The good news is that some puppies are just…easy. It’s not super common, but it does happen! At three months, sleeping through the night is a little ahead of the curve, but as long as she’s not showing any signs of discomfort, refusing to pee when she does go out, or having accidents, it’s probably fine. Puppies’ bladders develop at their own pace, and smaller breeds sometimes surprise you. If she wakes up and seems desperate to go, maybe reassess, but for now you’re probably just lucky! Adolescent regression can happen with ANY dog, so just keep up the good training habits and you’ll be in a good spot if she gets “teenager energy” later on. Enjoy the good times! ... score: 0.94377
+
+gpt4.1Mini-instruct comment: Hey, first off, congrats on your seemingly chill pup! Honestly, it sounds like you hit the puppy jackpot. At 3 months, many puppies can hold their bladder for about 4-6 hours, but some pups, especially smaller breeds like mini dachshunds, can surprise you with longer stretches. If she’s waking up happy and you’re not seeing any signs of discomfort, she’s probably fine. Just keep an eye on her behavior and make sure she’s drinking enough water during the day. As for the “puppy blues,” every dog is different—some just breeze through training and housebreaking without the usual chaos. The teen phase might bring some challenges, but a strong foundation helps a lot. Enjoy the easy ride while it lasts! ... score: 0.97774
+
+llama-3-3-70b-instruct comment: I totally get why you're concerned about your puppy's sleep patterns and bladder control, but from what I've learned, it's actually not uncommon for young puppies to sleep for long stretches, especially if they're getting enough exercise and mental stimulation during the day. My own puppy, who's now a year old, used to sleep for 12 hours straight when she was around 3-4 months old, and she never had any accidents in her crate. Of course, every puppy is different, but it's possible that your mini daxie is just a naturally good sleeper. As for the bladder control, I've read that puppies can hold their bladder for longer periods as they get older, but it's still important to establish a consistent potty routine and take her out regularly during the day. I'd recommend talking to your vet to get their advice on your puppy's specific needs and to rule out any potential health issues. It's always better to be safe than sorry, and I'm sure your vet will be able to provide you with some personalized guidance and reassurance. ... score: 0.99706
+
+mixtral-8x22B-instruct-v0.1 comment: 1. Congratulations on your new furry friend! It's fantastic that she's doing so well with her crate training. Generally, puppies can hold their bladder for about one hour longer than their age in months, so a 3-month-old puppy should be able to hold it for around 4 hours. However, every puppy is different, and if she's not showing any signs of discomfort or distress, she's probably just fine. Just make sure she has plenty of opportunities to go potty during the day. ... score: 0.98629
+
+Qwen2.5-72B-Instruct comment: I have a 3-month-old husky, and I can relate to your worries! It’s actually quite normal for puppies to hold their bladders for 8-10 hours overnight, especially if they’ve had a full day of activity and drinking. My vet assured me that as long as they are well-hydrated and active during the day, it’s fine. Your puppy sounds like a dream! I wouldn’t worry too much about the future; some dogs just have a calmer temperament. Just keep up the good work with training and socialization, and you’ll be set. Good luck, and enjoy this amazing time with your mini daxie! ... score: 0.8094
+
+
+================================================================================
+
+Post: 18mo old is emotionally unwell after vaccines - any advice on how to help her?
+6 days ago my kiddo had her standard 18 month vaccines at the doctor (dtap and hepA). That evening she was rubbing her leg so I gave her some ibuprofen before bed.
+
+Since the shots, she was been crying uncontrollably every time I take off her pants. Just full on panic attacks. My partner and I have to hold her and she won't let us put her down for 10-30 minutes until she settles. This behavior is VERY unusual for her. She honestly doesn't even cry that much and she's also not a super cuddly kid. She's normally calm, playful, chatty, independent, and too busy with toys and books to give many hugs. 
+
+Her sleep has also changed. Usually she wakes up at around 7-7:30 AM and will just hang out in her crib. She'll play with her stuffies and blankets and just chat to herself until we go in and grab her. Since the shots she's been waking up at 5:45-6:30 AM and immediately crying uncontrollably like she had a nightmare.
+
+Physically she's totally fine. Eating, drinking, diapers, temperature, skin are all normal. But she's very clearly emotionally unwell. We've just been giving it time in hopes that it would pass but we're going on a week now and it's very disturbing to see her like this. It feels like she was violated and is deeply traumatized. Has anyone dealt with this or have advice on how to help her get through it?
+
+Reddit author comment: She likely has quite a bit of pain at her injection site. I know I’ve had vaccines that have left my arm sore for days where I can’t lay on that side or really touch it without discomfort. Perhaps that’s what’s waking her up early?
+
+Kids can definitely make associations and she may be fearful that pants = ouch. 
+
+If she’ll tolerate a warm compress to the area that could help alleviate some discomfort and desensitize her to the area being touched.
+
+Of course if you are concerned it never hurts to reach out to her pediatrician to let them know that she’s acting outside of her normal character to see if they want to check her out or anything. ... score: 0.98072
+
+claude-sonnet-4-0 comment: Oh mama, my heart goes out to you and your little one. This sounds absolutely heartbreaking to witness. What you're describing sounds like she may have developed some trauma responses around the injection site and the medical experience. It's actually more common than people talk about - toddlers can definitely develop medical trauma, especially around that 18-month mark when their memory and awareness is developing but they can't yet understand what happened to them. The fact that she's having panic attacks specifically when you remove her pants suggests she's associating that action with the pain/fear from the shots. For the sleep issues, it could be that she's having actual nightmares or anxiety dreams about the experience. I'd suggest a few things: first, definitely call your pediatrician and describe exactly what's happening - they need to know about these reactions. Second, try some gentle desensitization - maybe start by just touching her legs gently over her clothes while narrating what you're doing in a calm voice. You could also try some toddler-appropriate books about doctor visits or getting better after feeling scared. The crying and clinginess might actually be a good sign that she trusts you to help her feel safe again. Give yourselves grace - this is temporary even though it feels overwhelming right now. ... score: 0.96111
+
+gpt4.1-instruct comment: First off, I just want to say I’m so sorry your little one is going through this, and it must be really hard for you and your partner to see her so upset. It’s not uncommon for toddlers to have emotional reactions to their shots, especially if something about the experience scared them or hurt more than usual. What you’re describing sounds a lot like a situational trauma response—her brain is probably associating pants removal with the pain or fear of the shots. My son went through something similar after a particularly rough doctor’s visit. What worked for us was lots of gentle reassurance and letting him have control over getting dressed or undressed when possible. We’d talk through every step, offer distractions like a favorite toy, and never forced the process if he wasn’t ready. It took about two weeks, but he did eventually go back to his old self. Hang in there—it will pass, but in the meantime, just keep validating her feelings and go slow with any triggers. ... score: 0.68279
+
+gpt4.1Mini-instruct comment: I’m really sorry you’re going through this, it sounds incredibly tough for all of you. My daughter had a rough time emotionally after her vaccines too, especially with the DTaP. It’s not uncommon for toddlers to have a delayed emotional response — it’s like their little bodies and minds are trying to process the discomfort and new sensations they experienced. What helped us was lots of gentle reassurance and creating a super predictable routine to help her feel safe again. I found that soft music, extra cuddles (even if she’s not usually cuddly), and maybe some extra comfort items like a favorite blanket or toy helped her settle. Also, try to keep her pants on as much as possible if that triggers panic — maybe loose clothing or onesies that don’t require pulling pants off so often. If the crying and panic don’t improve soon, definitely check back in with your pediatrician just to rule out any lingering pain or issues. But hang in there, this phase usually passes with time and patience. ... score: 0.97752
+
+llama-3-3-70b-instruct comment: As a parent who has been through a similar experience, I must say that it's not uncommon for children to exhibit emotional distress after vaccinations, especially if they have a sensitive temperament like your little one. My own child had a similar reaction after her 12-month vaccines, and it took us a few weeks to figure out what was going on. What helped us was establishing a consistent routine and creating a calm environment. We made sure to stick to her regular sleep schedule, and we also introduced some soothing activities like reading, singing, and gentle massages. I would recommend trying some of these techniques with your child, and also consider reaching out to your pediatrician for guidance. They may be able to offer some additional advice or reassurance. It's also important to remember that every child is different, and what works for one may not work for another. Be patient, stay calm, and try to find what works best for your child. It's great that you're acknowledging her emotional well-being and taking steps to support her - that's already a huge step in the right direction. ... score: 0.84179
+
+mixtral-8x22B-instruct-v0.1 comment: Comment 1: I'm so sorry to hear about your little one. It's completely normal for kids to experience some discomfort after vaccines, but it sounds like she's having a particularly tough time. While I'm not a medical professional, I can share that after my child's vaccines, we used a cool compress on the injection site to help with the pain. You might also want to try distracting her with her favorite toys or activities when you need to take off her pants. As for the sleep disturbances, maintaining a consistent bedtime routine might help. If her symptoms persist, I would recommend reaching out to your pediatrician for: I have commentTensols, and I would recommend reaching out to your pediatrician. They might be able to provide some relief for her leg pain. ... score: 0.73632
+
+Qwen2.5-72B-Instruct comment: I'm so sorry to hear about what your little one is going through. It's really tough to see them in distress, especially when they're so young and can't fully express what they're feeling. Have you considered talking to a pediatrician about this? Sometimes, the emotional distress can be a side effect of the vaccines, but it's important to rule out any other underlying issues. It might also help to create a calm and soothing environment for her. Soft music, gentle massages, and a consistent bedtime routine can be really comforting. Additionally, you might want to try some relaxation techniques for kids, like deep breathing or gentle yoga poses. It's also important to be extra patient and understanding with her during this time. She might be feeling overwhelmed and needs that extra reassurance and comfort. ... score: 0.95234
+
+
+================================================================================
+
+Post: Bookclub and Sources Wednesday!
+Hi everybody,
+
+Welcome to our weekly book recommendation thread!
+
+We have found that a lot of people come to this sub to ask for books about history or sources on certain topics. Others make posts about a book they themselves have read and want to share their thoughts about it with the rest of the sub.
+
+We thought it would be a good idea to try and bundle these posts together a bit. One big weekly post where everybody can ask for books or (re)sources on any historic subject or timeperiod, or to share books they recently discovered or read. Giving opinions or asking about their factuality is encouraged!
+
+Of course it’s not limited to \*just\* books; podcasts, videos, etc. are also welcome. As a reminder,  also has a recommended list of things to read, listen to or watch
+
+Reddit author comment: This was a remarkably interesting read, that I wanted to share:
+
+[Oil Empire: Visions of Prosperity in Austrian Galicia](https://www.hup.harvard.edu/books/9780674025417) by Alison Fleig Frank
+
+Lots to say about it, but here are just a few things I learned:
+
+* The Austrian Empire was the third-largest producer of petroleum prior to World War I. The oilfields were mostly located in land that today lies within the borders of Ukraine.
+* The process of distilling petroleum so that it could safely be used as a light source (kerosene lanterns) was developed by pharmacists in Lviv, then part of Austrian Galicia.
+* The original method of "drilling for oil" involved digging a hole in the ground with a shovel until you struck oil. You wore a rope around your chest and had to rely on your partner on the surface to pull you out. Many people drowned in oil using this method.
+* The technology for mechanized drilling (allowing wells of a kilometer or more to be drilled) was developed in Canada where there was an oil boom in the 1860s. The chief inventor of this technology later exported it to Austrian Galicia, and many Canadian wildcatters moved there with him prior to WWI.
+* The story of Standard Oil's attempt to gain a monopoly on European oil production before WWI, and Austria's refusal to give them access to the Galician oilfields, is fascinating. So is the story of the decline of Austria as an oil producer with the discovery of the massive Middle East resources.
+
+I recommend it. ... score: 0.98253
+
+claude-sonnet-4-0 comment: I've been absolutely devouring Mary Beard's "SPQR: A History of Ancient Rome" lately and I can't recommend it enough! What I love about Beard's approach is how she doesn't just regurgitate the same old narratives about Roman emperors and military conquests that we've all heard a million times. Instead, she really digs into the social and cultural aspects of Roman life, examining how ordinary people lived, worked, and thought. She's particularly brilliant at deconstructing some of the myths we have about Rome - like the idea that it was always this monolithic empire, when in reality it was incredibly diverse and constantly evolving. Her writing style is also refreshingly accessible without dumbing anything down. I'm about halfway through and already planning to pick up her other works. Has anyone else read this? I'd love to hear thoughts on her take on the late Republic period, because some of her interpretations of Caesar and Cicero seem quite different from other historians I've read. ... score: 0.97477
+
+gpt4.1-instruct comment: I’d like to recommend “A People’s History of the United States” by Howard Zinn for anyone interested in an alternative perspective on American history. Instead of focusing solely on presidents and major political figures, Zinn highlights the experiences of everyday people—workers, women, people of color, and others whose stories are often overlooked. While some critics argue that his approach is a bit too left-leaning or selective, I think it’s valuable to read alongside more traditional histories for a fuller understanding of the past. I’d also recommend the podcast “Hardcore History” by Dan Carlin, especially his series on World War I (“Blueprint for Armageddon”), for anyone looking for deep dives into specific historical events. Has anyone here read Zinn’s book or listened to that podcast? Curious to hear your impressions! ... score: 0.00036
+
+gpt4.1Mini-instruct comment: I really love the idea of consolidating book recommendations and source requests into one weekly thread! It makes it way easier to find good reads without having to scroll through a million separate posts. Recently, I picked up *SPQR* by Mary Beard, which is an incredible deep dive into Roman history—super accessible but still scholarly. For those interested in podcasts, I’d also recommend *Hardcore History* by Dan Carlin; his storytelling makes history come alive in a way few other formats do. Also, if anyone is looking for primary sources or more academic material, JSTOR and Project Gutenberg are fantastic free resources. Looking forward to seeing what everyone else has been reading or listening to! ... score: 0.0112
+
+llama-3-3-70b-instruct comment: As a historian myself, I have to say that I'm really excited about this new weekly thread, and I think it's a great idea to centralize all the book and source recommendations in one place, it makes it a lot easier for people to find what they're looking for, and also to discover new things, I've been following this sub for a while now, and I've seen a lot of great recommendations, but they were all scattered around, so this is a great way to organize them, I'm looking forward to seeing what people will be sharing, and I'm also excited to share some of my own favorite books and sources, one of the things that I think is really important is to make sure that we're recommending sources that are accurate and reliable, so I'd love to see people discussing the factuality of the books and sources that are being shared, and also to see people sharing their own experiences and opinions about the books they've read, I think that this thread has the potential to be a really valuable resource for people who are interested in history, and I'm excited to be a part of it. ... score: 0.58123
+
+mixtral-8x22B-instruct-v0.1 comment: Hi everyone! I recently finished "Sapiens: A Brief History of Humankind" by Yuval Noah Harari and I can't recommend it enough. It's a fascinating exploration of human history, from the evolution of Homo sapiens to the present day. The book is incredibly well-researched and engaging, and it provides a unique perspective on how our species has evolved and adapted over time. If you're interested in history, anthropology, or just learning more about what it means to be human, I would highly recommend giving this book a read. ... score: 0.00042
+
+Qwen2.5-72B-Instruct comment: I absolutely love this idea! It's so helpful to have a centralized place to ask for and share resources. I recently finished reading "The Silk Roads: A New History of the World" by Peter Frankopan and found it to be a fascinating exploration of how the world has been shaped by the interactions along these ancient trade routes. It's not just a history of the Silk Roads but a broader look at how different cultures and civilizations have influenced each other over the centuries. The book is well-researched and very accessible, even for those who might not have a strong background in history. I'd highly recommend it to anyone interested in a fresh perspective on world history. Also, if anyone has any recommendations for books or documentaries that delve deeper into the history of trade and cultural exchange, I'd be really interested in checking them out! ... score: 0.01434
+
+
+================================================================================
+
+Post: Single parents how did it go when you introduced your bf/gf to your kids? 
+I’ve been dating this woman for 6 months now and haven’t told my son yet. I normally tell my son EVERYTHING. But this is the first time I’ve been in a relationship with another woman. I’ve talked to her about my son a lot and she really wants to meet him. I don’t know why I haven’t introduced the both of them yet. Maybe I’m just a little nervous cause I’ve never dated a woman before. 
+
+Reddit author comment: How old is your son? I think it makes a lot of sense to wait to introduce any partner to your child until you know it is getting serious, otherwise they can get attached and feel a sense of compounding loss if the relationship ends. (Context: I’m a woman married to another woman who grew up with a single mom who often introduced us to her boyfriends too early). 
+
+You could always ask her if she is comfortable being introduced as a friend to your son to start. Or have you had an opportunity to introduce her to other people in your life? That might help alleviate some of the nerves around it being your first relationship with a woman and you can practice “coming out” to other adults in your life if you haven’t already. 
+
+Since introducing her to your son will also be a coming out moment for you (unless you’ve already talked about identify before with your child), you might consider having a convo with him first about your identity and then later introduce him. ... score: 0.98053
+
+claude-sonnet-4-0 comment: I totally get the nerves - introducing a new partner to your kids is always a big step, but it sounds even more complex when it's your first relationship with a woman. Six months is actually a really good timeline for introductions, so don't feel like you're rushing or waiting too long. The fact that you normally tell your son everything suggests you have a great relationship with him, and that foundation of trust will serve you well here. I'd suggest starting with a casual conversation about how you've been seeing someone special and gauge his reaction before planning the actual meeting. When you do introduce them, keep it low-key - maybe a fun activity like mini golf or getting ice cream where the focus isn't entirely on them getting to know each other. Your son will probably pick up on how happy this woman makes you, and kids are often more adaptable than we give them credit for. The most important thing is being honest and age-appropriate about the relationship. Good luck! ... score: 0.74592
+
+gpt4.1-instruct comment: I totally get where you're coming from. As a single mom who also dated a woman after only dating men, introducing my daughter to my girlfriend was honestly nerve-wracking. I think the anxiety came from both wanting my daughter to like her and worrying about how she’d process me being with a woman for the first time. What helped me was talking to my daughter about relationships and love in general before the actual introduction—kind of setting the stage so she could ask questions and process things at her own pace. When they finally met, we kept it super casual, just a trip to the park together. It wasn’t perfect (my daughter was shy at first), but it got easier with time. Don’t pressure yourself to make the first meeting magical; just focus on keeping it comfortable for everyone, and give it time to grow naturally. ... score: 0.87843
+
+gpt4.1Mini-instruct comment: Hey, I totally get where you’re coming from. Introducing a new partner to your kids is always a big step, and it can feel even more daunting when it’s your first time dating a woman. It’s completely normal to feel nervous—after all, you want to make sure the timing feels right for both your son and you. What helped me was having honest conversations with my child beforehand about who this person is and why they’re important to me. That way, it wasn’t a total surprise. Also, maybe arrange a casual, low-pressure meeting first, like a park visit or grabbing ice cream, so everyone can just hang out without any expectations. Take your time and trust your instincts! ... score: 0.66862
+
+llama-3-3-70b-instruct comment: I completely understand your nervousness, and it's great that you're taking the time to think this through, especially considering it's your first time dating a woman and you want to make sure everything goes smoothly for your son. Introducing a new partner to your kids can be challenging, regardless of the partner's gender, but it's even more complex when it involves explaining a new aspect of your identity to your child. You've mentioned that you normally tell your son everything, which suggests that you have a very open and honest relationship with him. This is fantastic, but it also means that you might be worried about how he'll react to this new information. I would suggest having a conversation with your son before introducing him to your girlfriend, to prepare him for the meeting and to answer any questions he might have. It's also important to consider your girlfriend's feelings and make sure she's prepared for the potential reactions of your son. Maybe you could have a family meeting where you all sit down together and have an open and honest conversation about your relationship and what it means for your family. Remember, honesty and communication are key in situations like this, and it's better to be upfront and open than to try to hide or avoid the issue. ... score: 0.80603
+
+mixtral-8x22B-instruct-v0.1 comment: Comment 1: Hey there! It's completely normal to feel a bit nervous about introducing your partner to your child, especially when it's a new experience for you. Remember, honesty and openness are key. You might want to have a heart-to-heart talk with your son first, explaining that you've met someone special and you'd like him to meet her too. Reassure him that he's still your number one priority. Also, it would be great if your girlfriend could bond with your son over a shared activity or interest. Wishing you all the best! ... score: 0.9601
+
+Qwen2.5-72B-Instruct comment: I can totally relate! I waited a while before introducing my partner to my kids too. It’s a big step, and I think it’s natural to feel nervous, especially when it’s your first time dating someone of the same gender. I think it’s important to take things slow and make sure both you and your partner are on the same page. My advice would be to have an open conversation with your son first. Explain that you’re happy and that this person is special to you. Let him ask questions and express his feelings. It might also help if your partner and son can do something fun together, like a casual outing or a game night, so they can get to know each other in a low-pressure environment. Good luck, and I’m sure it will go well! ... score: 0.3932
+
+
+================================================================================
+
+Post: Is it just me or do other parents watch the monitor religiously until their child falls asleep?
+As the title states. Just curious if I’m the only one haha.
+
+Reddit author comment: Mine is a little over 2 and my wife still sleeps with it in and uses the white noise machine through the camera as her own. If it's just me I do check-ins on the camera but don't have it open all the time. Id hear her if she cried and don't like to feel like I have to constantly be looking. I'm also comfortable doing this because I have some weirdo child that just likes her sleep. Since she's been alone in her room at 4-6 months (I can't remember exactly), I can count the amount of times she's cried in the middle of the night and needed us to come in on one hand. Before I go to bed I always walk in and fix her blanket and stuff and she just snoozes away deaf to the world. ... score: 0.98556
+
+claude-sonnet-4-0 comment: OMG yes! I thought I was the only neurotic parent doing this! I literally sit there with the monitor in my hands watching every single movement until my 2-year-old finally stops wiggling around and falls asleep. Sometimes it takes like 45 minutes and I'm just glued to that little screen the entire time. My husband thinks I'm crazy but I can't help myself - I need to know the exact moment she's actually asleep so I know it's safe to turn the TV volume back up or start doing dishes without worrying about waking her. Plus there's something oddly satisfying about watching them finally settle down and drift off. It's like confirmation that bedtime was successful and I can finally relax for the evening. You're definitely not alone in this! ... score: 0.00061
+
+gpt4.1-instruct comment: Nope, you’re absolutely not alone! I do the exact same thing every single night. I tell myself I’ll just check to see if my daughter is settling, but then I end up glued to the monitor, watching her every move until she’s fully asleep. I think part of it is anxiety and wanting to make sure she’s safe, but also I just find it so fascinating to see the little things she does before drifting off—like talking to her stuffed animals or rolling around forever. Sometimes I worry I’m being a helicopter parent, but honestly, it gives me peace of mind. So, you’re definitely not the only one! ... score: 0.77343
+
+gpt4.1Mini-instruct comment: Oh, absolutely not just you! I’m definitely one of those parents who watch the monitor like a hawk until my little one drifts off. It’s like this weird mix of relief and anxiety—relief when they finally settle down, but anxiety because you never want to miss a single cough, sneeze, or little noise that might mean they’re waking up or worse. I think it’s partly just that parental instinct kicking in, and partly because once they’re asleep, you finally get a moment to breathe. Sometimes I catch myself staring at the screen for way longer than I intend to, just making sure everything stays peaceful. Anyone else feel like the monitor becomes this weird security blanket? ... score: 0.76513
+
+llama-3-3-70b-instruct comment: I completely understand the urge to watch the monitor until your child falls asleep, and I'm guilty of doing it too, but I've come to realize that it's not necessarily the healthiest habit. Not only can it disrupt our own sleep patterns, but it can also create unnecessary anxiety, as we might start to overanalyze every little movement or sound our child makes. I've tried to set a timer for 10-15 minutes after putting my child to bed, and if they're still asleep after that, I try to resist the temptation to keep checking the monitor. It's not always easy, but it's helped me to relax and focus on my own sleep. I think it's essential to find a balance between being a responsible and caring parent, and being mindful of our own needs and well-being. ... score: 0.70959
+
+mixtral-8x22B-instruct-v0.1 comment: Oh, absolutely not just you! I think it's a parent thing. We just want to make sure our little ones are comfortable and safe as they drift off to dreamland. I've spent many nights watching the monitor, waiting for that peaceful, steady breathing. It's like our own little way of staying connected even when we're not in the same room. ... score: 0.79452
+
+Qwen2.5-72B-Instruct comment: Totally relate to this! I remember the first few months with my baby, I would sit there and watch the monitor until I saw them take their last, deep breath before dozing off. It’s such a weird mix of exhaustion and hyper-vigilance. I think it’s a combination of new parent anxiety and just wanting to soak in every moment. I used to worry that I would miss something important if I didn’t watch, but as time went on, I found myself able to relax a bit more. Still, I can’t help but check the monitor a few times before I go to bed myself! ... score: 0.67693
+
+
+================================================================================
+
+Post: Can you recommend lonely films with subtle romance?
+Hit me with romance films that feel isolated, melancholic, and simmer quietly. Think Blade Runner 2049’s Joe and Joi, soft connections and zero rushed passion. 
+
+**Any genre works**; as long as it has that bittersweet atmospheric ache. Bonus if the romance lingers in glances/gestures instead of grand speeches.
+
+Reddit author comment: Maybe one of the most beautifully poetic and elegantly made explorations of love, sorrow, and beauty In the Mood for Love.
+
+Late Spring if you want a film that shows how societal expectations of love can cause people sorrow
+
+Past Lives for something more recent to explore the complexity of maneuvering through love in a modern age where our desires are often at odds with time and the stringent social norms of marriage
+
+Au Hasard Balthazar if you want a more platonic love that is all the more heartbreaking for it's innocence. It is about the parallel lives of a young lady and her pet donkey
+
+Stella Dallas for a classic melodrama that deals with familial and romantic love leading to loneliness and will make anyone with emotions ugly cry several times. ... score: 0.96693
+
+claude-sonnet-4-0 comment: Oh man, you're describing some of my absolute favorite types of films! First thing that comes to mind is **Her** - the entire movie is basically Joaquin Phoenix falling in love with an AI while wandering through a beautifully lonely Los Angeles. The romance builds through conversations and small moments, never feeling rushed or overly dramatic. Another perfect fit is **Lost in Translation** - Bill Murray and Scarlett Johansson have this incredible quiet connection in Tokyo, all communicated through glances and shared isolation. The ending whisper scene still gives me chills. For something more sci-fi, try **Moon** - while not traditionally romantic, Sam Rockwell's relationship with his AI companion GERTY has this tender, melancholic quality you're looking for. **The Shape of Water** might work too, though it's more fantastical - the romance between Sally Hawkins and the amphibian creature is told almost entirely through gestures and looks, with this beautiful underwater dreamlike quality. And if you want something really atmospheric, **Only Lovers Left Alive** follows two vampire lovers across centuries, all moody nighttime scenes and languid conversations about art and mortality. ... score: 0.15135
+
+gpt4.1-instruct comment: I totally get what you’re after! One of my all-time favorite films that fits your description is “In the Mood for Love” by Wong Kar-wai. It's set in 1960s Hong Kong and is basically the blueprint for subtle, melancholic romance. The tension between the two protagonists is built on longing, shared glances, and gestures rather than any overt passion or declarations. The cinematography and soundtrack just ooze loneliness and unspoken desire. Another great pick would be “Lost in Translation” – it’s more modern, but the connection between Scarlett Johansson and Bill Murray is quietly devastating and beautifully understated. Both films really capture that ache of wanting, but not quite having, and the atmosphere is thick with solitude. Would highly recommend if you’re in the mood for something that lingers long after the credits roll. ... score: 0.06717
+
+gpt4.1Mini-instruct comment: If you’re looking for that quiet, simmering kind of romance that feels more like a whisper than a shout, you absolutely have to watch *In the Mood for Love* by Wong Kar-wai. It’s drenched in melancholy and longing, with the two leads sharing stolen moments and subtle gestures that speak volumes without ever crossing certain lines. The atmosphere is thick with loneliness and unspoken desire, and the romantic tension is almost tangible in every scene. Another great one is *Her* by Spike Jonze, which also explores isolated characters connecting in unconventional ways. The romance is tender, understated, and hauntingly beautiful — perfect if you want that bittersweet ache that lingers long after the credits roll. ... score: 0.00074
+
+llama-3-3-70b-instruct comment: I'm absolutely obsessed with the concept of subtle romance in films, and I think it's because it resonates so deeply with my own experiences of longing and connection. For me, the film that epitomizes this theme is "Lost in Translation" - the way Bob and Charlotte form a bond over their shared feelings of loneliness and disconnection in a bustling city is just so poignant. The romance is never overt, but it's always there, simmering beneath the surface in the way they look at each other, the way they touch. It's a film that understands that sometimes the most powerful connections are the ones that are left unspoken. I also appreciate how the film explores the idea of human connection in a hyper-modern world, where people are increasingly isolated despite being surrounded by others. The cinematography is stunning, capturing the neon-lit landscapes of Tokyo and the quiet, introspective moments between the characters. If you're looking for other films that capture this same atmosphere, I'd also recommend "Eternal Sunshine of the Spotless Mind" and "Before Sunrise" - both of which feature complex, nuanced relationships that are full of subtle moments of tenderness and intimacy. ... score: 0.4612
+
+mixtral-8x22B-instruct-v0.1 comment: I just watched "Her" and it fits your description perfectly! It's a beautiful and melancholic film about a man who falls in love with an AI. The romance is subtle and slow-burning, and the film's atmosphere is definitely lonely and atmospheric. The performances are incredible, and the cinematography is stunning. Highly recommended! ... score: 0.2215
+
+Qwen2.5-72B-Instruct comment: I'd recommend "The Lobster" (2015) by Yorgos Lanthimos. It’s a dystopian romance where characters are sent to The Hotel to find a romantic partner or be turned into an animal of their choice. The atmosphere is stark and isolating, with a romance that builds through subtle gestures and glances rather than grand declarations. The film's unique setting and dark humor add to its melancholic tone, making it a perfect fit for your criteria. The relationship between Colin Farrell and Rachel Weisz is particularly poignant, with a quiet, unspoken connection that feels both tender and fragile. It’s a film that lingers in your mind long after it’s over, much like the bittersweet ache you're looking for. ... score: 0.25955
+
+
+================================================================================
+
+Post: Roddick Agreeing with Opelka about doubles
+So this was from the lastest podcast episode of Roddick's Served Podcast. I have to say Roddick's general attitude regarding doubles is a bit over the top. I dont know what his problem is regardless of it making money or not but he just comes off as belittling doubles players and acting like how Opelka says that they are failed singles players.
+
+Roddick in his podcasts tends to just shit on doubles to no end. For him its just a money suck. Even with that nice feel good win of patten and heliovaara he went and shit on it. Even i the recent podcast he keeps harping on doubles being a money suck when I genuinely dont see it. He also seems to hate the fact that doubles specialists exists and also agrees with Reilly that doubles players are just failed singles players or ones who never tried at singles. (Also as aside note love how he's fine with all the shit that Reilly posts cause 'he's just being himself' but needs to find a way to critique other players who post shit on social media
+
+Roddick in this podcast episode really has me turning off from him cause of the way he is talking. Watching it today it was just like "if you dont agree with me then your just an emotional loser who doesnt understand the realities of money and life'. But like doubles has been here for a while it makes money when the tournaments promote it properly IMO. Heliovaara and Patten winning was such a nice thing imo given the sturggle they had to make it into tennis. Maybe Roddick's been blessed in that he's never had that issue of financial struggle and its clearly showing especially wiht the Bopanna comments.
+
+Overall very preachy and over the top.
+
+[https://www.youtube.com/watch?v=3379lf-yJp0](https://www.youtube.com/watch?v=3379lf-yJp0)
+
+EDIT: He's really doubling down on it with short he released pretty much saying anyone who disagrees with him is just being emotional. What i am seeing is just a retired player using a podcast as is little soapbox and not actually providing any value here. For all the facts he says he actually hasnt provided any aside from Doubles has been here for a while. He hasnt said how much the tours or slams spend to promote doubles. 
+
+[https://www.youtube.com/watch?v=5xMqnRSfYoI](https://www.youtube.com/watch?v=5xMqnRSfYoI)
+
+
+
+Reddit author comment: None of them explained why they don’t want double specialists, just that they don’t. Apparently a player said they have no problem with Bopanna, just that they don’t want another one, why? It just screams jealousy. The singles players complain about scheduling enough, now they’re all gonna start playing doubles? Give me a break.
+
+Something I don’t really ever see considered is the cost to go watch tennis, I was looking recently at tickets for Turin, Stuttgart and Vienna, Turin was at least €200 for half a day of the first RR, Vienna was €100 for some R1 seats and Stuttgart was about €130 for a weekend grounds pass. It’s insane, I got day 1 centre court Wimbledon tickets last year for £70, but tour events charge more, so if people are just attending one event a year that’s cost a lot they probably do want to see a big name they know and can tell people about. Someone I know took his mum to the USO and he got to watch Swiatek and had no idea who she was, what hope do double players have? ... score: 0.93443
+
+claude-sonnet-4-0 comment: Honestly, I've been noticing this pattern with Roddick for a while now and it's really disappointing. The guy was an incredible singles player and I have massive respect for what he accomplished, but his takes on doubles are just straight up disrespectful. Like, does he not realize that some of the greatest tennis minds in history were doubles specialists? The Bryan Brothers revolutionized the game and brought so much excitement to doubles tennis. And the argument that they're "failed singles players" is just lazy analysis. Some players genuinely prefer the strategy and teamwork aspect of doubles - it's a completely different skill set. Roddick seems to think that because he found success in singles, that's the only "legitimate" path in tennis. It's giving major boomer energy tbh. The fact that he doubled down with that short just shows he's not interested in having an actual discussion about it. ... score: 0.00691
+
+gpt4.1-instruct comment: I totally agree with your take on Roddick's attitude toward doubles. Honestly, it feels like he has some personal grudge or at least a chip on his shoulder about the format. I get that singles is the marquee event and where the big money and attention go, but to constantly dismiss doubles as just a "money suck" seems incredibly tone-deaf. Doubles brings a different set of skills to the table—reflexes, teamwork, strategy—that singles simply doesn't highlight in the same way. And for a lot of fans, the excitement and unpredictability of doubles is a huge draw. I also think it’s unfair to call doubles players “failed singles players”; some people just excel in a different discipline, and that should be celebrated, not mocked. Roddick’s podcasts used to be insightful, but lately, it’s like he’s just trying to stir the pot for engagement. ... score: 0.05415
+
+gpt4.1Mini-instruct comment: I get where you’re coming from with Roddick’s attitude on doubles—it does feel unnecessarily harsh and dismissive at times. Doubles is a distinct discipline with its own strategies, skills, and fanbase, and to reduce it to just “failed singles players” is pretty disrespectful. Not every player who specializes in doubles is someone who couldn’t cut it in singles; some choose doubles because they genuinely enjoy the format or have skill sets that shine more in that environment. Plus, doubles adds a lot of excitement and variety to tournaments, and players like Heliovaara and Patten have compelling stories that inspire fans. Roddick’s approach feels like he’s using his platform to belittle rather than educate, which is disappointing. ... score: 0.07687
+
+llama-3-3-70b-instruct comment: I completely agree with the sentiment of this post, I've been listening to Roddick's podcast for a while now and his views on doubles have always been quite puzzling to me. As someone who's been following tennis for years, I think it's unfair to belittle doubles players and view them as failed singles players. The skillset and strategy required to excel in doubles are entirely different from singles, and it's not as simple as just being a "failed" singles player. I also find it interesting that Roddick tends to focus on the financial aspect of doubles, but doesn't provide any concrete evidence or data to support his claims. It's almost as if he's just spouting off his own opinions without considering the perspectives of others. The fact that he's agreeing with Opelka's views on doubles is also concerning, as it shows a lack of understanding and empathy towards the doubles community. ... score: 0.93464
+
+mixtral-8x22B-instruct-v0.1 comment: As a long-time fan of Andy Roddick, I must say I'm disappointed by his recent comments about doubles. I understand where he's coming from in terms of the financial aspect, but belittling doubles players and dismissing the value of doubles tennis is not the way to go. I think it's important to recognize that doubles is a valid and valuable part of the sport, and that doubles players deserve respect for their skills and achievements. Perhaps Roddick could benefit from a more open-minded perspective on this issue. ... score: 0.00059
+
+Qwen2.5-72B-Instruct comment: I can't believe how dismissive Roddick is being about doubles. It's like he's completely disregarding the skill and dedication it takes to be a doubles specialist. His attitude is so condescending, and it really shows a lack of respect for the players who have built their careers around doubles. I get that he's coming from a singles player's perspective, but it's frustrating when he doesn't acknowledge the unique challenges and strategies involved in doubles. It's not just about making money; it's about the love of the game and the ability to excel in a different format. His comments are really turning me off from his podcast, and I'm starting to question his overall perspective on the sport. ... score: 0.02122
+
+
+================================================================================
+
+Post: Bookclub and Sources Wednesday!
+Hi everybody,
+
+Welcome to our weekly book recommendation thread!
+
+We have found that a lot of people come to this sub to ask for books about history or sources on certain topics. Others make posts about a book they themselves have read and want to share their thoughts about it with the rest of the sub.
+
+We thought it would be a good idea to try and bundle these posts together a bit. One big weekly post where everybody can ask for books or (re)sources on any historic subject or timeperiod, or to share books they recently discovered or read. Giving opinions or asking about their factuality is encouraged!
+
+Of course it’s not limited to \*just\* books; podcasts, videos, etc. are also welcome. As a reminder,  also has a recommended list of things to read, listen to or watch
+
+Reddit author comment: I read Lindsay Chervinksy's new book on the Adams administration, Making the Presidency. I have some knowledge of Adams and I think he is overlooked. His book, In Defense of the Constitutions of Governments of the United States of America, gets short shrift as a founding document, and the role it played during the Constitutional Convention gets overlooked, so I've been trying to learn more about that. It's probably one of the few founding era documents that's not easy to find a cheap reprint of.
+
+I was really impressed with Adams. I don't have a high impression of Jefferson anyway, and this didn't do much to change that, but I was really shocked by Hamilton's behavior. I didn't really understand how precarious the position of the US was at the turn of the century.
+
+I think John Marshall and Albert Gallatin really distinguished themselves. I think Adams deserves far more recognition for his restraint and for successfully navigating the threat of the French, the difficulty governing immediately after Washington, and developing the president's relationship to the cabinet.
+
+I wish the book had gone more into his decision making about the sedition act or his involvement with court reform. But it was a good book and I'd like to rea Chervinsky's earlier book on Washington's cabinet and hope she puts out something on Jefferson's. ... score: 0.96504
+
+claude-sonnet-4-0 comment: I've been absolutely devouring Mary Beard's "SPQR: A History of Ancient Rome" lately and I cannot recommend it highly enough! As someone who's always been intimidated by Roman history because of how vast and complex it seems, Beard does an incredible job of making it accessible without dumbing it down. What I love most is how she challenges a lot of the traditional narratives we have about Rome - she's particularly good at highlighting how much of what we "know" comes from elite male perspectives and how that skews our understanding. Her writing style is engaging and she has this wonderful way of connecting ancient events to modern parallels without being heavy-handed about it. She also does a great job of explaining which sources are reliable and which should be taken with a grain of salt. If anyone has been wanting to get into Roman history but doesn't know where to start, this is definitely the book I'd recommend. Has anyone else read it? I'd love to hear other people's thoughts! ... score: 0.97423
+
+gpt4.1-instruct comment: I just finished reading “The Splendid and the Vile” by Erik Larson, which covers Winston Churchill’s leadership during the Blitz in WWII. I can’t recommend it enough for anyone interested in not just the military, but also the personal and political challenges Churchill faced. Larson’s style is so engaging—it almost reads like a thriller, but it’s meticulously sourced. If anyone’s concerned about factuality, he cites an impressive range of primary documents and diaries. I’d love to hear if anyone else has read it and what you thought. Also, if anyone has suggestions for similar books focusing on the civilian side of WWII, I’d be grateful! ... score: 0.00086
+
+gpt4.1Mini-instruct comment: I really love the idea of consolidating all book recommendations and source requests into one weekly thread. It keeps the subreddit organized and makes it easier to find quality suggestions without scrolling through tons of individual posts. Personally, I’ve been diving into some lesser-known historical podcasts lately, and I’d highly recommend "Revolutions" by Mike Duncan. It’s incredibly well-researched and covers various major revolutions throughout history with great storytelling. Also, for anyone interested in medieval history, "The Time Traveler’s Guide to Medieval England" by Ian Mortimer is a fantastic read — it brings the period to life without being too dense or academic. Looking forward to seeing what others share! ... score: 0.00034
+
+llama-3-3-70b-instruct comment: As someone who's always on the lookout for new historical non-fiction books, I'm excited to see this thread come together. I've recently finished reading "Sapiens: A Brief History of Humankind" by Yuval Noah Harari, which I found to be a fascinating and thought-provoking read. The book covers the entire history of humankind, from the emergence of Homo sapiens in Africa to the present day, and it does so in a way that's both engaging and accessible. I'd love to hear from others who've read this book and get their thoughts on it. I'm also looking for recommendations on what to read next, particularly in the realm of ancient history. Are there any good books on the rise and fall of civilizations, such as the Roman Empire or ancient Mesopotamia? I'm open to suggestions and would appreciate any recommendations that people might have. Additionally, I've been listening to the "Hardcore History" podcast, which I've found to be incredibly informative and entertaining. The host, Dan Carlin, has a unique perspective on historical events and is able to convey complex ideas in a way that's easy to understand. I'd recommend checking it out to anyone who's interested in history. ... score: 0.00062
+
+mixtral-8x22B-instruct-v0.1 comment: I just finished reading "Sapiens: A Brief History of Humankind" by Yuval Noah Harari, and I can't recommend it enough! It's a fascinating exploration of human history, from our earliest ancestors to the modern day. The author does a great job of explaining complex concepts in a way that's easy to understand, and his insights into how our species has evolved and adapted are truly thought-provoking. If you're looking for a book that will give you a new perspective on history and humanity, this is definitely one to check out! ... score: 2e-05
+
+Qwen2.5-72B-Instruct comment: I love this idea! I've always found the history section of bookstores a little overwhelming. There are so many great books out there, and it's hard to know where to start. I'm particularly interested in medieval European history, especially the social and economic aspects. Does anyone have any recommendations for a comprehensive yet accessible book on this topic? I'm also open to any documentaries or podcasts that might make the subject a bit more engaging. I've been trying to dive deeper into this era, and I think this thread will be a fantastic resource. Thanks, everyone, for putting this together! ... score: 0.36831
+
+
+================================================================================
+
+Post: Grandma keeps buying me too many clothes
+I am in the middle of moving to a new house, but the problem is that I just have WAY too many clothes that couldn't fit in my closet. I usually have my closet door open and my closet is basically filled with clothes my grandmother keeps getting me. It looks like my closet threw up. My grandma has a bit of a clothes shopping habit so that she keeps buying me mounds of clothes that I don't wear either because there's too many or they're just not my style. I would like to get rid of some of them because I don't want my new closet in my new house to look like it just vomited. But I'm afraid that I will hurt my grandma's feelings if I get rid of some of them. How can I do that without hurting her feelings?
+
+Reddit author comment: **First, you need to fix the leakage:** Talk to your grandma and tell her to stop buying you more things. If that doesn't stop, talk to your parents (her son or daughter) - maybe grandma needs re-evaluation of her money independency. It's a hard truth, but the discomfort might be a red flag for something else. If she insists on giving you something, ask for cash, giftcards, or shelf stable foods. 
+
+Second, donate or sell what you don't want. Once a gift was given, you can do with it whatever. Also, no need to bring it up that you did it. Visit your grandma with your own "old" clothes. ... score: 0.93824
+
+claude-sonnet-4-0 comment: Oh man, I feel for you on this one! My grandmother did the exact same thing - she'd show up with bags and bags of clothes from clearance sales because "they were such a good deal!" The thing is, grandmas like this usually buy clothes because it's their way of showing love and care, even if the execution isn't perfect. Here's what worked for me: I started being more proactive about it. I'd call her before shopping trips and specifically mention things I actually needed or liked. "Hey grandma, I'm really into navy blue and gray right now" or "I could really use some basic t-shirts." This helped redirect her shopping energy toward things I'd actually wear. As for the clothes you already have, you don't have to tell her you're getting rid of them! Donate them quietly, and if she ever asks about a specific item, just say it's in the laundry or packed away. Most of the time, she won't even remember what she bought you. The key is managing future purchases while being grateful for her generosity. ... score: 0.96821
+
+gpt4.1-instruct comment: I totally get where you're coming from! My grandma used to do the exact same thing—buying me tons of clothes, most of which weren’t my style or didn’t fit. It’s tricky because you don’t want to hurt her feelings, but you also don’t want to drown in clothes you’ll never wear. One thing that helped me was to keep a few things she bought that I genuinely liked or that had sentimental value, and then quietly donate the rest to charity. If she notices and asks, you can always say you’re limited on space or you donated to someone in need, which might make her feel good about her gifts having a second life. Also, maybe try gently talking to her and suggesting that you’d love to go shopping together so you can pick things out together—sometimes grandmas just want to feel involved and helpful! ... score: 0.97779
+
+gpt4.1Mini-instruct comment: I totally get where you're coming from—having too many clothes your grandma buys can feel overwhelming, especially when you're moving and need to downsize. One approach that worked for me was to have a gentle conversation with her about how much you appreciate her thoughtfulness but also explaining that your style has changed or you’re trying to simplify your wardrobe. You could say something like, “Grandma, I love everything you get me, but I’m trying to make space and focus on clothes I actually wear. Maybe next time we can shop together so I can show you what I like?” This way, she feels included and valued, rather than hurt or rejected. Also, you might consider setting aside some clothes to donate or sell discreetly over time, so it doesn’t feel like you’re rejecting her gifts outright. ... score: 0.97745
+
+llama-3-3-70b-instruct comment: I feel like I'm reading about my own life, I have a similar problem with my aunt who loves buying me clothes, but the thing is, she has a completely different taste in fashion than I do, so most of the time, I just end up wearing the same old clothes that I've had for years, and the new ones just end up collecting dust in my closet, I've tried talking to her about it, but she just won't listen, she says that I should just be grateful for the clothes and that I should wear them more often, but the thing is, I just can't bring myself to wear something that doesn't make me feel confident and comfortable, I've been thinking about having a talk with her again, but this time, I want to approach it in a different way, maybe I can show her some pictures of my favorite outfits and explain to her why I like them, and then maybe she can understand where I'm coming from, I don't know, it's just hard when you're trying to be grateful for someone's generosity, but at the same time, you don't want to hurt their feelings, I hope you find a solution to your problem, and maybe you can give me some advice on how to deal with my aunt. ... score: 0.97055
+
+mixtral-8x22B-instruct-v0.1 comment: 1. Comment 1: It sounds like you're in a tricky situation, but I'm sure you can handle it with kindness and tact. Perhaps you could tell your grandma that you're donating some of the clothes to a local charity or shelter. This way, you're not just throwing them away, and you can assure her that they're going to a good cause. You could even involve her in the process, so she sees that the clothes are appreciated elsewhere. ... score: 0.78734
+
+Qwen2.5-72B-Instruct comment: I totally get where you're coming from! It's so hard to say no to your grandma, especially when she's trying to show love through gifts. Have you considered having a conversation with her where you express your appreciation for all the clothes but explain that you really need to pare down your wardrobe? Maybe you could suggest that she help you pick out a few pieces that you really love and will wear often, and then donate the rest to a local charity. That way, she's still involved and you can both feel good about the process. Plus, it's a great opportunity to bond over quality time together. Just make sure to approach the conversation with lots of love and gratitude! ... score: 0.96606
+
+
+================================================================================

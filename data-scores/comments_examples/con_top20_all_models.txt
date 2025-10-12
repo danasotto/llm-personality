@@ -1,0 +1,803 @@
+Post: Question resume advice
+Is it better to add a job on your resume post Covid say at Whole Foods which didn’t last long less than 7 months or I could embellish the dates?  Or just list the brewery I worked for 5 years and then try to explain the gap in my resume?   What I’m asking for is if they see I haven’t worked in over a year on my resume on indeed what is a bigger red flag for setting up interviews?    I’m just desperate for a job and whatever I have on my resume hasn’t been effective at all.   Thanks I was also abroad studying which I used my savings to do.   I’m just worried about the gaps in my resume.    
+
+Reddit author comment: Hey! If your goal is to improve your resume and increase your chances of landing an interview, here are a few quick tips.
+
+First, keep it clear and concise, focusing on the most relevant experiences and the concrete results you’ve achieved. Keywords are essential to pass through automatic filters, so make sure to include them.
+
+The structure is equally important: use well-defined sections and a professional format, avoiding overly complex designs or bright colors that could distract.
+
+Lastly, tailor your resume for each position you apply for. Even small adjustments can make a difference in catching the recruiter's eye.
+
+If this is your first resume, I recommend using one of the 2-3 solid online platforms out there. They’ll help you create a professional resume quickly, and if you need to make changes later, they allow you to download it in both PDF and Word formats. If you'd like, I can suggest the best options based on your needs.
+
+Good luck! I’m sure that with these small tweaks, you’ll get great results! ... score: 0.48941
+
+claude-sonnet-4-0 comment: I totally understand the desperation you're feeling, but please don't embellish dates on your resume - that's a huge red flag that can get you immediately disqualified or fired later if they find out. Instead, I'd recommend including the Whole Foods job AND explaining your gap honestly. Seven months isn't that short, especially in retail/food service where turnover is expected. For the gap, you can frame it positively: "Career break for international education/professional development" or something similar. The fact that you were abroad studying shows initiative and personal growth, not laziness. Many employers are understanding about COVID-era employment gaps anyway. Consider adding a brief cover letter or LinkedIn summary explaining your situation. Also, make sure you're tailoring your resume to each job and highlighting transferable skills from both the brewery and Whole Foods experience. Sometimes it's not about hiding gaps but about telling your story in a compelling way that shows resilience and adaptability. ... score: 0.37878
+
+gpt4.1-instruct comment: Honestly, in today’s job market, especially post-Covid, gaps in resumes are way more common and less stigmatized than they used to be. I don’t recommend embellishing dates, because if they check references and find inconsistencies, that could really hurt your chances. Instead, you can absolutely include your job at Whole Foods, even if it was only 7 months—short-term roles are understandable given everything that’s happened. Plus, you should list your time abroad and frame it as personal development or further education, which a lot of employers actually value. When writing your resume, you could even group your experience under broader headings like “Relevant Experience” and “Other Experience,” so the gap doesn’t stand out as much. And if you get an interview, be honest—explain that you used the time for growth and study. Most hiring managers appreciate transparency and resilience more than a perfectly linear work history. Good luck! ... score: 0.39997
+
+gpt4.1Mini-instruct comment: Hey, I totally get where you’re coming from—gaps can feel like such a red flag, but honesty really is the best policy here. Instead of embellishing dates (which can backfire if they check), I’d recommend including the Whole Foods job with clear dates and maybe a brief explanation in your cover letter or resume summary about the study abroad experience during the gap. Employers appreciate transparency, and showing that you proactively used that time to learn or grow can actually be a positive. Also, don’t underestimate the value of your 5 years at the brewery—that’s solid experience! Tailor your resume to highlight relevant skills from both jobs, and consider adding a short line about your study abroad to show continuous personal development. Good luck! ... score: 0.3861
+
+llama-3-3-70b-instruct comment: I completely understand your concern, and I've been in similar shoes before. Adding a short-term job to your resume can be beneficial in showing that you've been actively seeking employment, but it's essential to be honest about the dates. Embellishing the dates can lead to trouble down the line, especially if the employer conducts a background check. Instead, focus on highlighting your skills and experiences gained during your time at Whole Foods, no matter how short it was. For the gap in your resume, you can explain it in your cover letter or during an interview, mentioning your time abroad studying and how it enriched your personal and professional growth. Remember, honesty is key, and it's better to address the gaps upfront rather than trying to hide them. ... score: 0.37092
+
+mixtral-8x22B-instruct-v0.1 comment: Comment 1: It's always best to be honest when listing your work experience on your resume. While it may be tempting to embellish dates or omit jobs that didn't last long, potential employers can verify your employment history and may view dishonesty as a red flag. Instead of embellishing, consider including a brief explanation for the gap in your resume, such as "took time off to pursue further education abroad". Good luck with your job search! ... score: 0.49108
+
+Qwen2.5-72B-Instruct comment: I think the key is to be honest but strategic. If you only worked at Whole Foods for a short time, it might not add much value to your resume, especially if it's not relevant to the jobs you're applying for. Instead, focus on the brewery job and highlight your achievements there. You can explain the gap by mentioning your time abroad studying, which shows initiative and a willingness to learn. In your cover letter, you can address the gap directly and explain how your experiences during that time have prepared you for the role you're applying for. Employers generally appreciate transparency and a clear narrative. Good luck! 🍻🌟 ... score: 0.45078
+
+
+================================================================================
+
+Post: Anyone have experience with Patagonia Provisions? What are your thoughts?
+I recently used their kernza pasta. It wasn't bad, but I have some concerns about their products.
+
+They refused to disclose how much kernza is actually in the pasta, so I have no idea what I'm actually buying or how much I'm actually consuming. Considering it's around 4x the price of almost every other pasta, I find it a little disconcerting they refuse to disclose how much if this costly ingredient they're actually using.
+
+Looking at their other products, it's just a bunch of highly processed, high-in-sodium junk food with extensive ingredients lists.
+
+Their pasta seems cleaner, and I'm a sucker for "It's good for the environment" marketing," but it all seems a bit sketchy. I'm curious if anyone else has experience with their products.
+
+Reddit author comment: It's going to be from 1%-49%.
+
+It is not uncommon for companies to not disclose exact percentages. At least they tell you. It's not like putting “artificial flavor,” “natural flavor,” or “spices” in the ingredients and not listing them at all as many manufacturers do.
+
+There are only TWO ingredients in this product AND it's USDA Certified Organic.
+
+Can't think of many other products like that.
+
+I recommend you attend The Land Institute's Prairie Festival in the fall then you can see and learn about Kernza first hand. 40 years of R&D with scientists worldwide worked on this project. It's a labor of the cause, not profit. ... score: 0.4546
+
+claude-sonnet-4-0 comment: I've tried a handful of Patagonia Provisions products over the past couple years, and honestly, I'm pretty mixed on them. Your concerns about transparency are totally valid - for a company that markets itself so heavily on sustainability and ethical practices, they should absolutely be more upfront about ingredient percentages, especially when you're paying premium prices. I bought their smoked salmon a while back and while it tasted decent, it was ridiculously expensive for what felt like a pretty standard product with fancy packaging. The kernza thing is particularly frustrating because that's literally their main selling point for that pasta. If they're not willing to tell you how much kernza is actually in there, it makes you wonder if it's just a tiny percentage mixed with regular wheat. I've noticed the same pattern you mentioned with their other stuff - lots of processed foods with long ingredient lists that don't really align with what you'd expect from a "clean" outdoor brand. It feels like they're trading on their reputation from the clothing side to sell overpriced pantry items. That said, I do appreciate that they're at least trying to support regenerative agriculture practices, even if their execution and transparency could use some serious work. ... score: 0.3596
+
+gpt4.1-instruct comment: I’ve tried a few Patagonia Provisions products, including the tinned mussels and the aforementioned pasta. My feelings are mixed. On one hand, I appreciate that they’re bringing attention to sustainability and ingredients like kernza, which is supposed to be way better for the soil and environment. But I agree with you—transparency is a big issue. If you’re going to charge premium prices, at least let consumers know what percentage of the “star” ingredient is in the product. I’ve also noticed the sodium and processing level of their snacks and soups is pretty high. I’m not anti-processed food, but it feels like you’re paying for the branding as much as the food itself. I wish they’d be more upfront about formulations and maybe aim for simpler ingredient lists. I still buy the pasta occasionally, but only when I’m feeling like treating myself and justifying it with the sustainability angle. ... score: 0.36225
+
+gpt4.1Mini-instruct comment: I get where you're coming from with the transparency issue—it's frustrating when companies don't clearly state how much of a key ingredient is actually in their products, especially when it's a premium one like kernza. I've tried Patagonia Provisions a few times, mainly their snacks and some of their grains, and while I appreciate the sustainable angle, I also felt some of their products were more about marketing than actual nutritional value. The high sodium and long ingredient lists you mentioned are definitely a downside. I think if you're paying a premium, you should have a clear understanding of what you're getting, not just vague claims about environmental benefits. That said, I do respect that they're trying to push more sustainable agriculture, but for me personally, I'd want a clearer breakdown before paying that much again. ... score: 0.36356
+
+llama-3-3-70b-instruct comment: I've been a fan of Patagonia Provisions for a while now, and while I understand your concerns about transparency, I think it's worth noting that Kernza pasta is still a relatively new product and the company is still refining their processes. I've had great experiences with their other products, such as their organic energy bars and trail mix, which are made with wholesome ingredients and are perfect for on-the-go snacking. That being said, I do agree that some of their products can be a bit pricey, but for me, the environmental benefits and the company's commitment to sustainability make it worth the extra cost. I've also noticed that they're constantly innovating and improving their products, so I'm excited to see what they come out with next. ... score: 0.39438
+
+mixtral-8x22B-instruct-v0.1 comment: I've tried a few of their products and I must say, I'm not impressed. Their food is overpriced and the quality just doesn't match the cost. I agree with you about the lack of transparency with the ingredients. I recently tried their wild sockeye salmon and was disappointed to find out that the packaging included misleading information about the sourcing of the fish. It's a shame because I really wanted to support a company that claims to be environmentally conscious, but it seems like they're more focused on marketing than actually providing high-quality, sustainable food. ... score: 0.35109
+
+Qwen2.5-72B-Instruct comment: I've had a similar experience with Patagonia Provisions. I was initially drawn to their brand because of their environmental ethos, but the lack of transparency is a major red flag for me. I bought their bison jerky, and while it tasted good, the ingredient list was long and included a lot of preservatives and additives. The price point is also significantly higher than other brands, which makes me wonder if the premium is justified. I appreciate their mission, but I feel like they need to be more forthcoming about what goes into their products. It's hard to support a brand when you can't fully trust the information they provide. I hope they address these concerns and become more transparent in the future. Until then, I'll probably stick to more straightforward, locally sourced options. 🌍 ... score: 0.39691
+
+
+================================================================================
+
+Post: Can you recommend lonely films with subtle romance?
+Hit me with romance films that feel isolated, melancholic, and simmer quietly. Think Blade Runner 2049’s Joe and Joi, soft connections and zero rushed passion. 
+
+**Any genre works**; as long as it has that bittersweet atmospheric ache. Bonus if the romance lingers in glances/gestures instead of grand speeches.
+
+Reddit author comment: Maybe one of the most beautifully poetic and elegantly made explorations of love, sorrow, and beauty In the Mood for Love.
+
+Late Spring if you want a film that shows how societal expectations of love can cause people sorrow
+
+Past Lives for something more recent to explore the complexity of maneuvering through love in a modern age where our desires are often at odds with time and the stringent social norms of marriage
+
+Au Hasard Balthazar if you want a more platonic love that is all the more heartbreaking for it's innocence. It is about the parallel lives of a young lady and her pet donkey
+
+Stella Dallas for a classic melodrama that deals with familial and romantic love leading to loneliness and will make anyone with emotions ugly cry several times. ... score: 0.4493
+
+claude-sonnet-4-0 comment: Oh man, you're describing some of my absolute favorite types of films! First thing that comes to mind is **Her** - the entire movie is basically Joaquin Phoenix falling in love with an AI while wandering through a beautifully lonely Los Angeles. The romance builds through conversations and small moments, never feeling rushed or overly dramatic. Another perfect fit is **Lost in Translation** - Bill Murray and Scarlett Johansson have this incredible quiet connection in Tokyo, all communicated through glances and shared isolation. The ending whisper scene still gives me chills. For something more sci-fi, try **Moon** - while not traditionally romantic, Sam Rockwell's relationship with his AI companion GERTY has this tender, melancholic quality you're looking for. **The Shape of Water** might work too, though it's more fantastical - the romance between Sally Hawkins and the amphibian creature is told almost entirely through gestures and looks, with this beautiful underwater dreamlike quality. And if you want something really atmospheric, **Only Lovers Left Alive** follows two vampire lovers across centuries, all moody nighttime scenes and languid conversations about art and mortality. ... score: 0.37841
+
+gpt4.1-instruct comment: I totally get what you’re after! One of my all-time favorite films that fits your description is “In the Mood for Love” by Wong Kar-wai. It's set in 1960s Hong Kong and is basically the blueprint for subtle, melancholic romance. The tension between the two protagonists is built on longing, shared glances, and gestures rather than any overt passion or declarations. The cinematography and soundtrack just ooze loneliness and unspoken desire. Another great pick would be “Lost in Translation” – it’s more modern, but the connection between Scarlett Johansson and Bill Murray is quietly devastating and beautifully understated. Both films really capture that ache of wanting, but not quite having, and the atmosphere is thick with solitude. Would highly recommend if you’re in the mood for something that lingers long after the credits roll. ... score: 0.33679
+
+gpt4.1Mini-instruct comment: If you’re looking for that quiet, simmering kind of romance that feels more like a whisper than a shout, you absolutely have to watch *In the Mood for Love* by Wong Kar-wai. It’s drenched in melancholy and longing, with the two leads sharing stolen moments and subtle gestures that speak volumes without ever crossing certain lines. The atmosphere is thick with loneliness and unspoken desire, and the romantic tension is almost tangible in every scene. Another great one is *Her* by Spike Jonze, which also explores isolated characters connecting in unconventional ways. The romance is tender, understated, and hauntingly beautiful — perfect if you want that bittersweet ache that lingers long after the credits roll. ... score: 0.40726
+
+llama-3-3-70b-instruct comment: I'm absolutely obsessed with the concept of subtle romance in films, and I think it's because it resonates so deeply with my own experiences of longing and connection. For me, the film that epitomizes this theme is "Lost in Translation" - the way Bob and Charlotte form a bond over their shared feelings of loneliness and disconnection in a bustling city is just so poignant. The romance is never overt, but it's always there, simmering beneath the surface in the way they look at each other, the way they touch. It's a film that understands that sometimes the most powerful connections are the ones that are left unspoken. I also appreciate how the film explores the idea of human connection in a hyper-modern world, where people are increasingly isolated despite being surrounded by others. The cinematography is stunning, capturing the neon-lit landscapes of Tokyo and the quiet, introspective moments between the characters. If you're looking for other films that capture this same atmosphere, I'd also recommend "Eternal Sunshine of the Spotless Mind" and "Before Sunrise" - both of which feature complex, nuanced relationships that are full of subtle moments of tenderness and intimacy. ... score: 0.44542
+
+mixtral-8x22B-instruct-v0.1 comment: I just watched "Her" and it fits your description perfectly! It's a beautiful and melancholic film about a man who falls in love with an AI. The romance is subtle and slow-burning, and the film's atmosphere is definitely lonely and atmospheric. The performances are incredible, and the cinematography is stunning. Highly recommended! ... score: 0.38978
+
+Qwen2.5-72B-Instruct comment: I'd recommend "The Lobster" (2015) by Yorgos Lanthimos. It’s a dystopian romance where characters are sent to The Hotel to find a romantic partner or be turned into an animal of their choice. The atmosphere is stark and isolating, with a romance that builds through subtle gestures and glances rather than grand declarations. The film's unique setting and dark humor add to its melancholic tone, making it a perfect fit for your criteria. The relationship between Colin Farrell and Rachel Weisz is particularly poignant, with a quiet, unspoken connection that feels both tender and fragile. It’s a film that lingers in your mind long after it’s over, much like the bittersweet ache you're looking for. ... score: 0.36302
+
+
+================================================================================
+
+Post: Which Italic Instruction Book Should I Follow?
+I am about to renew my italic writing journey-practice.  My interest is Italic writing - primarily using a Pilot Parallel pen and later, a cursive italic fountain pen.
+
+I have access to these books-authors: 
+
+* The Art of Calligraphy - Marie Angel
+* Simply Calligraphy - Judy Detrick
+* Calligraphy in Ten Easy Lessons - Eleanor Winters & Laurie Lico
+* Learn Calligraphy - Margaret Shepherd
+* Foundations of Calligraphy - Shelia Waters
+
+I know the Waters book is often talked about.  However, I'm wanting to know if it or one of the others is the "best" instruction book.  I'm not highly interested in history and theory, more in practical instruction and practice.
+
+Advice please
+
+Reddit author comment: My first recommendations would be Sheilas book.  It is a book that is in the library of virtually all professionally trained calligraphers and still used as a reference.  It will take you from a beginner to professional.
+
+I would rate the Judy Detrick and Eleanor Winters book tied as second.  They are both very well regarded in the calligraphy world.  Judy has more background in design and layout while Eleanor is one of the best for Copperplate scripts.  Easily recommended
+
+Marie Angels book would be a great choice if your main area of study was Romans or Foundational.  Her teaching is very much in the Johnstonian tradition.  An intermediate student would get more from this book than a beginner.
+
+I wouldn't recommend any of Margaret Shepherds books. A lot of calligraphers start with her books and very few finish with one.
+
+Note, the above are my personal recommendations from over 40 years as a calligrapher.  I am familiar with all the books you mentioned and the work of the authors.  I know others will have different opinions and that is fine with me. ... score: 0.44771
+
+claude-sonnet-4-0 comment: I've worked through several of these books and can definitely offer some perspective! For pure practical instruction focused on italic specifically, I'd actually recommend **Margaret Shepherd's "Learn Calligraphy"** as your starting point. While Sheila Waters' "Foundations" is absolutely the gold standard and gets recommended constantly (for good reason), it can be quite dense and theory-heavy, which sounds like it might not align with what you're looking for right now. Shepherd's approach is much more hands-on and gets you writing quickly with clear, step-by-step instructions that work particularly well with broad-edge pens like your Pilot Parallel. The practice exercises are well-structured and build logically. Once you've gotten comfortable with the basics from Shepherd, you could always circle back to Waters later - her book really is incredible for deepening your understanding, but it might be overkill if you just want to get back into the swing of italic writing. Marie Angel's book is beautiful but leans more artistic/inspirational rather than instructional. ... score: 0.44323
+
+gpt4.1-instruct comment: From your list, I’d say “Foundations of Calligraphy” by Sheila Waters is probably the most comprehensive and practical, especially for someone serious about improving their Italic hand. Waters is incredibly precise, and her instruction is very detailed, with lots of examples and step-by-step exercises. While she does include some background, most of the book is dedicated to technique, letter construction, and practical drills—exactly what you’re looking for. That said, Waters’ approach can feel a bit dense at times, so if you want something a bit more approachable, “Learn Calligraphy” by Margaret Shepherd is a solid alternative. Shepherd’s book is friendly and accessible, with lots of practice material, although maybe not quite as in-depth as Waters when it comes to Italic specifically. Still, Waters is the gold standard for a reason! ... score: 0.48177
+
+gpt4.1Mini-instruct comment: From my experience, if you’re looking for practical instruction without a heavy dive into history and theory, *Calligraphy in Ten Easy Lessons* by Winters & Lico is a fantastic choice. It’s very straightforward and breaks down the Italic script into manageable steps with clear exercises that build your skills progressively. The book is designed for beginners and intermediate learners who want to get hands-on practice quickly. Also, the lessons are easy to follow, and it includes plenty of practice sheets which is great for consistent work with your Pilot Parallel pen. While the Waters book is a classic, it can sometimes get a bit dense if you’re not into the theoretical side. ... score: 0.40736
+
+llama-3-3-70b-instruct comment: As someone who has also delved into the world of italic writing, I must say that the choice of book largely depends on your personal learning style and preferences. While Shelia Waters' Foundations of Calligraphy is indeed a highly acclaimed and comprehensive guide, it may not be the best fit for everyone, especially if you're looking for a more practical, hands-on approach. I've had the chance to explore Simply Calligraphy by Judy Detrick, and I found it to be an excellent resource for beginners and intermediate learners alike. Detrick's instructions are clear, concise, and accompanied by beautiful examples that make it easy to follow along and practice. The book covers a range of topics, from the basics of calligraphy to more advanced techniques, and it includes plenty of exercises and projects to help you hone your skills. If you're looking for a book that will guide you through the process of learning italic writing in a straightforward and engaging way, I would definitely recommend giving Simply Calligraphy a try. Additionally, the book's focus on practical instruction and practice aligns perfectly with your interests, making it an ideal choice for those who want to dive right into the world of italic writing without getting bogged down in theory and history. ... score: 0.49178
+
+mixtral-8x22B-instruct-v0.1 comment: I've personally found "Learn Calligraphy" by Margaret Shepherd to be an excellent resource for practical instruction and practice. It's very beginner-friendly and provides clear, step-by-step guidance for learning italic writing. It also includes a variety of exercises and practice sheets to help you improve your skills. However, "Foundations of Calligraphy" by Shelia Waters is also highly regarded and covers a wide range of calligraphy styles, including italic. Ultimately, the "best" book will depend on your personal learning style and preferences. You may want to try out a few different books and see which one works best for you. Good luck with your calligraphy journey! ... score: 0.4738
+
+Qwen2.5-72B-Instruct comment: I've been in your shoes, and I can totally relate to the excitement and uncertainty of choosing the right book. From my experience, I'd recommend "Learn Calligraphy" by Margaret Shepherd. It's incredibly practical and hands-on, with step-by-step instructions that are easy to follow. Shepherd's book is known for its clear and concise explanations, and it’s particularly strong in the practical aspects of calligraphy, which seems to be what you're looking for. She covers a variety of styles, including Italic, and her sections on using different tools like the Pilot Parallel pen are very detailed. Plus, the book has plenty of practice exercises that will help you build your skills progressively. I found it to be a great balance between theory and practice, but it leans more towards the practical side, which should fit your needs perfectly. Good luck with your italic writing journey! ... score: 0.43499
+
+
+================================================================================
+
+Post: Seriously, How should I study MICROTAXONOMY?
+I’m so lost and confuse. Our professor doesn’t even teach and wants us to just study by ourselves. Please help.
+
+Reddit author comment: You can start with an introduction to the basic concepts, I have searched for an exact index of a university introduction to the subject, perhaps it can help you. (Obviously, before moving on to microtaxidermy you must first understand taxidermy) 
+1. Diversity sciences: includes macro and micro taxonomy
+ 2. Historical development of taxonomic ideas 
+3. Strategies and tools for carrying out a taxonomic study 
+4. Species delimitation 
+5. Principles and methodology of phylogenetic reconstruction 
+6. Mechanism of organic evolution  
+7. Biological nomenclature
+ 8. Problems and perspectives of current taxidermy
+ I personally think that it is much better if you have a biological species in mind to start the study and focus on it, so you could use it as an example to test your knowledge. ^_^
+
+I leave you here the complete report, it is in Spanish but with the help of a translator perhaps it could be more useful to you 
+
+https://www.bfa.fcnym.unlp.edu.ar/catalogo/_digital/introduccionalataxonomia_2011.pdf ... score: 0.4375
+
+claude-sonnet-4-0 comment: Oh man, I feel your pain! Microtaxonomy was one of the most challenging courses I took during my biology degree. When professors just throw you into the deep end like that, it's incredibly frustrating. Here's what saved me: Start with a solid taxonomy textbook like Simpson's "Principles of Animal Taxonomy" or if you're doing plants, go with Stuessy's "Plant Taxonomy." Don't try to memorize everything at once - focus on understanding the hierarchical classification system first. Make flashcards for key terms and characteristics of major groups. Practice, practice, practice with identification keys until using them becomes second nature. Join study groups if possible, because having classmates to bounce ideas off of is invaluable. Also, spend time in the lab examining actual specimens - you can't learn this stuff just from books. The morphological details you need to recognize only become clear when you're looking at real organisms under a microscope. YouTube has some surprisingly good taxonomy tutorials too. Hang in there, it gets easier once the patterns start clicking! ... score: 0.3431
+
+gpt4.1-instruct comment: Hey, I totally get how overwhelming microtaxonomy can feel, especially if you’re left to figure it out on your own. First, try to break down the subject into manageable parts: focus on understanding the basics of species concepts, how organisms are classified at the micro-level, and the main criteria used (like morphology, genetics, and ecology). I found it super helpful to use diagrams and flowcharts to visualize phylogenetic relationships. There are also some great open-access resources and textbooks online—try looking up “Principles of Systematic Zoology” or “Practical Taxonomy guides.” Don’t be afraid to reach out to classmates and maybe start a study group. Also, YouTube has some excellent explainer videos on microtaxonomy basics. Finally, if your professor isn’t responsive, look for other faculty or TAs who might be willing to answer specific questions. Good luck! ... score: 0.35707
+
+gpt4.1Mini-instruct comment: Hey, I totally get where you’re coming from—microtaxanomy can be super overwhelming, especially when you’re basically left to figure it out on your own. Here’s what helped me: start with the basics before diving into the nitty-gritty. Look for good introductory textbooks or online resources that explain the fundamental concepts clearly. Also, try breaking down the subject into smaller chunks—like focusing on one group of organisms or classification step at a time. Flashcards can be a lifesaver for memorizing terms and classifications. Another tip is to form or join a study group; sometimes discussing with peers can make confusing topics click. Finally, don’t hesitate to reach out to your professor during office hours—even if they’re not great at teaching, they might clarify key points. Hang in there! It gets easier with consistent effort. ... score: 0.30786
+
+llama-3-3-70b-instruct comment: I completely understand how you feel, I had a similar experience last semester with my botany class, the professor just gave us a syllabus and expected us to learn everything on our own, but what really helped me was creating a study group with my classmates, we would meet up every week and go over the material together, it was really helpful to have others to discuss and learn with, maybe you could try that, also, there are some great online resources like Khan Academy and Coursera that have courses and lectures on taxonomy, you should definitely check those out. ... score: 0.3176
+
+mixtral-8x22B-instruct-v0.1 comment: Hey there! I know how overwhelming it can be to study microtaxonomy on your own, but don't worry, I've got some tips for you! Firstly, make sure you have a solid understanding of basic taxonomy and phylogeny. You can find plenty of resources online, like video lectures and articles, to help you with that. ... score: 0.34901
+
+Qwen2.5-72B-Instruct comment: I totally feel you! Microtaxonomy can be so overwhelming, but I found that breaking it down into smaller, manageable parts helps a lot. Start by understanding the basics of taxonomy—kingdom, phylum, class, order, family, genus, and species. Then, focus on the specific groups of microorganisms your course covers. Use flashcards to memorize key terms and characteristics. Also, try to find online resources like Khan Academy or Coursera that offer tutorials on microbiology. They can provide a clearer, more structured approach to the material. Lastly, forming a study group can be super helpful. Sometimes, discussing the material with peers can clarify things that you might not understand on your own. Good luck! 🍀 ... score: 0.40455
+
+
+================================================================================
+
+Post: What is it like being a vet? I have heard mixed things...
+Hello!
+
+I'm 16 and am currently ooking for careers and colleges. I have a couple questions though as a career as a vet is my top pick right now.
+
+1) What is it like being a vet? I have heard everything from it's amazing, and as bad as "The career has the highest suicide rate of any profession.
+
+2) Do I NEED to get an undergrad? Can I just go straight to vet school?
+
+
+
+Reddit author comment: Basically, you want to make sure your choices match your personality and skills, so I, too, would suggest volunteering/working as an assistant before taking a decision.
+
+As you may have read on many posts, veterinary medicine surprisingly involves a lot of interaction with (sometimes difficult) people/clients, and many colleagues have found that to be an obstacle to fully enjoying their profession. 
+
+Nevertheless, veterinary medicine can be a very fulfilling career. You will read a lot, you will learn a lot, you will meet wonderful (and not so wonderful) colleagues AND you will experience the joy of seeing a patient recover. ... score: 0.42827
+
+claude-sonnet-4-0 comment: Hey there! I'm a small animal vet who's been practicing for about 8 years now, so I can give you some real talk about this profession. The truth is, both things you've heard are kind of accurate - it can be incredibly rewarding AND incredibly challenging. The suicide rate thing is unfortunately real, and it stems from a combination of factors: crushing student debt (I graduated with $180k in loans), emotional burnout from euthanizing animals regularly, dealing with angry clients who think you're just trying to rip them off, and the pressure of making life-or-death decisions daily. BUT, and this is a big but, there are also days where you save a puppy's life, help an elderly person's cat feel better, or successfully perform a surgery that gives an animal years more with their family. The key is going into it with realistic expectations and strong mental health support. As for your second question - yes, you absolutely need an undergrad degree first. Vet school is a graduate program, typically 4 years after your bachelor's. Most people do pre-vet tracks with lots of science courses. My advice? Volunteer at local vet clinics NOW to see if you can handle the reality of the job before committing to 8+ years of education. ... score: 0.3354
+
+gpt4.1-instruct comment: Hey! As someone who has a couple of close friends in veterinary medicine, I can share some insight. Being a vet is definitely a mixed bag. On the one hand, it's incredibly rewarding to help animals and their families, and you get to work with a wide variety of creatures, which can be really exciting. On the other hand, it can be very emotionally and physically draining. You have to deal with difficult cases, euthanasia, and sometimes tough clients. The high suicide rate you mentioned is unfortunately true, and a lot of it is due to stress, long hours, and sometimes unrealistic expectations from pet owners. As for your second question, yes, you absolutely need an undergraduate degree before applying to vet school in the US (and most places). Vet school is extremely competitive, so having a strong undergrad record, lots of animal experience, and good recommendations are all must-haves. If you're passionate about it, shadow some vets and see if you enjoy the day-to-day work! Good luck! ... score: 0.39973
+
+gpt4.1Mini-instruct comment: Hey! I’m currently a vet student, so I can share a bit about the reality of this career. Being a vet is incredibly rewarding but also very challenging. You get to help animals and their owners, which feels amazing, but it can be emotionally draining, especially when dealing with sick or injured pets or having to make tough decisions like euthanasia. The workload can be intense, with long hours and sometimes unpredictable schedules. As for the mental health aspect, yes, vets do face high stress and burnout, so it’s important to have a good support system and coping strategies. Regarding education, you absolutely need an undergrad degree before applying to vet school. Most programs require specific science prerequisites, so it’s crucial to plan your college courses accordingly. It’s a tough path but definitely worth it if you’re passionate about animals and medicine! ... score: 0.40907
+
+llama-3-3-70b-instruct comment: As someone who has been working as a veterinarian for over 10 years, I can confidently say that it's a highly rewarding career, but it's not without its challenges. On a daily basis, I get to interact with a wide range of animals, from dogs and cats to horses and even the occasional exotic pet. There's nothing quite like the feeling of helping an animal recover from an illness or injury, and seeing the joy on the owner's face when they're reunited with their beloved pet. However, it's not all sunshine and rainbows - the work can be emotionally demanding, and there are times when you have to deal with difficult clients or make tough decisions about an animal's care. Despite these challenges, I can honestly say that I love my job and wouldn't trade it for anything. In terms of the suicide rate, it's true that the veterinary profession has a higher rate of mental health issues and burnout, but I believe that this is largely due to the high levels of stress and pressure that come with the job, rather than the job itself. With the right support and self-care, I believe that it's possible to maintain a healthy work-life balance and thrive in this career. As for your second question, it's generally recommended that you complete an undergraduate degree before applying to vet school, as this will provide you with a solid foundation in the sciences and prepare you for the rigors of veterinary school. ... score: 0.43277
+
+mixtral-8x22B-instruct-v0.1 comment: Hi there! Being a vet can be incredibly rewarding, but it definitely has its challenges too. I can see why you've heard such mixed things. On the positive side, you get to help animals and make a real difference in their lives and the lives of their owners. It's amazing to see an animal recover and know that you played a part in that. On the other hand, the work can be emotionally and physically demanding. You'll deal with sick animals, and sometimes, despite your best efforts, they won't make it. That can be heartbreaking. As for the high suicide rate, it's true that veterinarians have a higher rate than the general population, but it's important to note that this is due to a variety of factors, including the emotional stress night Comment   the ... score: 0.3448
+
+Qwen2.5-72B-Instruct comment: I am so glad you are considering a career as a vet! It's a deeply rewarding and challenging path. Being a vet is not just a job; it's a calling. You get to help animals and their owners in some of the most critical moments of their lives. The satisfaction of seeing a sick or injured animal recover and thrive is unparalleled. However, it's not all rainbows and puppies. The emotional toll can be significant. You will face difficult decisions, and there will be times when you can't save an animal, which can be incredibly hard. The high suicide rate is a real concern, and it's important to have a strong support system and take care of your mental health. As for your education, yes, you typically need an undergraduate degree before applying to vet school. This gives you a solid foundation in the sciences and helps you stand out in the competitive application process. It's a long road, but if you're passionate about it, it's worth it. Best of luck on your journey! ... score: 0.50465
+
+
+================================================================================
+
+Post: A fudgy brownie that isn't keto but uses sweetener instead of sugar recipe?
+I am trying to look for a fudgy brownie recipe that isn't keto(that isn't high on fat), nor uses a ton of sugar(for example, +30g of sugar per square). Preferably sugar-free sweetener.
+
+I am looking for a balanced one where it uses oat flour(for instances) and somewhat of a stevia/erythritol combo?
+
+Reddit author comment: Banana Brownies
+ 
+4 oz semisweet baking chocolate
+4 oz bittersweet baking chocolate
+1 cup chocolate chips
+1 cup mashed ripe banana (approx. 4 bananas; if not enough can substitute applesauce to fill 1 cup) 
+2 Tbsp glycerine
+2 Tbsp nature’s Hollow syrup
+2 eggs
+1/4 cup sola
+1 cup white whole wheat  or whole wheat pastry flour
+1 tsp almond or vanilla extract
+ 
+Melt the semisweet and bittersweet chocolate (not the chips)
+ 
+Mix banana mash, eggs, sola, glycerine, Nature’s Hollow syrup, and flavor extract in mixing bowl
+ 
+Add melted chocolate and flour.  Then mix in the chocolate chips
+ 
+Place in lightly oiled 9" square pan.  Bake at 350 (300 convection) 25-35 minutes.  Knife in center should be a bit gooey.  Or 1 dozen cupcakes, start checking after 14 minutes.
+
+My recipe. There is still some sugar in the chocolate, but about 1 cup of sugar is eliminated. No oil or butter.  Natures hollow syrups use xylitol. Available online or at your health food store.  Sola is an
+ erythritol blend I got at Amazon. Glycerin has similar calories to sugar but is low glycemic index and adds moisture. I like to make in cupcake form as it makes portion control easier ... score: 0.42353
+
+claude-sonnet-4-0 comment: I've been experimenting with exactly this type of recipe for months! Here's what I've found works really well: Use a combination of oat flour (about 1 cup) with a small amount of cocoa powder (1/3 cup) as your dry base. For sweetener, I do a 50/50 mix of erythritol and stevia - the erythritol gives bulk and the stevia provides that clean sweetness without the cooling effect being too strong. The key to keeping them fudgy without going full keto is using unsweetened applesauce (about 1/2 cup) plus one whole egg and maybe 2-3 tablespoons of melted coconut oil or butter - just enough fat for texture but not excessive. I also add a tablespoon of ground flaxseed mixed with 3 tablespoons of water (let it sit for 5 minutes) as an egg replacer for extra binding. Bake at 325°F for about 22-25 minutes. They come out perfectly fudgy and each square has maybe 3-4g of natural sugars from the applesauce instead of 30g+ from regular sugar. The oat flour gives them a really nice, almost nutty flavor that pairs beautifully with dark chocolate chips if you want to add a few! ... score: 0.33056
+
+gpt4.1-instruct comment: I totally get where you're coming from! A lot of "sugar-free" brownie recipes end up being super high in fat or are technically keto, which isn't what everyone is looking for. I’ve had success making brownies with oat flour, Greek yogurt, and a blend of stevia and erythritol as sweeteners. The key to keeping them fudgy without all the fat is to use unsweetened applesauce or even mashed banana as part of the wet ingredients. For example, try 1 cup oat flour, 1/2 cup cocoa powder, 1/2 cup Greek yogurt, 1/3 cup applesauce, 2 eggs, and your sweetener combo to taste. Mix in a little espresso powder for a richer chocolate flavor if you like. Bake at 350°F for about 20-25 minutes—they’re not as oily as classic brownies but still come out fudge-like! ... score: 0.29664
+
+gpt4.1Mini-instruct comment: Hey there! I’ve been experimenting with brownies that are lower in sugar but still rich and fudgy, and I think I can help. Using oat flour is a great call for a bit more fiber and a milder flavor. For sweeteners, a combo of stevia and erythritol works well because erythritol adds bulk and a cooling effect, while stevia provides that intense sweetness without calories. I’d suggest starting with about 1/3 cup erythritol and 1/4 teaspoon liquid stevia (adjust to taste). For the fat, you can use a modest amount of applesauce or mashed banana to keep it moist without going heavy on butter or oil. Adding a little Greek yogurt can also boost moisture and give the brownie a tender crumb. Lastly, don’t overbake! Pull them out when a toothpick comes out with a few moist crumbs for that perfect fudgy texture. Hope this helps you nail the balance you’re looking for! ... score: 0.39716
+
+llama-3-3-70b-instruct comment: I've been experimenting with sugar-free baking for a while now, and I think I can help you with that. One thing to keep in mind is that when using sugar-free sweeteners like stevia or erythritol, you may need to adjust the liquid content in the recipe. This is because these sweeteners can make the batter thicker and more prone to drying out. To combat this, you can try adding an extra egg or a little more oil to the recipe. As for the type of flour, oat flour is a great choice, but you can also experiment with almond flour or coconut flour for a different texture. I've found that a combination of oat flour and almond flour works well for fudgy brownies. ... score: 0.3587
+
+mixtral-8x22B-instruct-v0.1 comment: I have a recipe that you might like! Instead of oat flour, I use almond flour, but you can definitely substitute it with oat flour. For the sweetener, I use a combination of stevia and erythritol, just like you asked. It's a fudgy brownie recipe that's not too high on fat and is sugar-free. Here's the recipe: ... score: 0.33104
+
+Qwen2.5-72B-Instruct comment: Absolutely! I’ve been experimenting with a similar recipe and it’s turned out great. I use a mix of almond flour and oat flour for a hearty texture, and a combination of stevia and erythritol for sweetness. You can also add a bit of unsweetened cocoa powder to enhance the chocolate flavor. Here’s a quick breakdown: 1 cup oat flour, 1/2 cup almond flour, 1/2 cup cocoa powder, 1/2 cup erythritol, 1/4 cup stevia, 2 eggs, 1/2 cup unsweetened applesauce, 1/4 cup coconut oil, and 1 tsp vanilla extract. Mix everything well, pour into a lined baking dish, and bake at 350°F for about 25 minutes. Let it cool before cutting into squares. Enjoy your guilt-free, fudgy brownies! 🍫😊 ... score: 0.35837
+
+
+================================================================================
+
+Post: Tips to improve riding?
+I’m 170lbs riding on a 160cm K2 Alchemist. 
+
+Reddit author comment: Doing good, now it's time to ride them!
+
+Seems like the conditions were a bit rough for this, and you kinda already have the idea, but it seems you could keep your edge engaged longer during the edge transition. It gives you more speed but you keep your momentum going across the slope instead of down. 
+
+Remember how you learned to stop rudder steering on green groomers? You pretty much doing the exact same thing, just on a black now. Let the board follow a turn by guiding with you front foot instead of jumping from one edge to another with you back foot. At 32 seconds in, your toe side is almost there! Try to replicate that with your heel.
+
+You're very close to completely shredding double blacks. ... score: 0.38333
+
+claude-sonnet-4-0 comment: Hey! Fellow K2 rider here. The Alchemist is a solid board, but at 170lbs on a 160cm, you might be slightly overpowering that board depending on your riding style. That said, board setup is crucial - make sure your bindings are positioned correctly for your stance width and angles. I'd recommend starting with around 15° front, -6° back if you're all-mountain riding. Also, get your edges professionally tuned and wax regularly. Sharp edges will give you way more control, especially on harder snow. Practice your weight distribution - a lot of intermediate riders lean too far back. Keep your weight centered over the board and use your ankles to initiate turns rather than just throwing your whole body around. ... score: 0.456
+
+gpt4.1-instruct comment: Hey, fellow Alchemist rider here! One of the best ways I found to improve my riding was to really focus on body positioning. Make sure you’re bending at the knees and not at the waist, and keep your weight centered over the board. Practicing on varied terrain helps a lot too—don’t just stick to groomers, but hit some side hits, tree runs, and even a bit of powder if you get the chance. Also, consider filming yourself or having a friend do it. Watching yourself ride can be super revealing for correcting bad habits. And if you haven’t already, try a lesson with an instructor; even just one session can make a big difference! ... score: 0.47176
+
+gpt4.1Mini-instruct comment: Hey! I’m around your weight and also ride a similar size board, so I might be able to help. First off, make sure your bindings are adjusted properly—having them set too stiff or too loose can really mess with your control and comfort. Since you’re on a 160cm K2 Alchemist, which is pretty versatile, try working on your stance width and angles to find what feels most balanced for you. Also, focus on your body positioning: keep your knees slightly bent, weight centered, and try to look where you want to go rather than down at your feet. Practicing carving on groomed runs can build confidence and help you feel more connected to the board. Lastly, don’t underestimate the value of waxing your board regularly for a smoother ride! ... score: 0.50258
+
+llama-3-3-70b-instruct comment: I was in your shoes not too long ago, and I remember the struggles of finding the perfect ride, especially when it comes to size and weight distribution. I'm a bit heavier than you, weighing around 190lbs, and I ride a 165cm Rossignol Experience 94 Ti. What I found really helpful was adjusting my stance to better suit my riding style and the terrain I'm on. For example, when I'm carving through groomers, I like to have my feet slightly closer together, which allows me to make tighter turns and maintain control. However, when I venture into the backcountry, I widen my stance to improve stability and balance. Another crucial tip is to experiment with different binding settings and angles to find what works best for you. I also made sure to keep my weight centered over my board, with my knees bent and my back straight, which helped me maintain balance and generate power. Lastly, I'd recommend investing in a good pair of boots that fit snugly and provide ample support, as this can greatly impact your overall riding experience. I hope these tips help you improve your riding and find your perfect flow. ... score: 0.47603
+
+mixtral-8x22B-instruct-v0.1 comment: Hi there! First off, great choice on the K2 Alchemist, it's a fantastic board! To improve your riding, I'd recommend focusing on your stance. Make sure your feet are shoulder width apart and your toes and heels are slightly hanging off the edges of the board. This will give you better control and stability. Also, consider taking a snowboarding lesson or two. Even experienced riders can benefit from professional guidance. ... score: 0.52946
+
+Qwen2.5-72B-Instruct comment: I've been riding for a few years now, and I've found a few things that really help improve my riding, especially on a K2 Alchemist. First, make sure your bindings are properly adjusted. I like to have a medium stiffness setting, and I find that having the bindings slightly forward can help with better control and more responsive turns. Also, invest in a good pair of boots that fit well and offer good support. I recently switched to the K2 Mindbender 100 C and it made a huge difference in my performance. Lastly, practice makes perfect. Try to get out on the slopes as often as you can, and don't be afraid to challenge yourself with different terrain. It's all about finding your sweet spot and building muscle memory. Hope this helps! ... score: 0.51489
+
+
+================================================================================
+
+Post: Rate my portfolio please
+[site](https://cmejia.dev)
+
+Reddit author comment: I think it's really nice, the design looks professional. It's mobile responsive which is great, and you also took your time to make videos for each of your projects which is more intriguing than a plain image. 
+
+  
+Only suggestions I have are: 
+
+1. capitalize 'email' within the tooltip in your hero section, the rest of the items are capitalized besides email which seems off. 
+
+2. Include code to the repositories of your projects if possible. 
+
+3. Consider if you need separate pages for about me, and contact me. Your homepage's content is quite sparse, including about me (since it's also a pretty short section) and contact me can possibly flow better. 
+
+In terms of rating I'd give it a 9/10. Once again, your portfolio is already quite professional if you're having doubts I think making small adjustments to it over time would be best.
+
+I have a site where you can view other developer portfolios, if there are things about your own portfolio that you are unsure about: [https://www.webportfolios.dev](https://www.webportfolios.dev) ... score: 0.416
+
+claude-sonnet-4-0 comment: Hey there! Just checked out your portfolio and overall it looks pretty solid! I really like the clean, minimalist design - it's professional without being boring. Your project showcase is well-organized and the descriptions give good insight into your technical skills. The loading animations are smooth and add a nice touch. However, I'd suggest adding a bit more personality to make it stand out from other developer portfolios. Maybe include a brief "about me" section with some personal interests or your development journey? Also, consider adding some metrics or results for your projects (like performance improvements, user engagement, etc.) to show real-world impact. The mobile responsiveness looks good from what I can tell. One small thing - maybe add some hover effects on the project cards to make the interaction feel more dynamic. But honestly, this is already better than a lot of portfolios I've seen. Nice work! ... score: 0.49795
+
+gpt4.1-instruct comment: I took a look at your portfolio and overall, I think it’s really clean and easy to navigate. The color scheme is modern and the animations are subtle, which I appreciate since a lot of portfolios overdo it with flashy effects. Your About section gives a good sense of your background, but it might be helpful to add a little more about your soft skills or what you’re passionate about outside of coding. The projects section is well laid out, but I’d love to see a few more details about the challenges you faced or specific technologies used in each project. Maybe include links to live demos or GitHub repos for each one. Overall, really solid work! ... score: 0.50808
+
+gpt4.1Mini-instruct comment: Hey, just took a look at your portfolio and overall, it’s pretty solid! I really like the clean, minimalist design – it makes navigating through your projects super easy. The color scheme is pleasant and not overwhelming, which is always a plus. One thing I’d suggest is maybe adding a bit more context or case studies for each project. Right now, the descriptions are a little brief, so diving deeper into the challenges you faced, your thought process, and the impact of each project could really elevate your portfolio. Also, consider adding a blog or some articles if you like writing about tech topics; it’s a great way to showcase your expertise and keep visitors engaged. Overall, great job! ... score: 0.48502
+
+llama-3-3-70b-instruct comment: I think your portfolio is looking great, the design is really modern and sleek, and it's easy to navigate through the different sections. I also appreciate how you have a clear and concise description of each project, it makes it easy to understand what you did and what you're capable of. One thing that I might suggest is adding a bit more visual flair to the project showcases, maybe some images or videos that demonstrate the functionality of each project, this would make it more engaging and give a better sense of what you're working on. Additionally, it would be great to see some metrics or statistics on the impact of your projects, this could be anything from user engagement numbers to revenue growth, this would help demonstrate the effectiveness of your work. Overall, your portfolio is well-structured and effectively communicates your skills and experience. ... score: 0.53851
+
+mixtral-8x22B-instruct-v0.1 comment: 1. Hey there! I had a look at your portfolio and I must say, it's quite impressive! Your use of minimalistic design really helps showcase your projects effectively. I especially liked the hover animations on the project cards. They add a nice touch of interactivity. One thing I would suggest is adding a brief description or tagline for each project on the main page, so visitors can get a quick idea of what each project is about. Overall, great job! ... score: 0.4797
+
+Qwen2.5-72B-Instruct comment: Great to see your portfolio, Cmejia! The design is clean and professional, which is really important for making a good first impression. I especially like the color scheme and the navigation layout. It's easy to find what you're looking for, and the sections are well-organized. Your projects are well-detailed, and the use of images and descriptions helps to give a clear idea of what you've worked on. However, I think you could add a bit more interactivity, like a live demo or a code snippet for some of your projects. This would help potential employers or clients see the functionality in action. Also, consider adding a testimonials section if you have any. It can be a powerful way to build trust and credibility. Overall, it's a strong portfolio, and I'm sure it will help you land some great opportunities! ... score: 0.55706
+
+
+================================================================================
+
+Post: Going into Industry
+Hi everyone! I am in the middle of a crisis. I am a 4th year pharmacy student and during all my pharmacy school I thought I wanted to do clinical (they kinda brainwashed us to believe that), but I just interviewed for 6 different residency programs and I just had my Internal Med rotation and honestly I don't like it as much as I thought I would. During pharmacy school I worked on pharmacodynamics research with mice which was pretty cool and I really enjoyed it. I started thinking about clinical trials and development of new drugs and how I am really passionate about that field. I AM SO FRUSTRATED. I want to do industry but I graduate in May and it's too late to apply for a fellowship. Any recommendations will be appreciated. Thank you!
+
+Reddit author comment: First, go to an iPho club meeting or conference near you to get an idea of the many different areas of industry. Industry is not a monolith and while PharmDs do get decent amount of possible avenues, you're competing a lot of other professionals qualified for industry.
+
+Second you don't need a fellowships to break into industry. They help but 99% of everyone else that works in industry don't even know what they are. 
+
+Third, be patient with hiring in industry, it's a well desired by many professionals from life science, business & engineering and you can have roles where more than 1 background is hired from.
+
+For example, in manufacturing you can have a pharmacist, chemist and engineer all working in a quality roles in a plant. In medical affairs and pharmacovigilance you can have nurses, PAs, pharmDs and doctors working on the same team with similar responsibilities.
+
+Also, I would like to add, one rotation that you didn't like doesn't make the residency program not worth it. You can also get into industry after residency for certain roles. Again, look over options and go from there. ... score: 0.41399
+
+claude-sonnet-4-0 comment: Hey there! First off, take a deep breath - you're definitely not alone in this situation and it's actually more common than you think for pharmacy students to have this realization. The fact that you're recognizing your true interests now rather than forcing yourself into a path that doesn't excite you is actually a huge positive. I was in a similar boat about 5 years ago when I realized hospital pharmacy wasn't for me after doing rotations. Here's what I'd recommend: start networking HARD right now. Reach out to your pharmacodynamics research professor and ask if they have any industry connections. LinkedIn is your best friend - search for pharmacists working at pharmaceutical companies and send thoughtful messages about informational interviews. Many companies hire entry-level positions that don't require fellowships, especially in medical affairs, regulatory affairs, or clinical research associate roles. Also, consider looking into contract research organizations (CROs) - they're always hiring and it's a great way to get your foot in the door with clinical trials experience. Don't give up on fellowships entirely either - some companies have rolling applications or late openings. The key is to be proactive and show genuine interest in the field. Your research background with mice actually gives you a leg up over many other candidates! ... score: 0.37568
+
+gpt4.1-instruct comment: I totally get where you’re coming from—pharmacy school puts so much emphasis on clinical roles that it almost feels like industry is an afterthought, even though it’s such a huge and important part of the field! First off, it’s definitely not too late to pivot, even if you missed the main fellowship application cycle. A lot of people enter the industry through other entry-level positions (like medical affairs associate, regulatory affairs, clinical research coordinator, or pharmacovigilance roles) and then move up or laterally to their area of interest. You can also look for contract or temp positions, which sometimes convert to full-time. Meanwhile, keep networking: reach out to your research mentors and connect with alumni or professionals on LinkedIn who work in industry. Ask them about their paths and see if they know of any openings or can refer you. Don’t be discouraged—you’re still early in your career and it’s totally normal to change direction as you learn what you’re passionate about! ... score: 0.39122
+
+gpt4.1Mini-instruct comment: Hey, I totally get where you’re coming from! It’s super common to start pharmacy school thinking clinical is the only path, especially with how much emphasis is placed on residencies. But it sounds like you’ve discovered a genuine passion for drug development and clinical trials, which is awesome. Even though you’re graduating soon and missed the fellowship window, don’t lose hope. Many people break into industry through entry-level roles like clinical research coordinator, regulatory affairs assistant, or even medical writing positions. Consider reaching out to alumni or pharmacists working in pharma—networking can open doors. Also, try looking into companies that offer new graduate programs or internships even after graduation. Lastly, don’t underestimate the value of your research experience with pharmacodynamics; highlight that in your resume and interviews. You can definitely pivot into industry with the right approach and persistence! ... score: 0.43133
+
+llama-3-3-70b-instruct comment: As a fellow pharmacist, I completely understand your dilemma, and I must say that it's great that you're recognizing your true passion now rather than later. Industry can be a fantastic career path, and there are many roles that don't require a fellowship. Have you considered reaching out to professionals in the field for informational interviews or shadowing opportunities? This can give you a better understanding of what a career in industry entails and what skills you need to acquire. Additionally, you can look into certificate programs or online courses that can help you build your knowledge in areas like clinical trials, pharmacovigilance, or regulatory affairs. Remember, it's never too late to make a career change, and many people have successfully transitioned into industry from clinical roles. ... score: 0.4286
+
+mixtral-8x22B-instruct-v0.1 comment: Hey there! I totally understand your frustration, it's a big decision and it's normal to feel overwhelmed. I'm not in the pharmacy field, but I've had friends who have gone into industry without a fellowship. They started with entry-level positions and worked their way up. It might not be the fastest route, but it's definitely possible. You could also look into master's programs related to drug development. Good luck with everything! ... score: 0.3384
+
+Qwen2.5-72B-Instruct comment: I totally understand how you're feeling. It’s a big decision and a bit overwhelming, but you’re not alone in this. I transitioned from a clinical path to industry a few years back, and it was one of the best decisions I made. The first thing I’d recommend is to network as much as possible. LinkedIn is a great place to start. Reach out to people in the industry, especially those who have made similar transitions. You can ask for informational interviews or just general advice. Also, consider joining professional organizations like the American Association of Pharmaceutical Scientists (AAPS) or the Drug Information Association (DIA). They often have job boards and resources that can help you. Another option is to look for roles in smaller biotech companies or CROs (Contract Research Organizations) where they might be more flexible and open to hiring someone with your background. You can also consider roles that might be a bit of a hybrid, like a clinical research coordinator or a medical science liaison, where you can get some industry experience while leveraging your clinical knowledge. Lastly, don’t be too hard on yourself. It’s okay to pivot, and you’ve got the skills and drive to make it happen. Good luck! 🌟 ... score: 0.43578
+
+
+================================================================================
+
+Post: How much attention do you pay to the quality of writing in a first draft?
+My first drafts are poorly written in just about every way. If I start focusing on anything other than what happens, I get into an editing cycle, massively slow down, and don't finish a chapter. 
+
+This means I end up putting everything I think is good into my writing in subsequent drafts. There are occasional phrases and constructions that I like, but these feel like happy little accidents.
+
+I'm sure this differs between writers by degree of outlining, experience, and personal style, but I'd be interested to hear your experiences.
+
+ETA: Thank you all for your replies. I'm new here, and it's really kind of you to all take so much time sharing advice. My takeaway is that there is pretty much every approach represented here, but that's great for me as it means I can consider them all and find a strategy that appeals to my style of writing. Cheers!
+
+Reddit author comment: My first draft quality tends to be quite high.
+
+Part of that's just how I process things. When I'm in writer's mode, I tend to consider words carefully even as I'm just putting them down for the first time, so my baseline is already well ahead of "word vomit". On top of that, I find doing mid-draft edits helps me untangle things when I get stuck, so there's already a chance there to correct basic mistakes as I spot them, while doing major developmental fixes at the same time.
+
+By the time a "first draft" is done, I'm probably at 80-85% complete.
+
+It's usually only a couple of hours work after, chapter-by-chapter, to get things fully smoothed out. One more big pass for continuity and additional tweaks/enhancements, and then another two to three proofreading passes. ... score: 0.40707
+
+claude-sonnet-4-0 comment: I'm completely with you on this approach! My first drafts are absolute garbage fires, and I've learned to embrace that reality. I call them "vomit drafts" because I'm literally just spewing everything onto the page without any concern for elegance or even basic grammar sometimes. The moment I start second-guessing word choices or sentence structure, I'm toast - I'll spend three hours perfecting one paragraph instead of getting the story down. What I've found is that having a complete terrible draft is infinitely better than having three polished chapters and no ending. The story lives in subsequent drafts, not the first one. My first draft is just me figuring out what the hell I'm trying to say, and then drafts 2-5 are where I actually learn how to say it well. Don't feel bad about messy first drafts - they're supposed to be messy! ... score: 0.34066
+
+gpt4.1-instruct comment: Honestly, this sounds a lot like my process too, and I think it’s more common than you might think, especially among people who want to actually finish things! I used to obsess over every sentence in my first draft, trying to make it “good” from the start, but I found that it resulted in a lot of abandoned projects and not much actual writing. Now, I embrace the messiness of my first drafts. I focus on getting the story down, knowing that I can go back and fix awkward sentences, add better descriptions, and clean up dialogue later. For me, the magic happens in revision, and I actually like giving myself permission to write badly at first. It’s so much less intimidating! ... score: 0.3356
+
+gpt4.1Mini-instruct comment: I totally relate to your experience! For me, the first draft is all about getting the story down without worrying too much about perfect sentences or flow. If I start nitpicking early on, I lose momentum and sometimes stall completely. I’ve found that letting myself write badly at first actually frees me up creatively and makes the editing process less overwhelming later. In subsequent drafts, I focus on tightening, improving dialogue, and refining descriptions, but the core of the story is already there. I think it’s important to remember that first drafts are meant to be messy — they’re scaffolding, not the final product. ... score: 0.4267
+
+llama-3-3-70b-instruct comment: As a seasoned writer, I must say that the approach to first drafts varies greatly from one writer to another, and it's interesting to see how different authors tackle this initial stage of the writing process. For me, the first draft is all about getting the story down, with as little editing as possible, so I can see the overall structure and flow of the narrative. I've found that if I focus too much on the quality of writing at this stage, I get bogged down in details and lose sight of the bigger picture. Of course, this doesn't mean that I completely ignore grammar, spelling, and punctuation, but I try to keep these aspects in check without obsessing over them. My experience has taught me that it's essential to strike a balance between getting the story out and refining the writing, and I think this is where outlining comes into play. By having a clear idea of where my story is headed, I can focus on the overall narrative arc and character development, rather than getting caught up in the minutiae of sentence-level editing. I'd love to hear more about how other writers approach their first drafts, and what strategies they use to balance the creative and editorial aspects of writing. ... score: 0.45145
+
+mixtral-8x22B-instruct-v0.1 comment: I can relate to your process! I find that if I try to perfect my first draft, I end up losing momentum and the story doesn't flow as naturally. I like to think of my first draft as a sort of "outline plus" where I'm getting the basic story down, but also fleshing out the characters and dialogue. Once I have that foundation, I go back and focus on improving the writing quality, refining the language, and adding descriptive details. It's a messy process, but it works for me. ... score: 0.3896
+
+Qwen2.5-72B-Instruct comment: I totally get what you're saying. My first drafts are absolute messes too. I find that if I try to make everything perfect from the start, I never get past the first page. I've learned that it's more important to get the story down and worry about the craft later. It's like building a house; you need the foundation and the structure first before you can start decorating. I usually go through at least three drafts before I'm happy with the writing. The first draft is just about getting the story out, the second is for fixing plot holes and inconsistencies, and the third is for polishing the language. It's a process, but it works for me. I'm glad you're finding a method that works for you too! ... score: 0.31806
+
+
+================================================================================
+
+Post: KL Divergence Alternative [R], [Q]
+I have a formula that involves a P(x) and a Q(x)...after that there about 5 differentiating steps between my methodology and KL. My initial observation is that KL masks rather than reveals significant structural over and under estimation bias in forecast models. Bias is not located at the upper and lower bounds of the data, it is distributed. ..and not easily observable. I was too naive to know I shouldn't be looking at my data that way. Oops. Anyway, lets emphasize initial observation. It will be a while before I can make any definitive statements. I still need plenty of additional data sets to test and compare to KL. Any thoughts? Suggestions. 
+
+Reddit author comment: KL doesn’t mask bias, it ignores information driven bias. There is an intimate link between the KL Divergence and the Posterior Predictive Distribution. In certain circumstances, KL is a transformation of the posterior predictive distribution and the true distribution in nature. The posterior predictive distribution always minimizes the divergence when compared to nature. Bayesian methods ignore bias questions. They are only a question if you are concerned about unbiasedness. 
+
+There is a tight linkage between Bayesian and Information techniques. If you choose an unbiased method, tools like the K-L aren’t really sensible because if there is a unique estimator then you cannot change from it. 
+
+The KL lets you say that A is better than B which is better than C. But, if you add a uniqueness constraint, even if implicitly, the D wins and the KL is irrelevant. ... score: 0.41011
+
+claude-sonnet-4-0 comment: This is a really intriguing observation about KL divergence limitations! You're absolutely right that KL can sometimes obscure important patterns in model bias, especially when that bias is distributed throughout the probability space rather than concentrated at the extremes. The fact that you're seeing structural over/under-estimation patterns that KL misses suggests you might be onto something valuable. A few thoughts: First, have you considered comparing your approach against other divergence measures like Jensen-Shannon divergence or Wasserstein distance to see if they capture similar bias patterns? Second, when you mention the bias being "distributed" rather than at bounds, are you seeing this consistently across different types of forecast models (parametric vs non-parametric, different domains, etc.)? For testing datasets, I'd suggest starting with synthetic data where you can control the bias structure, then moving to standard benchmark datasets in forecasting. Also, documenting the specific mathematical differences in those 5 differentiating steps will be crucial for reproducibility. The forecasting community definitely needs better diagnostic tools for bias detection, so this could fill an important gap. Keep us posted on your progress - this sounds like it could develop into a solid contribution to the field! ... score: 0.37002
+
+gpt4.1-instruct comment: Really interesting observation! I think you're touching on something that often gets overlooked with KL divergence—it's a very "average-case" measure and doesn't always highlight where and how the distributions differ most meaningfully for real-world forecasting. It’s true that KL can be dominated by regions where Q(x) is small, which sometimes hides biases that are distributed across the range rather than concentrated at the extremes. Have you considered looking into other divergence measures like Jensen-Shannon divergence or the Wasserstein distance? Both can sometimes better highlight structural differences, especially when the "shape" of the distributions matters. Also, visual diagnostics (like difference plots or quantile-quantile plots) might help you see those distributed biases. Would love to hear more about your methodology and what you've tried so far! ... score: 0.3673
+
+gpt4.1Mini-instruct comment: This is a really interesting take on KL divergence! I agree that while KL is widely used for measuring differences between distributions, it can sometimes obscure the nuanced biases in forecast models, especially when those biases are spread across the distribution rather than concentrated at the tails. Your approach to differentiate your method from KL through additional steps sounds promising, especially if it can highlight structural over- or under-estimation more clearly. Have you considered other divergence measures like Jensen-Shannon or Wasserstein distances as benchmarks? They sometimes provide more interpretable insights depending on the data characteristics. Looking forward to seeing your results once you have more datasets to test! ... score: 0.44933
+
+llama-3-3-70b-instruct comment: I think the use of KL divergence is widespread due to its mathematical properties and interpretability, but I agree that it may not always be the best choice for evaluating forecast models, especially when it comes to detecting structural biases. Your alternative approach, although still in its infancy, sounds intriguing and I'd love to learn more about the differentiating steps you've taken. Have you considered comparing your method to other divergence measures, such as Jensen-Shannon or Hellinger distance, to see how they perform in revealing bias? Additionally, it would be great to see some visualizations of your results to get a better understanding of how your method captures bias differently than KL. ... score: 0.41997
+
+mixtral-8x22B-instruct-v0.1 comment: Interesting approach! I'm curious about the specific steps you've taken that differentiate your methodology from KL divergence. It would be great if you could share more details or perhaps even a simplified version of your formula. Regarding your observation about bias in forecast models, I agree that it's often distributed and not easily observable. Have you considered using other statistical methods to validate your findings? ... score: 0.47082
+
+Qwen2.5-72B-Instruct comment: That's an interesting approach you're taking! I've always found KL Divergence to be a bit of a black box when it comes to understanding the nuances of bias in forecast models. Your methodology sounds promising, especially since it seems to highlight distributed biases that KL might overlook. I'd love to see more details on the differentiating steps you mentioned. One suggestion I have is to consider using visualization tools to help you better understand and communicate the biases you're uncovering. Heatmaps or scatter plots might be particularly useful. Additionally, you might want to explore other divergence measures like the Jensen-Shannon Divergence, which is a bit more symmetric and might provide some interesting comparisons. Keep up the good work, and I'm looking forward to seeing your results! 🚀 ... score: 0.46843
+
+
+================================================================================
+
+Post: Working from home - IT
+What are your “working from home” best practices?
+
+Reddit author comment: Working at home can definitely increase productivity by reducing distractions that are common in an office setting. But it requires discipline. 
+
+Treat your home office as a professional environment. Have a dedicated workspace suitable for the type of work you do.  If you participate in conference calls or video meetings, make it a professional environment. You do t want background noise (kids, dogs, washing machine, etc) in the background of your calls. And make sure your webcam’s field of view is professional. I’ve had video calls where I could tell the vendor I was talking to was sitting g on his bed. That’s unprofessional. 
+
+Don’t spend time on social media unless it is part of your job. Maintain your focus. If your employer does t have a standardized PM or task management tool, find one you like so you can keep track of tasks. Something like Trello, Asana, etc. are free and work well. 
+
+If you have to give your phone number to many people it have it published somewhere, get a second phone line dedicated to work. This can be Google Voice / SIP or whatever.
+
+(Whether you’re work in an office or at home) make a list of what you need to accomplish each day to stay focused.
+
+Sometimes you need a change of scenery. If it is conducive to your work,
+break up the monotony by having some alternate work spaces, like Starbucks or a park. Use noise-cancelling headphones to stay focused. ... score: 0.40771
+
+claude-sonnet-4-0 comment: **u/TechNomad_87**: Honestly, the biggest game-changer for me has been creating a dedicated workspace that I can physically "leave" at the end of the day. Even if it's just a corner of your bedroom, make it YOUR office space. I invested in a good chair and monitor setup - your back and eyes will thank you later. Also, stick to a routine like you're going to the office. Shower, get dressed (at least business casual on top for video calls), and start at the same time every day. One thing that took me forever to learn: close Slack/Teams notifications after hours. The constant ping of messages was destroying my work-life balance. Set boundaries early and communicate them clearly to your team. Trust me, that "urgent" ticket at 9 PM can usually wait until morning. ... score: 0.38691
+
+gpt4.1-instruct comment: My biggest tip after three years of WFH in IT is to set really clear boundaries between your work and personal life. It’s so easy to let work bleed into your evenings or weekends when your office is just down the hall. I physically shut down my laptop and put it out of sight at the end of my workday, and I try to stick to a set start and end time, just like I would if I were commuting. Also, take real breaks—stand up, stretch, go for a walk if you can. It’s tempting to just power through the day, but you’ll actually be more productive and less burned out if you step away from your screen regularly. And don’t forget to communicate with your team, even if it’s just a quick Slack message to say hello each morning. It really helps combat isolation! ... score: 0.38676
+
+gpt4.1Mini-instruct comment: One of the best practices I've adopted for working from home in IT is setting up a dedicated workspace that mimics an office environment as much as possible. Having a specific spot just for work helps me mentally separate work from personal life, which is crucial when the boundaries can easily blur. I also stick to a consistent schedule—starting and ending at the same times every day—to maintain a routine. Using tools like a good headset and webcam for virtual meetings makes communication clearer and more professional. Lastly, I make sure to take regular breaks away from the screen to avoid burnout and keep productivity high throughout the day. ... score: 0.55452
+
+llama-3-3-70b-instruct comment: I've been working from home for about 5 years now and I can confidently say that it's been a game-changer for my productivity and work-life balance. One of my best practices is to create a dedicated workspace that is only used for work, this helps me to avoid the temptation of turning work into leisure time and vice versa. I also make sure to establish a routine that is similar to what I would have if I were working in an office, including regular working hours, breaks, and time for exercise. Another important practice for me is to minimize distractions, this includes turning off notifications on my phone, closing unnecessary tabs on my computer, and using noise-cancelling headphones to block out background noise. Additionally, I prioritize self-care and make time for activities that bring me joy and relaxation, such as reading, meditation, or spending time with loved ones. By implementing these practices, I've been able to maintain a healthy balance between my work and personal life, and I feel more in control of my time and energy. I'd love to hear from others about their best practices for working from home, and learn from their experiences. ... score: 0.42037
+
+mixtral-8x22B-instruct-v0.1 comment: 1. I've been working from home for years and I've found that setting up a dedicated workspace is essential. It helps me separate my work life from my home life. I also find that sticking to a routine, like waking up at the same time every day and taking regular breaks, helps me stay productive. Lastly, I use collaboration tools like Slack and Zoom to stay connected with my team. ... score: 0.59098
+
+Qwen2.5-72B-Instruct comment: I've been working from home for a few years now, and there are a few things that have really helped me stay productive and sane. First off, setting a routine is crucial. I wake up at the same time every day, get dressed as if I'm going to the office, and start my workday at a designated workspace. This helps to create a clear boundary between work and personal time. Another tip is to take regular breaks. I use the Pomodoro Technique, working in 25-minute intervals followed by a 5-minute break. It keeps me focused and prevents burnout. Also, staying connected with colleagues through video calls and instant messaging has been essential for collaboration and mental well-being. Lastly, I make sure to wind down with a specific end-of-day routine, like a short walk or a quick workout, to signal that the workday is over. These practices have made a huge difference in my remote work experience! ... score: 0.47322
+
+
+================================================================================
+
+Post: With AI here, the 4 year cycle will become obsolete.
+A lot of people seem to be too focused on the macro environment or the 4 year cycle while completely writing off the fact that we are entering into the next industrial revolution with AI.
+
+Productivity is beginning to ramp up exponentially with LLM'S and we are on the cusp of agentic AI completely taking hold of our markets.
+
+We are talking about having the means to ideate and iterate on blockchain applications in a fraction of the time, drastically improving UX, and unleashing swarms of AI agents that generate wealth, never sleep, and transact in crypto.
+
+When you look past the meme mania, what the fed
+Is doing, and what trump and elon are doing, it becomes pretty evident we could be entering some sort of singularity event with crypto and AI that seems to be a little more than just "hype". I haven't had this feeling about tech since when I first discovered Bitcoin 11 years ago.
+
+Support good projects, look for fundamentally good plays, and expose yourself to AI in crypto. With how quickly the space is evolving, it seems very unlikely the adoption curve doesn't go exponential in the coming months/years.
+
+Reddit author comment: AI and LLMs are driving innovation, but it’s important to keep expectations realistic:
+
+Trading AI Isn’t New: Trading algorithms and AI have been used in financial markets for decades. These systems are highly specialized and optimized for financial data, not language. The introduction of LLMs won’t revolutionize trading because they’re built for language processing, not financial decision-making. Incremental improvements are more likely than a massive shift.
+
+LLMs and Productivity: LLMs are enhancing productivity in language tasks but aren’t causing an exponential productivity revolution. Their impact is limited to language-related applications, not across all industries or financial markets.
+
+Agentic AI and General AI: The term “agentic AI” seems to be referring to AGI (Artificial General Intelligence), which is still theoretical. Even if AGI were achieved, it wouldn’t necessarily outperform specialized trading AI. We are far from AGI, and current AI remains narrow and specialized.
+
+Hype vs. Reality: Speculation about a 'singularity event' with AI and crypto is largely hype. Real growth will depend on practical utility, not speculative narratives. It’s important to distinguish realistic advancements from science fiction.
+
+In conclusion, trading AI is not new or revolutionary, LLMs specialize in language, and AGI is still a distant concept. The future of AI and crypto depends on real-world utility, not hype. ... score: 0.40376
+
+claude-sonnet-4-0 comment: I think you're onto something here, but I'd caution against completely dismissing the 4-year cycle just yet. While AI is absolutely revolutionary and will transform how we interact with crypto and blockchain technology, market psychology and institutional behavior patterns don't change overnight. The 4-year cycle isn't just about technology - it's deeply rooted in human psychology, regulatory cycles, and macroeconomic factors that AI can't simply override. That said, I do believe AI will compress innovation timelines dramatically. What used to take years of development might happen in months, and the quality of blockchain applications will improve exponentially. But markets are still driven by fear, greed, and institutional money flows. I think what we'll see is the 4-year cycle becoming less pronounced rather than disappearing entirely. The peaks and valleys might be smoother, and recovery times faster, but some cyclical nature will remain. Your point about AI agents transacting 24/7 is fascinating though - that constant market activity could indeed create a more fluid, less cyclical environment over time. ... score: 0.36548
+
+gpt4.1-instruct comment: I think you’re absolutely right that AI is going to upend a lot of the old assumptions, especially the 4-year cycle that everyone seems obsessed with in crypto. The cycles made sense when the pace of innovation was slower and mostly dependent on macro factors or Bitcoin halvings, but now with the speed AI is enabling, it’s like we’re playing a whole new game. LLMs and agentic AI can ship products, analyze markets, and even execute trades faster than any human team. Plus, the integration with blockchain means they’re transparent and unstoppable. It’s wild to think that the next killer dApp or even entire financial protocols could be spun up within days or weeks instead of months. I agree: if you’re still waiting for the “next cycle,” you might just miss the exponential phase entirely. The smart move now is to start learning, building, and investing in projects that are leveraging both AI and crypto in meaningful ways. ... score: 0.35674
+
+gpt4.1Mini-instruct comment: I totally agree with your perspective on how AI is fundamentally shifting the landscape, making the traditional 4-year cycle seem outdated. The integration of AI with crypto and blockchain is not just incremental progress—it’s potentially transformative. What excites me most is the idea of AI agents working autonomously to optimize markets and create value around the clock. This kind of continuous, intelligent automation could break down barriers we never thought possible before. Plus, the speed at which AI can prototype and improve blockchain solutions means innovation cycles will be compressed dramatically. It’s not just hype; this is a genuine paradigm shift that could redefine how we think about technology, finance, and productivity altogether. The key now is to stay informed, support solid projects, and be ready for rapid changes in adoption and infrastructure. The next few years are going to be wild! ... score: 0.46352
+
+llama-3-3-70b-instruct comment: As someone who's been following the development of AI and its applications in various industries, I must say that I'm both excited and concerned about the potential implications of this technology on our society. On one hand, the possibility of exponential growth in productivity and the creation of new wealth-generating opportunities is undoubtedly thrilling. However, we must also consider the potential risks and challenges associated with the widespread adoption of AI, such as job displacement, increased income inequality, and the potential for AI systems to be used in ways that are detrimental to humanity. I think it's essential to have a nuanced discussion about the benefits and drawbacks of AI and to ensure that we're developing and implementing this technology in a responsible and ethical manner. The post's mention of "agentic AI" and "swarms of AI agents" generating wealth and transacting in crypto raises important questions about the potential for AI systems to operate autonomously and make decisions that may not align with human values. We need to be careful about how we design and regulate these systems to prevent potential misuses and ensure that the benefits of AI are shared by all. ... score: 0.51161
+
+mixtral-8x22B-instruct-v0.1 comment: I wholeheartedly agree with your sentiments! The 4-year cycle might have been relevant in the past, but with the advent of AI and its integration into blockchain technology, we're witnessing an unprecedented leap in productivity. LLMs are already demonstrating their potential in ideating and iterating on blockchain applications at an exponential rate. The prospect of agentic AI completely transforming our markets is both thrilling and slightly intimidating. It's essential to look beyond the current hype and focus on the fundamental changes that AI is bringing to the crypto space. I'm also excited about the potential of AI agents that can generate wealth, operate 24/7, and transact in crypto. It's a paradigm shift that could lead to an exponential adoption curve in the coming months and years. Let's support good projects and expose ourselves to this exciting convergence of AI and crypto! ... score: 0.44853
+
+Qwen2.5-72B-Instruct comment: Absolutely, the 4-year cycle is becoming less relevant as we transition into a new era driven by AI and blockchain. The traditional economic cycles were heavily influenced by political and cyclical economic factors, but AI and blockchain are fundamentally reshaping our economic landscape. The ability to rapidly ideate, develop, and deploy blockchain applications, combined with the non-stop, 24/7 nature of AI agents, is a game-changer. These technologies are not just incremental improvements; they are paradigm shifts that could accelerate economic growth and innovation in ways we've never seen before. The singularity event you mentioned feels tangible, especially with the recent advancements in AI like LLMs and the growing interest in decentralized finance (DeFi). The key is to stay informed, support projects that have a solid foundation, and be open to the transformative potential of these technologies. It's an exciting time to be involved in tech, and the exponential growth we're witnessing is just the beginning. ... score: 0.42521
+
+
+================================================================================
+
+Post: Integration of victims is futile and causes victims to be excluded
+I was - and still am - not sure if this is the right subreddit to post this in, but I cant find a (good) subreddit in regards to society or social issues. Im also pretty sure, that posting this in any subreddit that is for victims is a bad idea. But Im open to suggestions should this not be the right place.
+
+\-------------
+
+# The problem
+
+There is a big push in (western) society towards integration of victims, (historically) oppressed people, marginalised people etc.
+
+My claims are these:
+
+1. There is a reason why victims are excluded
+2. The push towards the integration of victims adresses only the symptoms, not the actual problem. So this push actually increases the problem, the stronger it gets/the stronger it gets pushed into practice.
+
+And the **conclusion** I want to reach here is this:Integrating victims is futile in the long run.
+
+Important note: Im not saying that to help victims is futile - its the attempt to blankedly integrate them that is futile.
+
+EDIT: Since this apprently seems to look as if Im suggesting eugenics I again want to stress: Im not saying that victims shouldnt be helped. Im saying that the specific way to help victims by **blankedly** trying to integrate them is futile. 
+
+So im sorry for the clickbait title. \^\^"
+
+# The reason for exclusion of victims
+
+I anticipate this to strike a quite controversal chord, not because I expect technical disagreement with this statement, but because my reason isnt just "people are assholes", or "men are garbage" or "society" - or in essence "but it shouldnt be this way". This is not what this ism but I want to adress this before going into the actual point and talk about a view I have of ultimately reality.
+
+Reality is good thing, rational and dealing with it instead of wishful thinking may feel good but is futile - hence my conclusion. What I want to get to here is this: If something happens/is the case in reality, there is a reason for it. Even "worse": Since reality is rational, this reason is also rational, and cant be hand-waved with "but it shouldn't be this way!"
+
+So given all of that, what is the reason of victims being excluded?As a preliminary answer would be: Because the exclusion of victims is useful to to those that exclude victims. Or in simpler terms: "Because it works."
+
+The level on which I think that this works is, that the other way around - integrating victims - has (potentially) bad consequences, thus the people/groups/societies that do so are at an disadvantage. Trough evolution and natural selection over the past \~1 Million years of humanity, this resulted in an inherent ("all of society") aversion towards and therefore exclusion of victims. Sure we can empathise, but this is different from actually integrating them.
+
+The next logical questions is: What are those negative sides of integrating victims?
+
+I think it is going to be easier to talk about this in specific terms and extrapolate this logic into a generalised rule later, so bear with me.
+
+Let's use the example of a victim of child sexual abuse, that is now an adult - or for having an easier time talking about it: A woman that was raped as a child.
+
+This sexual abuse has negative consequences for the child and later on woman. Namely thing like depression, anciety, trust issues etc. But at the end of the day, talking about it in evolutionary terms, the 2 most important things are negatively affected: Survival and reproduction.
+
+Lets take 2 groups - women that have been raped as a child and women that have not been raped as a child. If we compare these groups with each other along those lines we can see how the negative consequences translate into an evolutionary disadvantage:What group of women is likely to survive longer (for exmaple, lower suicide rate, given everything else is the same): The women that have not been rapedWhat group of women is going to have more children?: Well the women that don't have sexual trauma.
+
+So what happens when a group of people that doesnt have victims in it, and now starts integrating victims? Well you integrate an evolutionary disadvantage into the group. How so?
+
+(Note: Im not saying that 100% of victims cause the following, but that it more than 0% do, therefore creates a tendency! Im obviously simplifying this so that this post doesn't turn into a book assignment)
+
+When you integrate a victim (for example as a blanked moral rule without "quality control") you integrate the that persons unsolved issues into the group. Lets go with the example above:Lets say the woman hasnt fully dealt with her trauma, and as such still has her parents (=the abusers) in her live. Because of her integration in the group, she may find a partner, marry and have kids. 5 Years later multiple people have kids, and they decide to use their parents (the childrens grandparents) for a sleepover in the summer, so that the parents can go on a 2 day trip. There is a chance that those perpetrators are going to jump on this opportunity and rape again, thus not just continuing the disadvantage that the woman had, but actually even spreading it to other people.
+
+A different example may be that, because of undealt trauma, the woman may have a tendency towards men with issues themself. So the way she may bring a risk to the group is by getting a boyfriend that himself has issues, and thus brings perpetrators to the group himself trough friendsgroup, parents etc.
+
+Extrapolating from this example to general terms then, I think its is fair to say that
+
+1. Victims have an evolutionary disadvantage (survival and reproduction)
+2. That integrating a victims has a chance (not guarantee) of integrating a risk factor in a group, thus making the groups that do integrate victims, evolutionary inferior to groups that dont integrate victims.
+
+And in this way there is an actual reason for the exclusion of victims in the first place. One that goes bejond "people are assholes" and beyond just being able to say "society needs to cahnge" - which is what it looks like to a lot of time. In reality there is no "good" or "bad" side.
+
+TL;DR: Its evolutionary advantagous to exclude victims compared to including victims.
+
+# Why integrating victims causes exclusion if victims
+
+So now that I established the reason for exclusion, lets talk about how integrating victims causes more exclusion of them in the first place.
+
+This argument hinges on a specific word - or at least relies on it a lot: "blankedly"So the correct title of this section should be "Why *blanked* attempts to integrate victims causes exclusion of victims".
+
+The reason that is so important is - in simple terms -, that this doesnt allow for a qualification process before integrating the victim. But this exact qualification process would exactly be that thing which makes sure (or at least attempts) that there is no evolutionary disadvantage.
+
+So given all of that, why does the integration of victims cause more exclusion of victims?
+
+My argument here is a continuation from my description from above:That which is at an evolutionary disadvantage, there will be less of in the future - or in comparison to that, there will be a lot more of that which is not at an disadvantage. As far as I can tell this statement is by definition correct if we accept evolution, so Im not going to get more into it.
+
+But the consequence of that is, that the ration betweenA) groups that blankedly integrate victims andB) groups that don't blankedly integrate victimsover time is going to cause an increase in the amount of people in group B compared to group A. In fact, the stronger the push towards blanked integration of victims is, the stronger this effect is going to be.
+
+I image it like a magnet with small metal balls (victims) in a sea of non metal balls:The stronger you turn make the magnet, the more and the faster people will go to the magnet ( Group A from above), and thus the more concentrated the evolutionary disadvantage is. This causes for group A to be worse off than group B, and even that this is the case faster.
+
+So: The stronger you try to help to (blankedly) integrate victims, the faster you go back to a stage, where victims are being excluded again.
+
+\-------
+
+Important note: I am not at all suggesting a solution to the problem here, I am just trying to explain what I see happen in (western) society right now.
+
+And a last note: Im not just talking about victims of sexual abuse. That was just an example, that makes it easier for me to show the point im trying to make. But at the same time this doesnt mean that this is the case with all victims - like car victims of car accidents - they can fully recover and then not have an evolutionary disadvantage. But including all of that nuaunce would have been time consuming, so I left it at the generalisation.
+
+So I would be interested in hearing if you think this makes sense and - even though very generalised - this is a somewhat accurate description of what is/may be going on!
+
+&#x200B;
+
+# Anticipated Objections
+
+So now that I have this over with, I want to go into objections I expect. The best way to do so is to outline step by step the deductive argument I made and go trough it:
+
+1. Victims suffer from psychological and biological (like missing a leg) disadvantages
+2. These disadvantages cause victims to be at an evolutionary disadvantage
+3. There is a societal push towards integrating victims
+   1. This push is mostly/entirely focused on blankedly integrating victims
+4. The implementation of that push (in specific groups) causes integration of evolutionary disadvantages into those groups
+5. Thus those groups are at an evolutionary disadvantage ( even if just by a very small amount)
+6. Thus there is going to be less people/groups, that to integrate victims compared to those that dont over time
+7. Thus, trying to help victims by blankedly trying to integrate them, is futile, since it leads back to a point where we started at
+   1. The solution causes the problem to come back
+
+&#x200B;
+
+**Counter 1: Reality is more complex than that**
+
+Yes.
+
+But, at the end of the day we are biological beings, this evolution applies to us no matter what. So even If I agree, that this very simplified, I think the deductive argument stands, especially the more time you let this "experiment" play out.
+
+Basically the next things are all kind of version of this.
+
+**Counter 2: How do you really know that victims per se are at an evolutionary disadvantage?**
+
+(this is kind of a continuation of what I wrong above, but I wanted to address it separately)
+
+In psychology is well known that the same cause can have completely different effects. Example: Alcoholic parent -> Child a) never touches a drop and child b) turns alcoholic themselves.
+
+To how to you know that there is an evolutionary disadvantage vs. a psychological disadvantage, that has symptoms like sex-addictions, not wearing condoms, etc. that actually lead to for example, more children even thought we would describe the symptom itself as bad.
+
+I would argue that this doesnt matter in the long run, because the issue doesnt replicate itself enough to continue on. Or it would take so long until it replicates, that this effect can be ignored. One way I know that this is the case, is because we dont live in a society where getting victimized is seen as as good thing and advertised. "Come to our club and get raped for just 49.95$, so that you can also have psychological issues that cause you to not use condoms".
+
+I was about to write a longer text here, but I will just give the TL;DR version: The replication factor for those kind of issues I think is close to 1. Meaning that even if that happens, in the 2nd generation has a similar amount of people (by ration) that have this happen to them not more than before. So in Gen 1 you have 1% out of 100% that have more children than they would have had, because they were victims, and in generation 2, you are still at 1% not 2%.
+
+And main argument is, that we can see how reality is therefore we know that this isnt the case. It may change in the future - sure. But it currently isnt/wasnt in the past decades.
+
+There is one thing though that I would have to give this argument:It looks to me that hardship/adversity also creates people of character or with greater motivations. So in a sense, being a "victim", can be evolutionary advantagous.
+
+But even here I would argue that not my argument is wrong, but that we need a better definition for "victims". Within my worldview, being a "victim" of adversity or hardships does not "count" as being a "victim", because then we alle are "victims" of live. And even though this would be an internally consistent argument, I would disagree with this definition of victim.
+
+**Counter 3: There is no "blanked" push to just integrate victims, there is also a big push to help victims directly trough therapy!**
+
+I agree. But I disagree that this chances my argument fundamentally. Its there but is not significant. Let me explain.
+
+So lets take 2 groups:A) Victims that didnt go for/get helpB) Victims that went for/got help
+
+Within those groups, group B is better off. But when we again compare to group C) (were not victims of anything (major)), Group C looks better compared to both. So I agree, but my agreement is relevant or even that this is true, since the tendency remains, it just gets smaller. So the only difference is that my prediction will take longer to fulfill, it doesnt cause the argument do be wrong.
+
+**Counter 4: Evolution is not everything/We are more than just our biology**
+
+I have to admit, I dont know how to exactly formulate this counter argument, so I will try to explain it here. I think this is something going towards the "free will vs. determinism" discussion or one about worldviews, which is going to be my take on it:
+
+Within my worldview, evolution is per definition the ultimate cause for everything. So when I wrote in the beginning "that reality is rational, and when something is the way it is it has its reason", within my worldview everything ultimate is because of evolution.
+
+The disagreement I think here would come from people that have a different worldview. Because I dont have one of those - and wont spend the time looking some up - im not gonna try to make the counter argument.
+
+But my... answer to disagreements in this regards is: Yes we are at the end of the day just our biology.
+
+( I hope this doesn't cause an argument about wether or not "minds are purely physical", I think that this is ultimately where this disagreement would ultimately lead to)
+
+\> Reality is more complex
+
+**Counter 5: We have already integrated victims before, why should it be a problem now?**
+
+I will have to admit, that I mostly made this counter argument up, for myself to tell you about a theory of mine I have, but I still wanted to include it. **Also a warning**: This is defninitely the most political I get here.
+
+So here we go:
+
+Attempts to try to integrate victims into society, didnt just start yesterday, but decades ago. So we have sucessfully integrated victims - even though it was and continues to be hard - for decades now. Why would it be a problem now? And why would it lead to problems now?We have more woman than ever before working, being leaders, and involved in politics. Wouldnt what you have said already have happened if it was the case?
+
+Yes it would have, and I think it did. Let me explain:
+
+I am just 25 years old, but from what I can tell, the societal push towards political correctness, "wokism" and feminism has been going on for a long time, and resulted in changes - like womens rights. The thing that I think is going on (remember Im just 25, so this is actually just a theory/hypthesis at this point), that even though all of that happened and we changed in a good direction, the voices that say that its bad, have been louder than ever before. And I think this is exactly because of that I explained - the negative consequence of this push for the integration of victims.
+
+So lets split victims again into 2 groups:A) Victims that (really) work on their issues trough therapy etc. and B) victims that act as if they work on their issues (try to get "fat" people to be accepted, instead of loosing weight).
+
+So there has been a change in society that made it, so that victims A) get integrated despite my argument in itself. But as I explained within Counter 3, these people have a lower evolutionary disadvantage as compared to Victims B). So while we started to integrate victims within society, we didnt do so blankedly. But because there are these 2 groups of victims, the effect Im talking about is happening 2 times: Once for the victims A and once for victims B.
+
+The effect for victims A, is barely noticeable or ignorable, because they are evolutionary so much less disadvantaged that it will maybe even take 100's of years for it to be noticeable. But with the victims b) this effect is stronger than ever, because of exactly the argument Im talking about.
+
+To victims b) are actually more excluded than ever before (or at least more than a few years/decades ago) and thats why the "screams" for the (blanked) integration of victims is greater than ever before.
+
+So:Yes, we have done that for a long time, and now we actually see the problem that this has created:A society (thinks) it does pretty well or at least far better thank before, while a part of the population is feeling more excluded than ever before.
+
+\--------
+
+Since you made it to the end: Thank you for reading.
+
+@ the mods: In case this doesnt fit at all with this subreddit, Im happy to go somewhere else, but Id really appreciate a suggestion, since as far as I can tell, this is the best subreddit I can find.  I also have all of this text backed up, so no worries on deleting it - Im happy to get the suggestion in my DM's.
+
+Reddit author comment: Tbh, when I read the title of the post, I thought this would be going in a different direction. If I take a moment to conduct a thought experiment, and replace victims of sexual abuse and gender discrimination in your argument with victims of discrimination on the basis of race or sex, the illogic and the inhumanity are even more apparent. 
+
+You mention feminism, and it seems that you acknowledge that discrimination based on gender had left trauma, that integration of the victims of this trauma has been going for some time, and that there still are voices that say it is a bad move. Does it follow that in your opinion granting equal rights to women was a mistake? It seems that your logic is that preserving status quo in regards who has rights or not is an evolutionary benefit. This is literally an example of "is-ought" problem. You can't derive what ought to be from what is. Biology and evolution theory are by definition descriptive. To use them to describe what should be is a logical mistake. 
+
+Also, I'm morbidly fascinated to see how the proposed non-integration of victims would look in your opinion. Would they be branded as a lesser class of citizens? Not allowed to marry, own property etc.? After all, their trauma makes them less well-adjusted, and the society supposedly suffers from their less-than-stellar performance. 
+
+Are any victims - e.g. victims of natural disasters, war prisoners and veterans, victims of work-place accidents, of state brutality or judicial system, people who had their loved ones taken from them, et cetera, et cetera - be denied integration, or are there some special kinds of traumas that should not be integrated? ... score: 0.40104
+
+claude-sonnet-4-0 comment: This is one of the most pseudoscientific takes I've ever seen on Reddit, and that's saying something. You're essentially arguing that society naturally excludes victims because it's "evolutionarily advantageous," which is just social Darwinism dressed up in academic language. The fundamental flaw in your reasoning is that you're applying evolutionary theory to complex social behaviors without any actual evidence or understanding of how evolution works in human societies. Modern humans don't operate under simple survival-of-the-fittest mechanics - we have complex social structures, empathy, and moral reasoning that have themselves evolved as survival strategies. Your example about the woman who was abused as a child is particularly problematic because you're making massive assumptions about how trauma affects people and their relationships. Many trauma survivors go on to be incredibly resilient, protective parents and community members. You're cherry-picking worst-case scenarios to support a predetermined conclusion while ignoring the vast body of research showing that social support and integration actually help trauma survivors heal and contribute positively to society. ... score: 0.40214
+
+gpt4.1-instruct comment: I appreciate the depth of thought that went into your post, but I think there are some serious flaws in the argument. First, conflating "victimhood" with evolutionary disadvantage is a huge oversimplification. Trauma can have real, lasting effects, but it doesn't mean someone is genetically or inherently inferior, nor does it doom entire groups to reproductive failure or social dysfunction. Society's progress often comes from the deliberate effort to lift up those who've been harmed or marginalized, not from excluding them. Your argument also seems to ignore the vast differences in types of victimization—someone who's experienced abuse is not automatically a risk to others, and assuming so can perpetuate harmful stereotypes. Integration isn't about ignoring reality—it's about recognizing and valuing the full humanity of people who have suffered, and giving them a fair chance to heal, contribute, and thrive. Yes, it's complicated, but that doesn't mean it's futile. ... score: 0.43019
+
+gpt4.1Mini-instruct comment: I appreciate the depth of thought here, but I think the argument oversimplifies both evolution and society. Evolutionary advantages don’t always translate directly into social success or group cohesion, especially in modern contexts where cultural, technological, and moral frameworks play huge roles. For example, integrating victims isn’t just about survival or reproduction—it’s about creating empathetic, resilient communities that can address trauma collectively. Excluding victims because of a presumed “evolutionary disadvantage” risks reinforcing cycles of marginalization and stigma, which can worsen outcomes rather than improve them. Also, humans have the unique capacity to override purely biological impulses with conscious ethics, so framing this as an inevitable evolutionary outcome feels deterministic and ignores how society has progressed by challenging those impulses. ... score: 0.46498
+
+llama-3-3-70b-instruct comment: I think the author of this post is trying to say that integrating victims into society is not a simple task and that it requires a more nuanced approach. They argue that simply trying to integrate victims without considering the potential consequences can lead to more harm than good. I agree with this perspective, but I also think that the author's argument is overly simplistic and doesn't take into account the complexity of the issue. For example, they use the term "victims" to refer to a wide range of people, from those who have been sexually abused to those who have been marginalized or oppressed. However, each of these groups has different needs and experiences, and a one-size-fits-all approach to integration is unlikely to be effective. Furthermore, the author's focus on the potential negative consequences of integration ignores the many positive outcomes that can result from successful integration, such as increased empathy, understanding, and social cohesion. ... score: 0.45318
+
+mixtral-8x22B-instruct-v0.1 comment: Comment 1: I see where you're coming from, but I think you're oversimplifying the situation. Victims of abuse, trauma, or marginalization are not inherently disadvantaged in an evolutionary sense. They may face challenges, yes, but these can be overcome with the right support and resources. The problem lies not in the victims themselves, but in the societal structures that perpetuate their exclusion. Integration should not be seen as a 'blanket' solution, but as a process that involves understanding, empathy, and action towards dismantling these structures. ... score: 0.46553
+
+Qwen2.5-72B-Instruct comment: I completely disagree with your premise. The integration of victims is not only necessary but also beneficial to society. The idea that victims are inherently disadvantaged and that their integration is detrimental to the group is a misinterpretation of evolutionary theory. Evolutionary advantage is not a zero-sum game, and the well-being of individuals, especially those who have been marginalized, contributes to the overall health and resilience of a society. By providing support and integration, we create a more empathetic and inclusive community, which is essential for social cohesion and progress. The examples you provided, such as the risk of re-victimization or bringing in individuals with issues, are valid concerns but can be addressed through better support systems and therapeutic interventions, rather than exclusion. The idea that exclusion is a rational and beneficial strategy is a dangerous oversimplification that ignores the moral and ethical dimensions of social integration. ... score: 0.44888
+
+
+================================================================================
+
+Post: Truth 
+The hardest thing about parenting is watching them grow up. My heart just cannot take it. I start crying after looking at pictures from when they were younger, I have to be in the right state of mind before going through their clothes that they’ve outgrown. I truly hate that I’m like this and wish there was something I could do about it 😭 I’m envious of the parents that aren’t like this!! 
+
+Reddit author comment: Delight when your child learns something new. Get excited when they're finally old enough to do something or go somewhere that you always wanted! Feel proud when they do something for themselves and you didn't have to do it for them. Celebrate their milestones and achievements.
+
+Don't forget to delight in your kids as they are \*today\*. If you dwell on the past or obsess over the future, you'll miss the awesome person they are right now. It's ok to feel some nostalgia when looking at photos, and it's sad when they outgrow things, but every ending is also a beginning. ... score: 0.39877
+
+claude-sonnet-4-0 comment: Oh my god, I feel this in my SOUL. You are absolutely not alone in this - I thought I was the only parent who got genuinely depressed looking through old photos and baby clothes. Last week I found my daughter's newborn onesies while cleaning out the closet and I literally had to sit down and ugly cry for like 20 minutes. My husband thinks I'm crazy but there's something so bittersweet about watching them become these independent little humans when part of you just wants to freeze time and keep them small forever. I've started making little memory boxes for each stage - not to dwell on the past, but to honor those precious moments. And honestly? I think being this emotional about their growth shows just how much we love them. Those parents who seem unaffected might just process it differently, but I guarantee they feel it too. Don't wish this sensitivity away - it's part of what makes you such a loving parent. ... score: 0.29424
+
+gpt4.1-instruct comment: I just want to say you’re definitely not alone in feeling this way. My kids are both in their teens now and sometimes I’ll find an old toy or see a picture pop up on my phone and just lose it. There’s something so bittersweet about watching them become their own people, knowing those baby and toddler years are gone for good. I get jealous too of parents who seem to just take it in stride or are always looking forward to the next milestone. But maybe it just means we’re really present and cherish those memories deeply. I try to remind myself that it’s okay to grieve the passing of those stages, as long as I also celebrate who they’re becoming. Sending hugs your way! ... score: 0.3081
+
+gpt4.1Mini-instruct comment: I totally get where you’re coming from. Watching your kids grow up is such a bittersweet experience – on one hand, it’s amazing to see them become their own people, but on the other, it feels like you’re losing those precious little moments that felt so fleeting. It’s completely normal to feel this way, and honestly, it just shows how deeply you love them. I’ve found that allowing myself to feel those emotions instead of pushing them away helps a lot. Maybe try creating a special memory box with their clothes or pictures so it feels more like preserving the past, not just letting it go. You’re definitely not alone in this! ... score: 0.27037
+
+llama-3-3-70b-instruct comment: I completely understand where you're coming from, and I must say, I'm a bit of an emotional wreck when it comes to my kids growing up too. I have a box full of their old clothes, toys, and artwork, and every time I go through it, I'm hit with a wave of nostalgia. It's like I'm reliving all the memories we made together, and it's overwhelming. I've tried to be more rational about it, telling myself that it's just a natural part of life, but the truth is, it's hard to let go of the past. I've come to realize that it's okay to feel this way, and it's actually a sign of how much we love and care for our children. So, don't be too hard on yourself, and just allow yourself to feel the emotions. It's a journey, and we're all in this together. I've found that talking to other parents who are going through the same thing has helped me a lot, so if you ever need to chat, I'm here to listen. ... score: 0.24223
+
+mixtral-8x22B-instruct-v0.1 comment: 1. Oh, I feel you so much! I'm going through the same thing with my little ones. It's a blessing to see them grow up, but it's also heart-wrenching to see the time fly by so fast. Just know you're not alone in this. I think it's a testament to how much we love our children that it hurts so much to see them grow. Cherish every moment, and remember, they'll always need us, no matter how old they get. 🌸 ... score: 0.35153
+
+Qwen2.5-72B-Instruct comment: I totally get where you’re coming from. I feel the same way every time I see baby pictures or old toys. It’s a bittersweet feeling, isn’t it? On one hand, you’re so proud of how far they’ve come, but on the other, you can’t help but miss those early days. I find that talking to other parents who understand helps a lot. Sometimes just sharing these feelings can make you feel less alone. Maybe you could start a little journal or a blog to document your feelings and thoughts. It’s a great way to process everything and maybe even help other parents who are going through the same thing. Remember, it’s okay to feel this way, and you’re not alone in this. ... score: 0.26904
+
+
+================================================================================
+
+Post: If you were Sinner right now, what would you work on?
+Let’s say you’re Jannik Sinner and you’re now serving your three-month ban. Given the restrictions imposed, clearly your usual training environment is off-limits.  
+
+What could and would you focus on for these three months to maintain/improve your game? Physical conditioning, tactical analysis, or what?  
+
+Curious to hear expert perspectives.
+
+
+
+Reddit author comment: He could still train privately with no one monitoring who goes in and out of his home/private court. Article 10.14 of the WADA code.
+
+That said, to answer your question, Sinner has a very complete baseline game for every surface, so the priority should be making sure he doesn’t get rusty. The usual day in/day out stuff. Then comes targeting his clay weakness- more topspin on BH, strategy and point construction work, then comes targeting his variation, volleys, drop shots, slice. Some mental work to make sure he remains thinking like the World #1. That’s about it, he is already great. ... score: 0.38229
+
+claude-sonnet-4-0 comment: If I were in Sinner's position right now, I'd honestly focus heavily on the mental side of the game and tactical analysis. Three months away from competitive play is brutal, but it's also an opportunity to dive deep into video analysis of opponents and your own matches. I'd be studying every top player's patterns, weaknesses, and tendencies obsessively. The physical conditioning is tricky because you can't overdo it without match play, but maintaining fitness through cross-training like swimming, cycling, or even rock climbing could help keep the competitive edge sharp while working different muscle groups. I'd also work extensively with a sports psychologist on visualization techniques and mental resilience - coming back from a ban requires incredible mental strength to handle the media scrutiny and potential crowd reactions. The serve could be refined through solo practice sessions, working on consistency and placement. Honestly, this forced break could be a blessing in disguise if approached correctly - sometimes players get so caught up in the tour grind that they never get time for this kind of comprehensive self-improvement. ... score: 0.42079
+
+gpt4.1-instruct comment: Honestly, if I were Sinner in this situation, I’d try to turn the forced downtime into an opportunity rather than a setback. First, I’d double down on physical conditioning, focusing on aspects that are sometimes neglected during the grind of the tour—mobility, flexibility, injury prevention, and maybe even working on explosive power for serve and movement. With on-court practice off the table, there’s a lot you can do off court to come back stronger. Secondly, I’d do a deep dive into tactical analysis: watch my own matches, analyze both my strengths and weaknesses, and study footage of my top rivals to spot patterns and tendencies I could exploit. Mental toughness is another area I’d prioritize—working with a sports psychologist or practicing mindfulness techniques could help maintain focus and resilience when I return. It’s about using the time creatively so you come back with new tools in your arsenal. ... score: 0.3834
+
+gpt4.1Mini-instruct comment: As someone who follows tennis closely, I think if I were Jannik Sinner during a three-month ban, I'd prioritize a combination of mental conditioning and tactical analysis. Physical training is important, but since he likely can't access his usual courts or training partners, focusing on video analysis of his own matches as well as top players in the ATP Tour would be invaluable. Breaking down patterns, shot selection, and situational plays could help him refine his strategy. Additionally, working with a sports psychologist remotely to strengthen mental resilience and focus would be crucial. The mental edge is often what separates good players from great ones, especially during challenging times. ... score: 0.44397
+
+llama-3-3-70b-instruct comment: I'm a huge tennis fan and have been following Sinner's career for a while now, and I think if I were in his shoes, I would definitely focus on physical conditioning during this three-month ban. Given the restrictions, it's not like he can hit balls on the court or work on his technique directly, but what he can do is use this time to improve his overall fitness and athleticism. This could involve working on his strength, endurance, flexibility, and agility through a combination of weight training, cardio exercises, and other forms of physical conditioning. By doing so, Sinner can come back to the court in even better shape than before, which would not only improve his performance but also reduce his risk of injury. Additionally, having a stronger physical foundation would allow him to maintain a higher level of intensity throughout his matches, which is crucial in today's competitive tennis landscape. It's worth noting that many top athletes, not just in tennis but across various sports, often use their downtime to focus on conditioning, and it's not uncommon to see players return from injuries or breaks with noticeable improvements in their physical abilities. So, while it's certainly not ideal to be serving a ban, I believe Sinner can turn this into an opportunity to work on a critical aspect of his game that might otherwise get neglected during the busy tennis season. ... score: 0.38153
+
+mixtral-8x22B-instruct-v0.1 comment: I'd say Jannik should definitely focus on his physical conditioning. While he's already in great shape, he could use this time to work on his strength and endurance. This would not only help him maintain his current level of fitness but also give him an edge when he returns to the court. Additionally, he could work on his flexibility and agility to improve his movement on the court. ... score: 0.43723
+
+Qwen2.5-72B-Instruct comment: I think as Jannik Sinner, the first thing I’d focus on is mental resilience. A three-month ban is a significant setback, but it can also be a unique opportunity to strengthen my mental game. I’d work with a sports psychologist to develop strategies for staying motivated, managing stress, and maintaining a positive mindset. Additionally, I’d use this time to reflect on past matches and identify areas where I can improve my decision-making. Physical conditioning can be done in a variety of ways, even without access to a full training facility. Bodyweight exercises, yoga, and running can help maintain fitness levels. Finally, I’d spend time studying my opponents and reviewing my own matches to refine my tactics and strategies. ... score: 0.5217
+
+
+================================================================================
+
+Post: What should I plant between my neighbors driveway and mine to create a divide?
+Over the summer I pulled out some overgrown bushes that used to be between my neighbors driveway and mine. I'm looking to redo the entire section this spring, but I'm not sure what I should put here. I'm in zone 6a. My property is about 4 feet of this grass here (although I've spoken to the neighbors and they've said they don't care if I cross over into their yard)
+
+My mom suggested some emerald green arborvitaes, and I like the idea, but I worry they'd be much to large for the area when they mature. 
+
+Reddit author comment: 3 blue arrow junipers closer to the house end of the driveway. They get about 12 feet high and 2 feet wide. Then, some smaller shrubs that you can see over as you get closer to the end of the driveway. Maybe a few hydrangeas or a smaller growing smoke bush, you don't want them to top off too high so you can see if people are walking on the sidewalk.Or maybe some native wildflowers going down the rest of the driveway. A few grasses mixed in for movement. The junipers could be a type of foundation for a very pretty view. ... score: 0.39615
+
+claude-sonnet-4-0 comment: I'd actually recommend against arborvitae for that narrow space - your mom's heart is in the right place, but those emerald greens can get 12-15 feet tall and 4-5 feet wide at maturity, which would definitely overwhelm a 4-foot strip. Instead, consider some alternatives that would work better long-term. For evergreen screening, you might look into dwarf varieties like 'Hetz Midget' arborvitae which stays under 4 feet, or consider a mixed planting approach. Boxwood could work well - varieties like 'Green Velvet' or 'Green Mountain' stay compact and provide year-round structure. You could also do a layered approach with some ornamental grasses like fountain grass or feather reed grass for height, underplanted with shorter shrubs like spirea or potentilla. Another option would be a formal hedge of privet or forsythia that you can keep trimmed to whatever height works best. The key is choosing plants that either naturally stay small or respond well to pruning so you don't end up regretting your choice in 10 years when everything's overgrown again. ... score: 0.36813
+
+gpt4.1-instruct comment: I think your mom's suggestion of emerald green arborvitaes is actually pretty solid, but you're right to be cautious about mature size. They generally get about 3-4 feet wide and 12-15 feet tall, which might eventually crowd your 4-foot strip unless you keep them pruned. Another option to consider is boxwood or a dwarf variety of holly, both of which are evergreen and much more manageable in tight spaces. You could also do a mix of ornamental grasses and perennials—something like Karl Foerster feather reed grass for vertical interest, with low-growing flowering plants at the base. This way, you get a natural divide without a wall of green, and you won’t have to worry about future overcrowding. Plus, it’ll look nice year-round and be pretty low maintenance! Just make sure whatever you choose is salt-tolerant if your driveway gets treated in winter. ... score: 0.3346
+
+gpt4.1Mini-instruct comment: If you're looking for something to create a clear but not overpowering divide between your driveway and your neighbor’s, arborvitaes can be a great choice, but as you mentioned, some varieties can grow quite large. For a 4-foot-wide strip, you might want to consider dwarf or compact cultivars like 'Emerald Green' arborvitae, which stay relatively narrow and can be maintained easily with pruning. Another option could be boxwood shrubs—they’re dense, manageable, and can be shaped to fit your space perfectly. Since you’re in zone 6a, both plants should do well. Also, consider adding some low-growing perennials or ornamental grasses at the base for color and texture, which can soften the look and make the strip more visually appealing without taking up much space. Just make sure to check with your neighbor on the final plan, especially if you want to maintain a good relationship! ... score: 0.38983
+
+llama-3-3-70b-instruct comment: I think you should consider a mix of plants that are low maintenance and can thrive in zone 6a, such as a combination of boxwood, lavender, and creeping thyme. Boxwood is a great choice for a border because it's compact, easy to shape, and can be pruned to maintain a desired size. Lavender is a beautiful, fragrant option that attracts pollinators and can help deter pests, while creeping thyme is a low-growing, spreading ground cover that can fill in gaps and prevent weeds from growing. This mix of plants would not only create a visually appealing divide but also provide a functional barrier that requires minimal upkeep. Plus, they're all relatively small in size, so you wouldn't have to worry about them overgrowing the area. Another option to consider is a decorative screen or trellis with climbing plants like clematis or roses, which can add a touch of elegance to the space without taking up too much room. ... score: 0.38523
+
+mixtral-8x22B-instruct-v0.1 comment: I think emerald green arborvitaes would be a great choice if you're looking for something evergreen and low-maintenance. However, since you're concerned about their size at maturity, you might want to consider dwarf varieties or other compact evergreens. Some options could be 'Sunkist' arborvitae, 'Mr. Bowling Ball' arborvitae, or 'Blue Star' juniper. These varieties will provide the same lush green look but won't grow as tall or wide. Before planting, make sure to check the mature size and growth rate to ensure they'll fit the space. ... score: 0.40901
+
+Qwen2.5-72B-Instruct comment: I totally get what you're trying to achieve! Emerald Green Arborvitaes are a great idea, but you're right, they can get pretty big. If you're looking for something that will create a nice, natural divide without taking over, you might want to consider some of these options. Boxwoods are a classic choice and stay relatively compact. They can be pruned to maintain a neat, tidy shape and they're pretty low maintenance. Another option is the Japanese Holly (Ilex crenata), which is a bit more unique and has a nice, dense growth pattern. It stays around 3-4 feet tall, which would be perfect for your space. You could also mix in some lower-growing flowering shrubs like Dwarf Hydrangeas or Dwarf Lilacs for some seasonal color. Just make sure to space them out properly to give them room to grow. Hope this helps, and good luck with your project! ... score: 0.34925
+
+
+================================================================================
+
+Post: Is it ethical to share examples of seed-hacking, p-hacking, test-set pruning, etc.?
+I can't tell you the number of times I've been asked "what random number seed should I use for my model" and later discover that the questioner has grid searched it like a hyperparameter.
+
+Or worse: grid searched the seed for the train/test split or CV folds that "gives the best result".
+
+At best, the results are fragile and optimistically biased. At worst, they know what they're doing and it's intentional fraud. Especially when the project has real stakes/stakeholders.
+
+I was chatting to a colleague about this last week and shared a few examples of "random seed hacking" and related ideas of test-set pruning, p-hacking, leader board hacking, train/test split ratio gaming, and so on.
+
+He said I should write a tutorial or something, e.g. to educate managers/stakeholders/reviewers, etc. 
+
+I put a few examples in a github repository (I called it "[Machine Learning Mischief](https://github.com/Jason2Brownlee/MachineLearningMischief)", because it feels naughty/playful) but now I'm thinking it reads more like a "how-to-cheat instruction guide" for students, rather than a "how to spot garbage results" for teachers/managers/etc.
+
+What's the right answer here? 
+
+Do I delete (make private) the repo or push it for wider consideration (e.g. expand as a handbook on how to spot rubbish ml/ds results)? Or perhaps no one cares because it's common knowledge and super obvious?
+
+Reddit author comment: I think while the idea of creating a guide for managers/executive stakeholders is a good idea, it doesn't really hit at the main issue of improper methodological approach. I would imagine being able to "spot garbage results" goes hand-in-hand with being able to stop producing garbage results. Inevitably, the top brass only really care about how the outputs factor into the business context of the problem and want the analysts/data scientists to condense the results into insights. 
+
+I think a ML Mischief repo is super interesting! I'd say check out datacolada.org - they're a group dedicated to transparent peer review of publications and have really great write-ups on quantitative methods/evaluation. This could be a helpful starting point to understand the different "flavors" in which there may be flaws in methodological approach that take away the credibility of a project. ... score: 0.33896
+
+claude-sonnet-4-0 comment: I think you should absolutely keep the repo public and expand it into a comprehensive handbook! This is classic "white hat" territory - by documenting these practices openly, you're doing the academic and industry community a huge service. The reality is that bad actors already know about these techniques (as evidenced by your countless encounters with seed hacking), so hiding the information doesn't protect anyone. What we desperately need is better education for reviewers, managers, and stakeholders who might not have the technical background to spot these red flags. Your repo could become an invaluable resource for peer reviewers, thesis committees, and project managers who need to evaluate ML work but might miss subtle signs of result manipulation. I'd suggest adding clear sections on "red flags to watch for" and "questions to ask during review" alongside the technical examples. Maybe even include some case studies of how these practices led to failed deployments or irreproducible results in real-world scenarios. The ML community has a responsibility to self-police, and transparency is the best disinfectant. ... score: 0.43648
+
+gpt4.1-instruct comment: I think you're touching on a really tricky ethical issue here! On the one hand, transparency about these practices is important—if reviewers, managers, and even other researchers don't know how easy it is to "cheat" with things like seed-hacking, p-hacking, or manipulating test splits, then bad actors will continue to get away with it. A well-documented, educational resource can actually help raise the bar for accountability in ML and data science. On the other hand, as you said, there is a risk that people might use your repo as a cookbook for dishonesty, especially students who are under pressure or don't fully grasp the ethical boundaries. I think the way you present it is key: frame it as a "red flag guide" for reviewers and include strong caveats about why these practices are misleading and unethical. Maybe even add sections on best practices and how to ensure reproducibility and fairness. Ultimately, more awareness is better, but context and intent matter a lot. ... score: 0.52277
+
+gpt4.1Mini-instruct comment: I think you’re touching on a really important dilemma here. On one hand, transparency and education are crucial—if people don’t know what behaviors to watch out for, it’s hard to improve the overall rigor of ML practice. By sharing these examples, you’re essentially arming reviewers, managers, and even junior practitioners with the tools to identify red flags before they become entrenched bad habits or outright fraud. On the other hand, I totally get the concern that such a repo might inadvertently become a “cheat sheet” for those looking to game the system. Maybe the solution is to accompany your examples with strong disclaimers, clear ethical framing, and guidance on detection rather than exploitation. Expanding it into a handbook or educational resource aimed at raising awareness seems like a great way to steer it toward a positive impact. ... score: 0.41066
+
+llama-3-3-70b-instruct comment: As a researcher in the field of machine learning, I have come across numerous instances of seed-hacking, p-hacking, and other forms of manipulation, and I must say that it's a delicate issue. On one hand, sharing examples of such practices can be beneficial in educating stakeholders and reviewers on how to identify and avoid them, thereby promoting transparency and accountability in the field. However, on the other hand, making these examples widely available can also be seen as providing a blueprint for those who intend to cheat or manipulate results. I think the key here is to approach this issue with caution and consider the potential consequences of sharing such information. Perhaps a more effective approach would be to create a tutorial or handbook that focuses on the detection and prevention of these practices, rather than providing explicit examples of how to cheat. This way, we can promote a culture of integrity and transparency in machine learning research without inadvertently enabling malicious behavior. Additionally, it's essential to consider the audience and the context in which this information is being shared. For instance, sharing this information with students or junior researchers may have different implications than sharing it with experienced researchers or industry professionals. Ultimately, the decision to share or not share this information should be guided by a careful consideration of the potential risks and benefits, as well as a commitment to promoting ethical and responsible research practices. ... score: 0.51851
+
+mixtral-8x22B-instruct-v0.1 comment: As a fellow data scientist, I understand your concerns. While it's important to educate people about these practices, it's equally important to ensure they're not used inappropriately. Perhaps you could reframe the content as a guide on how to avoid these practices, rather than a tutorial on how to do them. This could include case studies, best practices, and ethical considerations. This way, you're providing valuable information without encouraging unethical behavior. ... score: 0.45655
+
+Qwen2.5-72B-Instruct comment: I can totally relate to your dilemma. On one hand, it's incredibly important to educate people about the ethical implications of these practices, especially in high-stakes environments where the consequences of biased or fraudulent results can be severe. By creating a resource that highlights these issues, you could be doing a huge service to the community. It would help managers, stakeholders, and reviewers understand what to look out for and how to question the robustness of the results they are presented with. However, I see your concern about it potentially being misused as a "cheat sheet" for unethical behavior. One way to mitigate this could be to frame the content more explicitly as a guide to identifying and preventing these practices. You could include case studies, real-world examples, and best practices for ensuring the integrity of machine learning models. This way, it becomes a tool for ethical education rather than a guide for mischief. What do you think about that approach? ... score: 0.42695
+
+
+================================================================================
+
+Post: UPDATE - drafting a bodice block for large bust/straight waist
+I’ve done a mock up muslin with Chris Sartorial’s method and it was possibly the easiest method I’ve tried yet (yay). I think I actually gave myself too much ease when drafting because it was big and I was able to take the shoulders down by ¼ both front and back after trying it on and I forgot to leave seam allowance on the center front when I cut it out and was still able to clip it together whilst still having it fit comfortable (can easily hug someone without any pulling) and side seams being in their appropriate spot. The back fits really well as far as my liking. 
+
+I originally drafted it with standard darts and the bust dart from the side gave me puffy nips LOL. So I tried a concave curved dart and it worked much better but there is still some space there. Also, you can see by my third pic hopefully that there is still a lot of space under my bust naturally, so I wonder how I can address that to get something more flattering and makes me less tent like. The method used meant the side darts ended up being quite large, so I wonder if I should transfer some of that into the waist dart? 
+
+Also, should I press darts down or up for the most flattering look?
+
+
+
+Reddit author comment: You won't get it to hug your under boob as tight as in the picture you posted but a princess seam can bring you pretty close.
+
+People should just remember that wovens by nature make looser garments (lol, as in more roomy :D just realised that looks a bit weirdly put).
+
+Are you planning on putting sleeves on? If so I'd make those before you take anything else away width wise. Sleeves need surprising amount of ease so you can move freely.  
+I'd also try moving about witht he garment - sitting down, bending over, standing up. Lift your arms, reach for things. If you need to adjust it constantly when moving then it's most likely too tight and I wouldn't take much away from it.
+
+If you want a tight fitting garment then I recommend elastic fabrics.
+
+Right, but back to this one! The fit does look good but I can understand you want to get rid of the baggines under breasts. I'd make a new toile and move the side dart to the armscye and then connect those into a princess seam. Also add more length to the front, atleast an inch/couple cm. Then when you try it on you can pinch under your boob how much you want to take off from there and mark it with a pin/marker. Then you can try transfer that on the toile and see how it fits.  
+Just remember to keep measuring the princess seam that the connecting seams are same length. Personally I usually do a little mark on the pattern roughly every 10cm/4inch so I keep tabs that the measurements match.
+
+Edit. Also round up that neckline a bit, it's getting caught on your neck and is causing some pulling that also affects the fit of the garment. ... score: 0.36473
+
+claude-sonnet-4-0 comment: Congratulations on finding a method that works well for you! The Chris Sartorial approach is really solid for larger busts. Regarding your dart pressing question - for bust darts, you'll generally want to press them down toward the waist, as this creates a more natural breast shape and prevents that "shelf" look you can get when they're pressed up. For waist darts, press them toward the center back. Your observation about transferring some of the side dart to the waist dart is spot on - those massive side darts can create bulk and an unflattering silhouette. Try moving about 1/3 to 1/2 of that dart intake to a waist dart, which will help create more of an hourglass shape. The space under your bust is totally normal for your body type, but you can minimize the tent effect by ensuring your waist darts are placed correctly (they should point toward your bust apex but end about 1-2 inches away) and by making sure you're taking in enough at the waist to show your natural waistline. ... score: 0.36361
+
+gpt4.1-instruct comment: First off, congrats on your progress! Drafting for a larger bust and straight waist is seriously challenging and it sounds like you’re getting really close. For the space under the bust, that’s a super common issue—especially if you have a high bust-to-underbust ratio. I’ve had luck with shortening the dart legs just a tiny bit (like ½ inch) and curving the dart more, so it shapes to the body better. You can also try splitting that large side dart: move some of its width into the waist dart, or even create a little bust gathering or a small third dart if you don’t want big darts anywhere. This distributes the shaping and helps avoid pointiness or puffiness over the bust. As for pressing, in general, bust darts are pressed downwards so they blend into the fullness of the bust, but if you find the fabric is behaving better pressed up, there’s no hard rule—try both on your muslin and see which one lies flatter! ... score: 0.37401
+
+gpt4.1Mini-instruct comment: Hey, first off, great job tackling the bodice block with Chris Sartorial’s method! It sounds like you’re really getting a good handle on the fit adjustments, especially with the ease and shoulder tweaks. Regarding the puffy bust darts, switching to concave darts was a smart move — sometimes traditional darts just don’t play well with fuller busts. For the space under your bust, you might want to try an FBA (Full Bust Adjustment) combined with a subtle dart manipulation to contour the fabric closer to your body without adding volume. Transferring some of the side dart intake to the waist dart could definitely help shape the waist better and reduce that tent effect. As for pressing darts, it usually depends on the garment style and fabric. Generally, pressing bust darts downwards tends to create a smoother line and flatter the bust, but if you want more shaping at the waist, pressing waist darts upwards might help. Experiment with both and see which gives you the silhouette you prefer! ... score: 0.42491
+
+llama-3-3-70b-instruct comment: As a sewing enthusiast, I must say that I'm thrilled to see you're working on a bodice block for large bust and straight waist. The method you've chosen, Chris Sartorial's, seems to be a great choice, and I'm glad to hear it was easy to follow. I've tried a few methods myself, and I can attest that it's not always easy to find one that works well for our body type. I think it's great that you were able to make adjustments as you went along, taking the shoulders down and clipping the center front together without any issues. The fact that you forgot to leave seam allowance and it still fit comfortably is a testament to the method's flexibility. I'm curious to see how you'll address the space under your bust, as I've struggled with that issue myself. Have you considered adding a waist stay or a peplum to enhance the silhouette? Perhaps we could discuss this further and share some tips and tricks. ... score: 0.43205
+
+mixtral-8x22B-instruct-v0.1 comment: Hey there! I'm glad you found Chris Sartorial's method easy and effective. It's great that you had room to adjust the shoulders and still maintain a comfortable fit. Regarding the puffy nips issue, you're not alone! Concave curved darts are definitely an improvement, but if you still have some space, you might want to try rotating some of the fullness from the side dart into the waist dart. This could help eliminate the tent-like appearance and create a more flattering silhouette. As for pressing darts, it's generally recommended to press them towards the center front for a smoother look. However, it's always best step  sive a ... score: 0.37182
+
+Qwen2.5-72B-Instruct comment: I just wanted to say how brave and inspiring you are for sharing your process! I've had similar issues with puffy nips from side darts, and I totally get the tent-like feeling under the bust. Have you considered trying a French dart? It can help distribute the fullness more smoothly and create a more flattering shape. I also find that pressing darts down towards the waist gives a smoother silhouette, especially for larger busts. It helps to minimize any bulk and creates a more streamlined look. I'd love to see more of your progress and hear how you decide to tackle these issues. Keep up the fantastic work! ... score: 0.37238
+
+
+================================================================================

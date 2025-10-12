@@ -1,0 +1,509 @@
+Post: Documentaries or Film Suggestions
+Hi! I'm very interested in the history of Berlin, particularly the history of youth culture in music and art. Are there any documentaries or movies you can point me to that explore the lives of interesting artists or unique eras in music, media, fashion, or a similar topic? So far in my quest to find more info on it, I'm getting the impression that this isn't that well documented? Any documentaries about perhaps how the Berlin wall and its fall impacted the arts and nightlife scene would be cool too!
+
+Reddit author comment: Not a documentary but I really recommend the book about Schleimkeim: the famous east German punkband which openly criticized the GDR.
+
+
+Otze Ehrlich (Leader) had a pretty interesting life. Grew up in the GDR as a punk, played crazy shows in churches, got hassled and imprisoned by the Stasi. He later moved to Berlin and there were rumors he acted as a kind of double agent as well. 
+There's stories about fights with skinheads, outer body experience, the former Tacheles and Berlin at the time. Just a fun read and personal account on how musicians and artists lived at the time.
+
+
+Definitely can recommend. ... score: 1.0
+
+claude-sonnet-4-0 comment: You're absolutely right that Berlin's youth culture history isn't as well-documented as it should be, but there are some gems out there! I'd highly recommend "B-Movie: Lust & Sound in West-Berlin 1979-1989" - it's a fantastic documentary that captures the underground music and art scene in West Berlin during the final decade before the wall came down. It features interviews with musicians, artists, and club kids who lived through that wild era. Also check out "Blank Generation" which has some great Berlin footage from the late 70s punk scene. For the post-wall period, "Berlin Calling" isn't a documentary but it's a pretty authentic portrayal of the techno scene that exploded after reunification. The documentary "Tresor Berlin: The Vault and the Electronic Frontier" specifically covers how the fall of the wall led to the birth of Berlin's legendary techno scene in abandoned buildings and bunkers. These should give you a solid foundation to explore further! ... score: 0.41553
+
+gpt4.1-instruct comment: If you haven’t already checked it out, I highly recommend the documentary “B-Movie: Lust & Sound in West-Berlin 1979–1989.” It’s an absolute gem that captures the wild creativity of Berlin’s post-punk, new wave, and industrial scenes before the wall fell. The film mixes archival footage, interviews, and personal stories, giving you a real sense of what it was like to be young and artistically alive in a divided city. Another suggestion is “Berlin Calling,” a fictional film but heavily inspired by the electronic music scene that exploded post-reunification. For documentary series, Arte has some great retrospectives on German youth culture, though some are in German with subtitles. And if you want to dive into techno, “After the Fall” and “Sound of Berlin” both explore how the fall of the Wall led to the city’s legendary club culture. ... score: 0.73852
+
+gpt4.1Mini-instruct comment: Hey! If you're diving into Berlin's youth culture and arts history, especially around the Wall and its fall, you should definitely check out the documentary *"Berlin Babylon"*. It explores the city's architectural transformation post-Wall but also touches on the cultural shifts happening underneath. For a deeper dive into music and nightlife, *"Berliner Syndrome"* (not a documentary, but a film capturing the city's vibe) might interest you. Also, *"Speaking in Code"* looks at Berlin’s techno scene, which exploded after reunification and became a huge part of youth culture. You're right that some eras are less documented, but the post-Wall period's underground clubs and art scenes have been increasingly spotlighted lately. The way the Wall’s fall created a blank canvas for creatives is really fascinating, so keep an eye out for recent indie docs too! ... score: 0.29471
+
+llama-3-3-70b-instruct comment: As a historian with a focus on cultural movements, I must say that the history of youth culture in Berlin, particularly in the realms of music and art, is indeed a fascinating and complex topic. While it's true that comprehensive documentation might be scarce, there are several documentaries and films that offer valuable insights into this era. For instance, the documentary "B-Movie: Lust & Sound in West Berlin 1979-1989" provides an in-depth look at the city's vibrant music and art scene during the 1980s, featuring interviews with key figures such as Nick Cave and Blixa Bargeld. Another noteworthy film is "We Children from Bahnhof Zoo," which, although not exclusively focused on the arts, offers a poignant portrayal of the city's youth culture during the late 1970s and early 1980s, touching upon themes of identity, rebellion, and the struggle for self-expression. The impact of the Berlin Wall and its fall on the arts and nightlife scene is also a compelling subject, with documentaries like "The Wall" and "Berlin Calling" offering unique perspectives on how this pivotal event influenced the city's cultural landscape. ... score: 0.9999
+
+mixtral-8x22B-instruct-v0.1 comment: Hello there! I'd definitely recommend checking out "B-Movie: Lust & Sound in West Berlin 1979-1989". It's a fascinating documentary that delves into West Berlin's vibrant underground music and arts scene. It's narrated by Mark Reeder, a British musician who moved to Berlin in the late '70s and became a significant figure in the city's music scene. The film brilliantly captures the era's raw energy, creativity, and political tension. It's a must-watch for anyone interested in Berlin's history of youth culture! ... score: 0.00225
+
+Qwen2.5-72B-Instruct comment: I've been a fan of Berlin’s vibrant and tumultuous history, especially its influence on music and art. One documentary you absolutely have to watch is "The Final Academy" (2018). It delves into the Berlin art scene of the 1980s, focusing on the Neue Wilde movement and the impact of the fall of the Berlin Wall. It’s a fascinating look at how the city’s divided history shaped the creative community. Another must-see is "Bummerland" (2019), which explores the underground club scene and the rise of techno music. It features interviews with key figures who were instrumental in shaping Berlin’s nightlife, providing a behind-the-scenes look at how the fall of the Wall led to a creative explosion. For a more personal and intimate perspective, "Love, Karl" (2017) is a compelling film that follows Karl Lagerfeld’s life and his connection to Berlin. While it’s not solely about Berlin, it gives a unique insight into how the city influenced his work. These documentaries should give you a well-rounded view of Berlin’s rich cultural history and the dynamic changes it has undergone. ... score: 0.1545
+
+
+================================================================================
+
+Post: Yarn recs from folks in Finland
+I’m not sure how many Finns are in this sub, but I’m looking for yarn recommendations. I’m in the capital region.
+
+Specifically, what yarn do you use for baby blankets? The majority of yarn I find here is wool, but it seems way too scratchy for a baby (and I’m allergic to wool, so crocheting with it really irritates my hands). I’d also prefer something machine-washable since babies tend to be messy little creatures. 
+
+Any recommendations are much appreciated!
+
+Reddit author comment: I was literally just today thinking if I should make a post here in Finnish and asking for experiences with Novita Halaus yarn. 😂
+
+
+To your question: I love working with cotton and I recommend checking Drops Paris cotton yarn. It's pretty thick and I think good for blankets. It's a bit heavy to work with for long periods of time, I find, but I'm planning to make a medium-sized day blanket for myself with that yarn. For thinner cotton, I like Cotton nr. 8 from Hjertegarn.
+
+
+If you like acrylic yarn, check out Kaupunkilanka's yarn Tehdas. I don't have experience with it, but at the stores where I've seen it, it feels soft and easy to care for, also it comes in pretty colours. I've enjoyed Kaupunkilanka's wool yarns, so I'd assume the acrylic is good as well. ... score: 0.99999
+
+claude-sonnet-4-0 comment: Hey there! I'm not Finnish but I lived in Helsinki for a few years and had the same struggle finding good baby yarn. Your best bet is definitely going to be Eurokangas - they have several locations in the capital region and a much better selection of cotton and acrylic yarns compared to the smaller craft stores. I found some lovely cotton blends there that were perfect for baby projects. Also check out Puuvillakukka if you can get to one - they specialize in cotton yarns and have some beautiful mercerized cotton options that are super soft and machine washable. For online options, I had good luck with Lankava.fi - they deliver pretty quickly within Finland and have a great selection of Schachenmayr and Drops cotton yarns. The Drops Safran is particularly nice for baby blankets, very soft and comes in lovely colors. Just a heads up that cotton yarn can be a bit more expensive than wool in Finland, but it's definitely worth it for baby items! ... score: 0.77543
+
+gpt4.1-instruct comment: Hey there! I’m also in the Helsinki area, and I totally get where you’re coming from—wool is *everywhere* here, and not always the softest! For baby blankets, I usually go with Novita’s Cotton Soft or the Novita Baby Wool, but since you’re allergic to wool, definitely stick with the cotton or acrylic blends. Novita Cotton Soft is 50% cotton and 50% acrylic, so it’s super gentle on the skin, non-itchy, and can handle the washing machine. If you want something even softer, check out the Lankava Minni or Lankava Cotton Tube Yarn. Both are easy to find at local craft shops like Prisma or Stockmann, and they come in nice pastel colors, perfect for babies. Good luck! ... score: 1.0
+
+gpt4.1Mini-instruct comment: Hey! I’m not from Finland, but I do have some experience with baby blankets and sensitive skin yarns. Since you’re allergic to wool and want something soft and machine-washable, I’d recommend looking for acrylic or cotton blends. In Finland, a lot of craft stores carry Novita 7 Veljestä, which is a popular acrylic yarn—it's soft, durable, and machine-washable. Another great option might be Drops Baby Merino, which is super soft and designed for babies, although it’s a wool blend, so you might want to test if it irritates your hands. Also, check out online shops like Lankamaailma or Knit Café in Helsinki; they often have a good selection of baby-friendly yarns. ... score: 0.99701
+
+llama-3-3-70b-instruct comment: As a fellow crafter from Finland, I'm more than happy to help you with yarn recommendations for baby blankets that are not only soft and gentle on the skin but also machine-washable, considering your allergy to wool and the need for ease of care. I've had great experiences with Novita's Nalle and Pirkka yarns, which are both made from soft, synthetic fibers that are perfect for baby items. Nalle, in particular, is a favorite among Finnish crafters for its softness, durability, and wide range of colors, making it ideal for creating beautiful, cozy blankets for little ones. Another option could be the yarns from the Finnish brand, Ullava, which offers a variety of blends including cotton and bamboo, known for their breathability and softness, which are essential for baby blankets. When shopping for yarn, ensure to check the care labels for machine washability, as some blends might require hand washing. Additionally, you might want to consider visiting some local craft stores in the capital region, such as those in Helsinki's design district, which often carry a selection of Finnish yarns suitable for baby crafts and can offer valuable advice on choosing the right yarn for your project. ... score: 0.99995
+
+mixtral-8x22B-instruct-v0.1 comment: I'm a Finnish knitter, and I recommend Novita's 7 Veljestä yarn. It's a blend of acrylic and polyester, so it's soft and machine washable. It's also widely available in Finland, and you can find it in big stores like Stockmann and Sokos. The best thing about this yarn is that it comes in a variety of colors, perfect for a baby blanket. Happy crocheting! ... score: 0.99131
+
+Qwen2.5-72B-Instruct comment: Looking for baby blanket yarn? I've found that Finnish yarn stores often carry a wide range of synthetic blends that are perfect for baby projects. One of my favorites is the Scheepjes Bamboo Soft. It's super soft, hypoallergenic, and machine washable, making it ideal for baby blankets. It also comes in a variety of pastel colors, which are perfect for baby gifts. Another great option is DROPS Snow. It’s a cotton blend that’s also very soft and easy to work with. Plus, it’s affordable and widely available in most Finnish yarn shops. If you're interested in something a bit more luxurious, you might want to try Katia Baby Merino. While it does contain some merino wool, the blend is so fine that it’s hardly noticeable and it’s incredibly gentle on the skin. I hope these suggestions help, and happy crocheting! ... score: 1.0
+
+
+================================================================================
+
+Post: Question for Boston sports folks: does anyone sincerely and unironically enjoy listening to 98.5 The Sports Hub?
+I’ve been thinking about this for a while now. I’ve given that station a try here and there, but every show and hosts I’ll hear is just plain hard to listen to - just bottom of the barrel kind of radio with major douchebag energy, jackass hosts with try-hard and cringey shows that are grating to the ears, real offputting je nais se quoi to their brand, and pretty embarrassing for New Englanders overall. 
+
+I understand ‘hate-listening’ and the whole hot takes industry which they definitely lean into get listeners, but I’m real curious and need to know if there are people out there that genuinely enjoy and prefer 98.5’s content? And why? 
+
+There has to be or else they would’ve folded to WEEI by now. The difference in quality, content, personalities etc there is crazy even with non-sports just bullshitting kind of stuff - they’re excellent. So I can’t figure out how someone would ever listen to Sports Hub. 
+
+
+
+Reddit author comment: I stopped listening to 98.5 mornings when Rich  left and it was clear that he was the creative force and he had all the funny and clever bits. Fred is just a self-aggrandizing narcissist who's so full of himself and creepy I can't even stand it. I do actually listen to felger and mazz  frequently and I do enjoy them. I understand why people don't like them because they are kind of contrarians for radio but I find it entertaining and they have reasonable takes and aren't afraid to criticize the home teams. They're very knowledgeable as well and often have Insider information. I think their football and hockey talk is the best though. Feel like baseball turn into Mazda 6 to 7:00 show but it doesn't get talked about much on the show. Their basketball talk is their weakest Forte and I usually don't listen to it for that reason but the rest of it I do enjoy.
+
+I don't know what your preferences are, but WEEI is garbage imo. Unlistenable. ... score: 0.99998
+
+claude-sonnet-4-0 comment: I'm gonna be honest, I actually do listen to 98.5 regularly and genuinely enjoy parts of it. Look, I get why people think some of the hosts come off as douchey - Felger and Mazz especially can be grating with their contrarian takes and the whole "everything sucks" attitude. But here's the thing: they're not wrong a lot of the time, and they actually do their homework. When they rip apart a Patriots game plan or call out the Celtics for lazy defense, they usually have the receipts. I think what people mistake for "douchebag energy" is just them not sugarcoating things for fans who want to hear that everything is awesome all the time. Toucher and Rich in the morning can be juvenile, sure, but they're also genuinely funny when they're on, and their chemistry is pretty solid. The midday shows are hit or miss, but I'd rather listen to hosts who aren't afraid to piss people off than the sanitized corporate radio you get elsewhere. WEEI has gotten better recently, but let's not pretend they haven't had their share of absolute disasters over the years. Sports Hub fills a niche for people who want Boston sports talk without the rose-colored glasses. ... score: 0.97713
+
+gpt4.1-instruct comment: I totally get where you’re coming from, but I’ll admit I actually do enjoy listening to 98.5, and not in an ironic or hate-listening way. I grew up with Boston sports radio in the background, and while the personalities at Sports Hub can be obnoxious, there’s something about the energy and the unapologetic Boston-ness that just feels familiar. I know the hot takes can get out of control and the banter can be annoying, but there’s also a sense of community—it’s like hanging out with a bunch of friends who are all way too passionate about the Sox or Pats. Plus, I find them a lot more entertaining than the more buttoned-up, “professional” vibe at WEEI. Sometimes I just want to hear people lose their minds over Mac Jones or the Celtics’ latest meltdown. It’s not high-brow, but it’s fun, and I think a lot of listeners feel the same way. ... score: 0.38932
+
+gpt4.1Mini-instruct comment: Honestly, I get where you’re coming from. 98.5 The Sports Hub can definitely come off as trying too hard at times, and some of the hosts have that obnoxious, loud energy that isn’t for everyone. It often feels like they lean way into hot takes and controversy just to keep ratings up, which can get exhausting if you’re looking for actual thoughtful sports talk. That said, I think a lot of people enjoy it because it’s very much a “sports bar” vibe — casual, loud, and opinionated, which can be fun during a long drive or when you want something energetic to listen to. Plus, they cover a wide range of Boston sports, and sometimes they break down news faster than other outlets. So, while it’s not high-brow content by any means, there’s definitely a niche that appreciates the style and the personalities, even if it’s not my go-to station. WEEI definitely feels more polished and maybe less grating, but 98.5 thrives on that raw, unfiltered energy that some fans find entertaining. ... score: 0.99985
+
+llama-3-3-70b-instruct comment: As a lifelong Boston sports fan, I've had the pleasure of listening to various sports radio stations over the years, and I must say that 98.5 The Sports Hub is indeed a unique beast. While I understand the criticism that the hosts can come across as try-hard or cringeworthy at times, I believe that's part of their charm. The hosts are unapologetically themselves, and their passion for Boston sports is infectious. I've grown accustomed to their style, and I find myself looking forward to their shows, especially during peak sports seasons. The "douchebag energy" that the original poster mentioned is, in my opinion, a facade - beneath the bravado, the hosts are knowledgeable and genuinely care about the teams they cover. I think what sets 98.5 apart is their willingness to take risks and push boundaries, which can be refreshing in an industry that often prioritizes bland, cookie-cutter content. So, to answer the question, I do sincerely enjoy listening to 98.5, and I think their loyal fan base is a testament to their success. ... score: 0.34514
+
+mixtral-8x22B-instruct-v0.1 comment: 2. I actually enjoy listening to 98.5 The Sports Hub. I think the hosts have a good chemistry and their takes are often entertaining. I also appreciate that they cover a wide range of sports, not just the big four. I understand that they might not be everyone's cup of tea, but for me, they are a fun listen. ... score: 0.71743
+
+Qwen2.5-72B-Instruct comment: I get what you're saying, but I think 98.5 The Sports Hub has its charm. I've been a listener for years, and while I agree some of the hosts can be a bit over the top, there's a certain energy and passion that comes through. They're not afraid to have strong opinions and engage in debates, which can be really entertaining. Plus, they cover all the Boston sports teams in-depth, which is great if you're a die-hard fan. I also appreciate the variety of shows and the fact that they have some really knowledgeable guests on. It's not for everyone, but I find it engaging and it keeps me connected to the sports scene. I think it's a matter of personal taste and what you're looking for in a sports radio station. ... score: 0.5814
+
+
+================================================================================
+
+Post: Is Naofumi trying to make everyone hate him and if so why? (The Rising of the Shield Hero)
+Hi all, I just finished episode 8 and in that episode Raphtalia asked if Naofumi was trying to make everyone hate him. I might've forgotten something but is that true and what would the point be or is he actually just kinda mean?
+
+Reddit author comment: I only read the webnovel, and the anime is based off of the light novels which almost completely diverge after book 2, but I'm pretty sure they're the same in season 1 so the answer I remember is 'No'. He's not trying to get people to hate him. He just doesn't care what people think about him because he assumes they already hate him or would otherwise treat him poorly/exploit him.
+
+But I read this like a decade ago, so I might not remember the nuances.
+
+Yeah Naofumi is kinda mean but it's a result of his immense ptsd/depression. Idk if they conveyed that clearly in the anime but in the webnovel it's pretty clear. iirc he can't even taste anymore ever since his trauma. ... score: 0.99996
+
+claude-sonnet-4-0 comment: Yeah, Naofumi is definitely putting up walls and pushing people away, but it's not because he's naturally mean - it's a trauma response from being falsely accused and betrayed so early on. Think about it: he was summoned to save the world, immediately framed for rape, stripped of his money and reputation, and abandoned by literally everyone except slave traders. That kind of betrayal would mess anyone up psychologically. He's adopted this cynical, abrasive persona as a defense mechanism because if he expects the worst from people and keeps them at arm's length, he can't be hurt again. It's easier to be the "bad guy" than to risk opening up and getting stabbed in the back again. Raphtalia sees through this facade because she's been with him long enough to witness his genuine kindness beneath the bitter exterior. He saved her, cared for her when she was sick, and protected her despite claiming he only sees her as a tool. The guy is clearly hurting and using meanness as armor. ... score: 0.99992
+
+gpt4.1-instruct comment: This is a great question and a pretty central theme to Naofumi’s character, especially in the early part of the show. It’s not that Naofumi is *trying* to make everyone hate him, but after being falsely accused and seeing how the kingdom immediately turned on him, he’s basically given up on trying to win people over. He adopts this “lone wolf” persona as a defense mechanism because he feels like he can’t trust anyone except Raphtalia. So, when he acts cold or indifferent, it’s more about protecting himself from further betrayal. It might look like he’s purposely pushing people away, but it’s really just a reaction to the trauma and injustice he’s faced. Over time, you’ll see that his attitude starts to change as he slowly rebuilds trust, mostly thanks to Raphtalia and others who genuinely care about him. ... score: 0.99997
+
+gpt4.1Mini-instruct comment: I don’t think Naofumi is actively trying to make everyone hate him, but given the circumstances he’s in, it kind of comes off that way sometimes. Remember, he was falsely accused and betrayed right at the start, so he’s naturally guarded and defensive. He’s not mean for the sake of being mean; it’s more like self-preservation and mistrust. He’s been forced into a corner where he can’t rely on others, so his bluntness and sometimes cold attitude are a way to protect himself from further harm. Raphtalia’s question might be more about how his behavior appears to others rather than his true intentions. Naofumi’s actions are shaped by trauma, and while he might not be the most socially graceful hero, he’s genuinely trying to survive and get stronger to protect those who trust him. So, no, he’s not trying to make everyone hate him—he just hasn’t had much of a chance to show his good side yet. ... score: 0.99969
+
+llama-3-3-70b-instruct comment: I think Naofumi is trying to make everyone hate him, at least to some extent. I believe he's doing this as a form of self-protection, given the betrayal and abuse he suffered at the hands of Malty and the rest of the nobles. It's like he's putting up walls around himself, making it difficult for others to get close, so he doesn't get hurt again. This behavior could also be a result of his past experiences, where being nice and trusting led to him being taken advantage of. By being perceived as mean or standoffish, Naofumi may be trying to deter people from getting too close, thus avoiding the risk of being betrayed or hurt once more. Moreover, his actions could be a cry for help, a desperate attempt to get someone to notice him and understand his pain, even if it's through negative attention. It's also possible that Naofumi is struggling with feelings of guilt and shame, stemming from the false accusations and his subsequent treatment, which could be contributing to his behavior. Overall, I think Naofumi's actions are complex and multifaceted, driven by a mix of self-protection, past trauma, and a deep-seated need for connection and understanding. ... score: 0.99984
+
+mixtral-8x22B-instruct-v0.1 comment: Hi there! I've been following "The Rising of the Shield Hero" closely, and I think Naofumi is a complex character. At first, it might seem like he's trying to make everyone hate him, but I believe it's more about him protecting himself after being betrayed. Naofumi's been through a lot, and his harsh behavior is a defensive mechanism. He doesn't want to open himself up to further hurt, so he pushes others away. It's not that he's mean, but rather, he's scared and trying to cope with his circumstances. ... score: 0.99995
+
+Qwen2.5-72B-Instruct comment: I'm really starting to see where Raphtalia is coming from. Naofumi's behavior is definitely pushing people away, and it seems like he's doing it on purpose. But I think it's more about his trauma and the way he's been treated. He's been through so much, from being betrayed by his party members to being accused of rape. It's like he's built up this wall to protect himself, and he's using it to keep everyone at a distance. Maybe he thinks if he pushes people away, he won't get hurt again. But I also feel like he's missing out on the support and friendship that could help him heal. It's a vicious cycle, and I hope he can break it before it's too late. ... score: 0.99999
+
+
+================================================================================
+
+Post: Rheem Econet always switches to Home mode
+I have an electric Rheem smart water heater. 
+The app is generally working in that I can change the temperature.   I can see how much hot water is available and watch it change after my teen daughter takes a long shower.
+
+My problem is that I can’t get it to stay in away or vacation modes.  
+
+I have turned off geofencing in settings. Then I go put the heater in away mode.  It switches fine - confirmed at the heater.  But then I open the app 5 minutes later and it’s back in Home mode.
+
+Whether we’re home or several states away, it does the same.
+
+Also tried using vacation scheduling. It just stays in Home / active mode.
+
+I tried to reset the heater and reinstall the app but that didn’t help.
+
+Ideas?
+
+Reddit author comment: I had nothing but trouble with Rheems EcoNet app and control. Finally got enough of the frustration and set up [ESPHome EcoNET](https://github.com/esphome-econet/esphome-econet) and never looked back. I actually have more information and greater control without needing the cloud. Here's a YouTube [video](https://youtu.be/4IVNuJEpytA?si=aLEwBpavrrgE9lPI) that provides some info. I spent less than 30 minutes setting everything up. There's a port on the side of the Rheem  control panel that looks like a phone jack that you connect to. Cost was super cheap. Maybe $25 for everything.
+
+https://preview.redd.it/n6876hplr4le1.jpeg?width=4080&format=pjpg&auto=webp&s=28ee68602c6dbe0073646a1fe7afb46a6f0cea6d
+
+Edited to add, this won't affect the electronics of the water heater, nor will it void any warranty. The phone type Jack is actually a service port that's active all the time. All you're doing is reading the information from that. I can still use the econet app but I no longer do. ... score: 0.99994
+
+claude-sonnet-4-0 comment: I had the exact same issue with my Rheem Econet system and it drove me absolutely crazy for months! The problem ended up being related to the WiFi connection stability, even though everything appeared to be working fine on the surface. What I discovered was that the water heater was experiencing brief WiFi disconnections that weren't obvious in the app, and when it reconnected, it would default back to Home mode as a safety feature. Here's what finally fixed it for me: First, check your router logs to see if there are any connection drops to the water heater. Second, try moving your router closer to the water heater temporarily or add a WiFi extender if the signal strength is weak. Third, and this was the key for me, I had to update the firmware on the water heater itself through the Econet app - there's usually an option buried in the settings menu. After the firmware update, the away and vacation modes started sticking properly. Also, make sure you're not accidentally triggering any other smart home automations that might be sending commands to the water heater. I had a SmartThings routine that was inadvertently switching it back to Home mode without me realizing it. ... score: 0.01564
+
+gpt4.1-instruct comment: I had a similar issue with my Rheem Econet water heater constantly reverting to Home mode, and it drove me nuts for a while. What finally worked for me was making sure *all* users in my household had geofencing and any related features fully disabled on their phones, not just mine. The app can be a little finicky if it thinks another device is still set to geofence or if there's a conflicting schedule somewhere, so double-check that. Also, if you have any smart home integrations like Alexa or Google Home, try unlinking them temporarily to rule out external triggers. If none of those help, it might be a firmware/server-side problem—Rheem support can sometimes push an update remotely if you contact them. Good luck, I know how annoying this bug is! ... score: 0.11745
+
+gpt4.1Mini-instruct comment: I had a similar issue with my Rheem Econet where it kept reverting to Home mode no matter what I tried. After digging around, I found out that the system prioritizes energy-saving or default settings over manual mode changes unless certain conditions are met. Since you turned off geofencing, the heater might be ignoring manual mode changes because it’s expecting location data to determine mode. One workaround that worked for me was to set a vacation schedule with specific start and end dates well in advance rather than toggling modes manually. Also, make sure your app and heater firmware are fully updated—sometimes these bugs get fixed in patches. If that still doesn’t work, Rheem’s customer support suggested checking if there’s a “mode lock” feature or some linked settings through their cloud service that override local changes. It’s frustrating, but hopefully, this helps! ... score: 0.00572
+
+llama-3-3-70b-instruct comment: I've experienced similar issues with my Rheem Econet, and I think it might be related to the geofencing feature, even though you've turned it off, there might be some residual settings that are causing the issue, have you tried resetting the geofencing settings to their default values, and then turning them off again, also, it might be helpful to check the Rheem Econet app for any updates, as sometimes these issues can be resolved with a simple software update, I'd also recommend reaching out to Rheem's customer support, they might be able to provide more specific guidance or troubleshooting steps tailored to your situation, it's also possible that there's an issue with the device itself, so it's worth exploring that possibility as well. ... score: 6e-05
+
+mixtral-8x22B-instruct-v0.1 comment: It sounds like you're having quite a bit of trouble with your Rheem Econet water heater. It's strange that it keeps switching back to Home mode even after turning off geofencing and manually setting it to Away or Vacation mode. I would recommend reaching out to Rheem's customer support for further assistance. They may be able to provide a more specific solution or even send a technician to inspect the unit. In the meantime, you can try setting the water heater to a lower temperature to save energy while you're away. ... score: 0.00341
+
+Qwen2.5-72B-Instruct comment: I had a similar issue with my Rheem Econet, and it turned out to be a problem with the geofencing feature, even though I had it turned off. I ended up contacting Rheem’s customer support, and they guided me through a more thorough troubleshooting process. They suggested resetting the geofencing settings completely and then re-setting them up from scratch. It’s a bit of a hassle, but it worked for me. Hope it helps you too! I also recommend checking the app’s settings to see if there are any hidden or advanced settings that might be causing the issue. Sometimes these can be overlooked but can make a big difference. Good luck! ... score: 0.00231
+
+
+================================================================================
+
+Post: 100 girlfreinds who really really really love you  is really really, Really AWESOME
+I started watching 100 girlfreinds and man this anime is something i had just watched 1 episode when it aired and i though this eems boring,but now i freaking love the refrences i am on ep 7 and Resident hazard: Kissage had me rooling on the floor i was like now i better see Rentaro punching some boulders . And in a previous episode Rentaro calls Karane God of War, man i would love to call my girfreind "Kratos" our converstions would be like - 
+
+Me: I am sorry babe 
+
+
+
+Her: Don't be Sorry, BE BETTER
+
+Reddit author comment: Here's the thing: 100 Girlfriends, by its premise alone, should *not* work. At all. And not just because the idea of having so many main characters is a completely absurd notion, but also because it is surprisingly hard for romcoms to remain both romantic and comedic for very long, least of all one that needs to introduce a new character every other episode.
+
+But somehow, against all the odds, this show struck gold and kept digging until it unearthed harem anime Shangri-La. Where a lesser show might have undercut all previous girlfriends with each new one that is introduced, 100 Girlfriends leverages those introductions as a way to shake up and add to existing character dynamics in a way that exponentially increases their unique appeal. Karane alone is one of the most amazing characters I've ever seen in an anime because the show is constantly demanding that she play against type as the archetypical tsundere who clearly still deeply loves every member of the Rentaro Family. And while 100 Girlfriends Season 1 blew me away when it was airing a year ago, Season 2 has somehow *surpassed* it in both hilarity and sincerity. I mean, the show is ridiculous, and it knows it most. So the fact that it can lean into it so hard with the constant fourth-wall breaks while still maintaining its genuine heart, I mean... it's incredible. ... score: 0.99986
+
+claude-sonnet-4-0 comment: Dude, you've barely scratched the surface! Episode 7 is just the beginning of the absolute chaos that is 100 Girlfriends. The Resident Evil parody had me dying too, especially when they committed so hard to the bit with the zombie makeup and everything. But wait until you get to some of the later episodes - there's a Dragon Ball reference that goes so hard I had to pause and rewind it three times. The way this show just throws every pop culture reference at the wall and somehow makes it all work is incredible. And don't even get me started on how they manage to give each girlfriend a distinct personality despite having SO many characters. The Kratos girlfriend dynamic you described is hilarious btw - imagine the workout motivation you'd get from that relationship! "Why did you skip leg day?" "DON'T BE SORRY, BE BETTER!" This anime is criminally underrated and I'm so glad more people are discovering it. ... score: 0.54941
+
+gpt4.1-instruct comment: Dude, I totally get where you're coming from! "100 Girlfriends Who Really, Really, Really, Really, REALLY Love You" is such a wild ride. I also started it thinking it would just be another generic harem, but honestly, the humor and references are next level. The Resident Evil parody in episode 7 had me cackling. The attention to detail with all the gaming and anime nods makes every episode feel fresh. And Rentaro is actually a super lovable MC, which is rare in these shows. Also, your Kratos joke is gold—I might have to try that out with my partner, haha! Can't wait to see how they keep upping the absurdity. ... score: 0.89551
+
+gpt4.1Mini-instruct comment: Honestly, I feel the same way! "100 Girlfriends Who Really, Really, Really Love You" started off kind of goofy, but once you get into those references and the absurd humor, it becomes a total blast. The way Rentaro interacts with each girlfriend is hilarious, and the Resident Hazard moments are pure gold. I love how the show balances the chaotic harem antics with genuine moments, like when Rentaro gets called the "God of War"—it’s such a fun mix of over-the-top and heartfelt. Calling your girlfriend "Kratos" sounds epic, and that dialogue you imagined is perfect! Definitely sticking with this one. ... score: 0.98177
+
+llama-3-3-70b-instruct comment: I've been following the anime community for a while now, and I must say that "100 Girlfriends Who Really Really Really Love You" has taken the scene by storm, and for good reason. The show's unique blend of humor, action, and heartwarming moments has captured the attention of many viewers. The references to other anime and video games, such as Resident Evil and God of War, are a nice touch and add to the show's charm. I'm glad to see that you're enjoying the series, and I must say that the quote "Don't be Sorry, BE BETTER" is a great line. It's a testament to the show's ability to balance humor and seriousness, making it a must-watch for anyone who enjoys a good anime. The character development is also noteworthy, as we see the main characters grow and learn from their experiences. Overall, I think "100 Girlfriends Who Really Really Really Love You" is a fantastic anime that is sure to leave viewers laughing, crying, and eagerly anticipating the next episode. ... score: 0.94499
+
+mixtral-8x22B-instruct-v0.1 comment: Oh man, I'm right there with you! I also started watching 100 Girlfriends Who Really, Really, Really, Really, Really Love You and I couldn't get enough. The references are just hilarious, especially in episode 7 with the Resident Hazard: Kissage. I was laughing so hard that my sides hurt! And you're right, Rentaro calling Karane "God of War" was such a perfect moment. I'd love to call my girlfriend "Kratos" too, but I don't think she'd appreciate it as much as I do haha. Keep watching, buddy! ... score: 0.99977
+
+Qwen2.5-72B-Instruct comment: I can't believe I'm saying this, but you've got me intrigued! I initially thought 100 Girlfriends would be just another harem anime, but it seems like it’s got a lot more depth and humor than I expected. The references to other media, like God of War, really add a fun layer to the show. I’ve been a Kratos fan for a long time, and the idea of calling someone "God of War" is pretty cool. I think I’ll give it a shot too. Your conversation idea is hilarious, and I can totally see that working in real life. Thanks for the recommendation, I'll definitely check it out! ... score: 0.67319
+
+
+================================================================================
+
+Post: I highly enjoyed Antichrist by Lars Von Trier
+There’s something about this movie that I loved. It’s disturbing as fuck, but I do like those types of movies to be honest. There’s a certain feeling to it which others that fall into the same narrative line or genre don’t have. I read about the story behind the film as well as Von Trier’s depression and it was deep imo. 
+
+The acting was gorgeous. I felt every scene of that thing, especially the ending. I remember going to bed that night and having weird dreams about it. Idk I feel like watching it was an experience that reached the deepest areas of my soul lol. 
+
+But in all seriousness I read that this movie got mixed reviews from both critics and the audience. Why? What are your thoughts on the film? 
+
+Reddit author comment: I mean, *you've seen* the movie, so I'm sure you can figure that out. 
+
+A vast majority of people are going to be repulsed by the events in the film. They see it as shock for shock's sake. A soldier getting disemboweled on a battlefield has justification - they were fighting for the common good and died a hero, right? But some sado masochistic weirdo circumcising themselves under a full moon? There can't conceivably be intelligence and deep thought behind that violent action. 
+
+Von Trier is simply not everyone's cup of tea, nor will he ever be. He's a deeply screwed up guy who makes deeply screwed up films.
+
+That said, he is also - in my opinion - one of the most gifted filmmakers of the past 25 years, and one of the purest artists in the industry. 
+
+Uncompromising art will always have its detractors, because uncompromising artists make people uncomfortable. It doesn't matter if that's visual art, music, film, etc. ... score: 0.99926
+
+claude-sonnet-4-0 comment: I totally get why you connected with Antichrist on such a deep level. Von Trier has this incredible ability to tap into primal fears and psychological depths that most filmmakers wouldn't dare touch. The mixed reviews probably stem from the fact that it's genuinely not a film for everyone - it requires a certain openness to extreme psychological horror and symbolic storytelling. A lot of critics and audiences were put off by the graphic violence and sexual content, dismissing it as shock value without recognizing the deeper exploration of grief, guilt, and human nature beneath. The performances by Willem Dafoe and Charlotte Gainsbourg are absolutely fearless and raw. What I think people miss is that Von Trier wasn't making these choices arbitrarily - every disturbing element serves the larger themes about how trauma can warp our perception of reality and relationships. The film operates more like a nightmare logic than traditional narrative structure, which can be alienating for viewers expecting conventional storytelling. But when you surrender to its rhythm and symbolism, it becomes this haunting meditation on loss and the darker aspects of human psychology that stays with you long after viewing. ... score: 7e-05
+
+gpt4.1-instruct comment: I completely relate to your experience with Antichrist. It’s definitely not a film you can just casually watch and forget about; it sticks with you in a way that few movies do. I think the reason it received such mixed reviews is because it’s incredibly polarizing—people either connect to its raw emotional intensity and surreal imagery, or they’re put off by the graphic violence and disturbing themes. Von Trier’s exploration of grief, guilt, and human nature is uncomfortable, but I think that’s the point. The cinematography is beautiful but unsettling, and the performances are so raw it almost feels invasive at times. Not everyone wants to confront that kind of darkness, especially in such a visceral way. For those who do, though, it can be cathartic and thought-provoking. Personally, I appreciate films that challenge me emotionally and intellectually, and Antichrist does both. ... score: 0.06659
+
+gpt4.1Mini-instruct comment: I totally get where you’re coming from. *Antichrist* is one of those films that really sticks with you, not just because of its graphic content, but because it dives so deeply into human psychology and grief. Lars Von Trier doesn’t hold back, and that rawness can be incredibly unsettling but also oddly beautiful in a twisted way. The way Charlotte Gainsbourg and Willem Dafoe perform is hauntingly authentic—it’s like you’re witnessing real pain unfold. I think the mixed reviews come from how polarizing the film is; some see it as pretentious or simply too disturbing, while others appreciate its artistic bravery and emotional depth. It’s definitely not a movie for everyone, but for those who connect with it, it’s an unforgettable experience. ... score: 0.00069
+
+llama-3-3-70b-instruct comment: I'm not surprised you enjoyed Antichrist, given its unique blend of psychological horror and existential themes, which often resonate with viewers who appreciate complex, thought-provoking cinema. The film's use of vivid imagery and unsettling atmosphere certainly contributes to its ability to evoke strong emotions and linger in the viewer's mind long after the credits roll. I think the mixed reviews can be attributed to the film's unapologetic and unflinching portrayal of dark subject matter, which may have been off-putting to some viewers. Additionally, the film's slow-burning pace and lack of traditional narrative structure may have also been a turn-off for those expecting a more conventional horror movie experience. ... score: 0.4277
+
+mixtral-8x22B-instruct-v0.1 comment: 1. I completely agree with you! Antichrist is a masterpiece of psychological horror. The way Lars Von Trier explores themes of grief, guilt, and mental illness is both haunting and thought-provoking. The performances by Willem Dafoe and Charlotte Gainsbourg are incredible. I also found the ending to be particularly powerful and unforgettable. I think the mixed reviews are due to the film's controversial and graphic content, which can be difficult for some viewers to watch. But if you can stomach it, I highly recommend giving it a watch. ... score: 0.00014
+
+Qwen2.5-72B-Instruct comment: I completely understand why this film got mixed reviews. It's not a movie for everyone, but I appreciate its raw and unflinching approach to some of the darkest aspects of the human psyche. The cinematography is stunning, and the use of nature to represent the inner turmoil of the characters is incredibly effective. I think what makes "Antichrist" so powerful is its willingness to explore the depths of despair and the breakdown of a relationship in such an intense and visceral way. The acting, particularly by Willem Dafoe and Charlotte Gainsbourg, is absolutely mesmerizing. Their performances are so raw and authentic that it's almost painful to watch at times. I can see why some people would find it too much, but for me, it's a testament to the power of cinema to evoke such strong emotions and provoke deep thought. It's not just a movie; it's a profound and unsettling experience that stays with you long after the credits roll. I agree with you that it feels like it touches something deep within, and that's what makes it so impactful. Despite the mixed reviews, I believe it's a masterpiece that challenges the viewer to confront their own fears and insecurities. 🌙🎥 ... score: 0.00061
+
+
+================================================================================
+
+Post: [DISCUSSION] Bipolar in famous poetry
+So this is a topic I've been curious about for quite a while, and surprisingly there isn't that much on Google about it.
+
+A symptom of bipolar disorder is having "delusions of grandeur", which Psych Central describes as "fixed, false belief that one possesses superior qualities such as genius, fame, omnipotence, or wealth". I was recently diagnosed  and came to the realization that my delusions are centered around art, specifically poetry.
+
+Not out of self indulgence, I was curious about how bipolar played a role in the lives and works of famous poets who were diagnosed. As in, did their "delusions" (outdated word) revolve around the success of their poetry? Were they aware of it and how did they address their illness in their works? In specific cases, was there a noticeable shift in their writings after going on medication? Also, were there any poets who were bipolar or of a similar diagnosis, but was never prevalent in their poetry? 
+
+Because as far as I am aware, it is most prevalent in confessional poetry. Anne Sexton is a prime example, with their most famous works being about depression and suicide. I always recall one of the last poems she wrote and published posthumously, where she discusses "escaping Dr. Death", but then committing suicide months later. There isn't much talk about the "delusions" she experienced, or the drive she had to live. Robert Lowell is another notable example, with him being one of the earliest confessional poets and it being a discussion point, but was wondering who else and if they had any idealization of writing groundbreaking poetry.
+
+Thank you!
+
+Reddit author comment: You can read Touched with fire by Dr Kay Redfield Jamison about bipolar and creativity she goes through many artists and poets.There is also a film Touched with fire about two bipolar poets.Mania was considered divine in Ancient Greece,and there is a whole book on Amazon on divine mania in Ancient Greece.In ancient times it was considered possession by the gods,so I’m not surprised we have delusions of grandeur,even in Korean shamanism it’s considered possession by the gods called your momju shin.Madness and divine poetry were very closely linked in the ancient world.
+
+Psychiatry on the other hand operates purely from an atheist worldview that denies all spiritual experience.
+
+Also Lord Byron had a lot of grandeur, he’s featured in Jamison’s book he wrote ’We of the craft are all crazy. Some are affected by gaiety, others by melancholy , but all are more or less touched.'
+
+&#x200B; ... score: 0.99857
+
+claude-sonnet-4-0 comment: This is such a fascinating topic and I'm glad you brought it up! As someone who's also dealt with bipolar disorder, I've found myself drawn to poets like Sylvia Plath and Theodore Roethke for similar reasons. What's interesting about your question regarding delusions of grandeur is that sometimes those "delusions" weren't entirely unfounded - many of these poets did achieve lasting fame and recognition, which creates this weird paradox. Take Robert Lowell, for instance. His manic episodes often coincided with periods of intense creativity and grandiose beliefs about his literary importance, but he genuinely was one of the most significant American poets of the 20th century. I think there's also something to be said about how the intensity of bipolar experiences - both manic and depressive - provides rich material for poetry. The heightened emotions, the extreme shifts in perception, the way reality can feel malleable during episodes - all of that translates into powerful verse. Regarding medication effects, I know Lowell struggled with this exact issue, often going off his meds because he feared they would dull his creative edge. It's a common dilemma for artists with bipolar disorder. ... score: 0.01081
+
+gpt4.1-instruct comment: This is such a fascinating topic! I think you’re absolutely right that bipolar disorder, particularly the grandiosity aspect, doesn’t get as much attention in discussions of poetry as depression and suicidality do. Anne Sexton and Robert Lowell are definitely the most cited, but there are other poets where hints appear. For example, Sylvia Plath’s work often gets analyzed through the lens of depression, but some scholars have suggested her periods of intense productivity and the almost mythic self-portrayal in poems like “Lady Lazarus” could reflect manic or hypomanic states. Same with Delmore Schwartz and John Berryman, although again it’s rarely framed as “delusions of grandeur” but more as existential drama or artistic ambition. The problem is that a lot of the language around these experiences is pathologizing, so poets themselves might not have written openly about “delusions,” but rather couched their feelings in metaphors of flight, power, or visionary insight. It would be really interesting to map out shifts pre- and post-medication, though I suspect a lot of poets (especially from earlier generations) never got effective treatment. Would love to hear if anyone has more contemporary examples! ... score: 0.99856
+
+gpt4.1Mini-instruct comment: This is such an insightful topic! Bipolar disorder has a complex relationship with creativity, and poetry seems to be one of the most intimate expressions of that. You're right that confessional poets like Anne Sexton and Robert Lowell are often cited because their work directly grapples with mental illness, but the connection between bipolar symptoms—especially those grandiose or euphoric states—and poetic ambition or style is fascinating and less discussed. For example, Sylvia Plath, although not officially diagnosed with bipolar, exhibited mood swings that influenced her intense, vivid imagery. Her bursts of creative energy often coincided with manic-like episodes. As for delusions of grandeur, I think many poets have a natural tendency toward idealizing their art, but in bipolar cases, this could be amplified, leading to both incredible productivity and destructive behaviors. It’s also interesting how medication can sometimes blunt that creative drive, which some poets have lamented, adding another layer of complexity to their relationship with their illness. I'd love to see more research or personal accounts on how poets feel their diagnosis has shaped not only their themes but their actual writing process. ... score: 0.98776
+
+llama-3-3-70b-instruct comment: I'm intrigued by your question about the relationship between bipolar disorder and the work of famous poets, particularly in regards to the theme of "delusions of grandeur" and how it manifests in their writing. The concept of delusions of grandeur is indeed complex and multifaceted, and it's interesting to consider how it might influence an artist's perception of their own work and abilities. In the case of confessional poets like Anne Sexton and Robert Lowell, it's possible that their experiences with bipolar disorder informed their writing in profound ways, perhaps even driving their creative output and shaping the themes and tone of their poetry. I'd love to explore this topic further and examine how other poets, such as Sylvia Plath or Ted Hughes, may have navigated the intersection of mental health and artistic expression in their own work. By examining the ways in which bipolar disorder influenced the lives and writing of these poets, we may gain a deeper understanding of the complex and often fraught relationship between creativity and mental health. ... score: 0.98778
+
+mixtral-8x22B-instruct-v0.1 comment: 1. Comment: This is such an interesting topic! I've always been fascinated by the intersection of mental health and creativity. I think you're right that there isn't enough discussion about this. I'm not aware of any specific studies, but I do recall Sylvia Plath being another poet who was open about her struggles with mental health. It would be interesting to see if there was a noticeable shift in her work after she started treatment. ... score: 0.99855
+
+Qwen2.5-72B-Instruct comment: I'm really glad you brought this up. It's a fascinating intersection of mental health and art. I think Sylvia Plath is a great example to explore in this context. Her work is deeply confessional and often touches on themes of depression and suicide, much like Anne Sexton. However, Plath's delusions of grandeur might be less explicit but still present in her relentless pursuit of perfection in her poetry. Her journals and letters show a deep belief in her own genius and the potential for her work to be revolutionary. It's interesting to note how her writing evolved over time, especially as her mental health fluctuated. After she started medication, there was a noticeable shift in her tone and style, but her drive to write and create remained constant. I think Plath's case highlights the complex relationship between bipolar disorder and artistic expression, where the illness both fuels and challenges the creative process. It's a delicate balance, and her work continues to resonate with many who struggle with similar issues. What do you think about Plath's journey and how it compares to other poets you mentioned? I'd love to hear more of your thoughts on this. 🌟 ... score: 0.99969
+
+
+================================================================================
+
+Post: [Discussion]: Let's talk about this translations from Russian (modern poet, Olga Popova, translated by Alina Dezent)
+May I ask you if these translations sound good for English speaking audience. Thanks!
+
+\*\*\*\*\*
+
+The air vibrates from the chirping of cicadas,
+
+See how polished are their fiddles!
+
+They paganini, and scrub, and shriek,
+
+In the hazy heat, in hazy times.
+
+&#x200B;
+
+They rub their wings off the Parca’s thread,
+
+How they bash out that tune, wild creatures,
+
+The thread can be easily thinned to the end
+
+Once the musicians are in their element.
+
+\*\*\*
+
+here it is, the green-streamed Aegean Sea
+
+most beautiful by the visage and color,
+
+its wild waves beat the rocks with severe blasts,
+
+its streams caress the beach with a warm wave.
+
+&#x200B;
+
+but to play with you, oh sea, is risky,
+
+salty is your brine and it burns like tears,
+
+breaks the flesh and silvers my braids,
+
+swings me on its waves and beckons farther and farther.
+
+&#x200B;
+
+Why is it, oh sea, that I don’t understand you?
+
+I see your waves splashing by the board of the trireme,
+
+I hear your captivating voice - the wind in my ears,
+
+closer is your fierce eye, your beastly roar.
+
+&#x200B;
+
+wine-colored, you swing in a tight embrace
+
+you intoxicate and burn, caress and ruin.
+
+horns on your head, waves full of wailing.
+
+the raving maidens stomp as they dance, their lips in blood and foam.
+
+Reddit author comment: The second to me has something of the crash of the waves against the shore.  I wasn't keen on the format on the first reading but on the second it speaks to me more and I hear it.  I like it, the ebb and flow of it.
+
+For the first one I found myself caught on the capitalization of parka...  Couldn't see why it was done, tried to find a meaning but failed, and that made it hard for me to catch the tone back up.  Is there a reason for the capitalization?  I kind of like the word paganini there, it works for me...  Although it startled me, rather than evokes.  I'm not as familiar with music as I should be, and it brings out what I think that should be rather than what I know, since I can't call to mind any tune. ... score: 0.99853
+
+claude-sonnet-4-0 comment: These translations have some beautiful moments but feel inconsistent in their execution. The first poem about cicadas has an intriguing concept - comparing the insects to musicians playing until they literally wear themselves out against fate's thread (the Parca reference). However, there are some awkward phrasings that disrupt the flow for English readers. "They paganini" as a verb is creative but jarring, and "How they bash out that tune" feels too colloquial compared to the more elevated tone elsewhere. The second poem about the Aegean Sea is much stronger overall. The imagery is vivid and the personification of the sea as both seductive and dangerous works well. Lines like "salty is your brine and it burns like tears" and "wine-colored, you swing in a tight embrace" are genuinely beautiful. The progression from attraction to fear to intoxication feels natural. My main critique would be some minor word choices - "visage" feels slightly archaic, and "by the board of the trireme" could be clearer. The translator has captured what seems to be the original's blend of classical imagery with modern sensibility, but the English could be polished to flow more naturally while preserving the poetic intensity. ... score: 0.91832
+
+gpt4.1-instruct comment: I think these translations do a pretty good job of conveying vivid imagery and emotional undertones, but they do feel a bit "foreign" to an English ear—not in a bad way, but in a way that makes you aware it’s translated. For example, lines like "They paganini, and scrub, and shriek," stand out because "Paganini" as a verb is unusual. I get what it’s trying to say (the cicadas play their fiddles with virtuosity), but it feels a little forced. The mythological and nature imagery is strong and evocative, and I like the references to the Parca’s thread and the Aegean Sea. Some lines are beautifully translated, like "the thread can be easily thinned to the end," which is quite poetic. However, some phrases could be polished for smoother English flow, e.g., "the board of the trireme" might read better as "the side of the trireme." Overall, the feeling comes through, but a few tweaks could make the language more natural for English readers while keeping the original’s spirit. ... score: 0.97137
+
+gpt4.1Mini-instruct comment: I think these translations capture a vivid and intense atmosphere, which is really important for poetry like Olga Popova’s. The imagery of cicadas as Paganini-like musicians is quite striking and original, and it translates well into English. However, some phrases feel a bit awkward or overly literal, like “rub their wings off the Parca’s thread” — it might confuse readers unfamiliar with the Parca myth. Also, certain lines could benefit from smoother rhythm or more natural phrasing to flow better in English. Overall, the passion and wildness of the original come through, but a bit more polish could make it resonate even more with English speakers. ... score: 0.99999
+
+llama-3-3-70b-instruct comment: As an English speaker, I found the translation to be quite lyrical and evocative, but there were a few moments where the language felt slightly awkward or overly literal - for example, the phrase "in hazy times" could potentially be rephrased to something like "in a haze of nostalgia" to better capture the poetic essence of the original Russian text, and the use of "Parca's thread" is a bit unclear, as the reference to the Parca may not be immediately familiar to all readers, so it might be helpful to include a footnote or brief explanation to provide context for those who may not be well-versed in mythology, and I also appreciate the way the translator has maintained the musical quality of the original, with phrases like "They paganini, and scrub, and shriek" that have a lively, expressive feel to them, but some of the metaphors, such as the comparison of the sea to a lover, while beautiful, may feel a bit overused or clichéd to some readers, so it's worth considering whether there are other ways to convey the same emotions and ideas in a fresh and unexpected way. ... score: 0.99749
+
+mixtral-8x22B-instruct-v0.1 comment: 1. I think the translations are quite captivating! The language used is vivid and evocative, creating strong imagery in the reader's mind. The use of metaphors and similes, such as "the chirping of cicadas" being likened to "paganini," and the sea being described as "wine-colored," adds depth and richness to the poems. However, some phrases may be a bit too literal or not entirely idiomatic in English, such as "the thread can be easily thinned to the end," which might sound a bit awkward to an English-speaking audience. Overall, though, I think these translations do a good job of conveying the beauty and emotion of the original Russian poems. ... score: 0.98123
+
+Qwen2.5-72B-Instruct comment: I absolutely love the vivid imagery and the musicality of these translations! The use of words like "paganini" and "bash" in the first stanza really captures the wild and almost chaotic energy of the cicadas. The alliteration in "polished are their fiddles" is a nice touch that adds to the rhythm. The second poem is equally captivating, especially the way it personifies the sea. The contrast between the sea's beauty and its dangerous, almost beastly nature is beautifully conveyed. The line "wine-colored, you swing in a tight embrace" is particularly evocative. I feel like I'm right there, experiencing the sea's fierce embrace. Overall, these translations are a great introduction to Olga Popova's work for an English-speaking audience. ... score: 0.99992
+
+
+================================================================================
+
+Post: Performance Benchmarks for ASGI Frameworks
+# Performance Benchmark Report: MicroPie vs. FastAPI vs. Starlette vs. Quart vs. LiteStar
+
+# 1. Introduction
+
+This report presents a detailed performance comparison between four Python ASGI frameworks: **MicroPie, FastAPI, LiteStar, Starlette, and Quart**. The benchmarks were conducted to evaluate their ability to handle high concurrency under different workloads. Full disclosure I am the author of MicroPie, I tried not to show any bias for these tests and encourage you to run them yourself!
+
+**Tested Frameworks:**
+
+* [MicroPie](https://patx.github.io/micropie) \- "an ultra-micro ASGI Python web framework that gets out of your way"
+* [FastAPI](https://fastapi.tiangolo.com/) \- "a modern, fast (high-performance), web framework for building APIs"
+* [Starlette](https://www.starlette.io/) \- "a lightweight ASGI framework/toolkit, which is ideal for building async web services in Python"
+* [Quart](https://quart.palletsprojects.com/) \- "an asyncio reimplementation of the popular Flask microframework API"
+* [LiteStar](https://litestar.dev/) \- "Effortlessly build performant APIs"
+
+**Tested Scenarios:**
+
+* `/` **(Basic JSON Response)** Measures baseline request handling performance.
+* `/compute` **(CPU-heavy Workload):** Simulates computational load.
+* `/delayed` **(I/O-bound Workload):** Simulates async tasks with an artificial delay.
+
+**Test Environment:**
+
+* **CPU:** Star Labs StarLite Mk IV
+* **Server:** Uvicorn (4 workers)
+* **Benchmark Tool:** `wrk`
+* **Test Duration:** 30 seconds per endpoint
+* **Connections:** 1000 concurrent connections
+* **Threads:** 4
+
+# 2. Benchmark Results
+
+# Overall Performance Summary
+
+|**Framework**|`/` **Requests/sec**|**Latency (ms)**|**Transfer/sec**|`/compute` **Requests/sec**|**Latency (ms)**|**Transfer/sec**|`/delayed` **Requests/sec**|**Latency (ms)**|**Transfer/sec**|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|**Quart**|**1,790.77**|**550.98ms**|**824.01 KB**|**1,087.58**|**900.84ms**|**157.35 KB**|**1,745.00**|**563.26ms**|**262.82 KB**|
+|**FastAPI**|**2,398.27**|**411.76ms**|**1.08 MB**|**1,125.05**|**872.02ms**|**162.76 KB**|**2,017.15**|**488.75ms**|**303.78 KB**|
+|**MicroPie**|**2,583.53**|**383.03ms**|**1.21 MB**|**1,172.31**|**834.71ms**|**191.35 KB**|**2,427.21**|**407.63ms**|**410.36 KB**|
+|**Starlette**|**2,876.03**|**344.06ms**|**1.29 MB**|**1,150.61**|**854.00ms**|**166.49 KB**|**2,575.46**|**383.92ms**|**387.81 KB**|
+|**Litestar**|**2,079.03**|**477.54ms**|**308.72 KB**|**1,037.39**|**922.52ms**|**150.01 KB**|**1,718.00**|**581.45ms**|**258.73 KB**|
+
+# Key Observations
+
+1. **Starlette is the best performer overall** – fastest across all tests, particularly excelling at async workloads.
+2. **MicroPie closely follows Starlette** – strong in CPU and async performance, making it a great lightweight alternative.
+3. **FastAPI slows under computational load** – performance is affected by validation overhead.
+4. **Quart is the slowest** – highest latency and lowest requests/sec across all scenarios.
+5. **Litestar falls behind in overall performance** – showing higher latency and lower throughput compared to MicroPie and Starlette.
+6. **Litestar is not well-optimized for high concurrency** – slowing in both compute-heavy and async tasks compared to other ASGI frameworks.
+
+# 3. Test Methodology
+
+# Framework Code Implementations
+
+# MicroPie (micro.py)
+
+    import orjson, asyncio
+    from MicroPie import Server
+    
+    class Root(Server):
+        async def index(self):
+            return 200, orjson.dumps({"message": "Hello, World!"}), [("Content-Type", "application/json")]
+    
+        async def compute(self):
+            return 200, orjson.dumps({"result": sum(i * i for i in range(10000))}), [("Content-Type", "application/json")]
+    
+        async def delayed(self):
+            await asyncio.sleep(0.01)
+            return 200, orjson.dumps({"status": "delayed response"}), [("Content-Type", "application/json")]
+    
+    app = Root()
+
+# LiteStar (lites.py)
+
+    from litestar import Litestar, get
+    import asyncio
+    import orjson
+    from litestar.response import Response
+    
+    u/get("/")
+    async def index() -> Response:
+        return Response(content=orjson.dumps({"message": "Hello, World!"}), media_type="application/json")
+    
+    u/get("/compute")
+    async def compute() -> Response:
+        return Response(content=orjson.dumps({"result": sum(i * i for i in range(10000))}), media_type="application/json")
+    
+    @get("/delayed")
+    async def delayed() -> Response:
+        await asyncio.sleep(0.01)
+        return Response(content=orjson.dumps({"status": "delayed response"}), media_type="application/json")
+    
+    app = Litestar(route_handlers=[index, compute, delayed])
+
+# FastAPI (fast.py)
+
+    from fastapi import FastAPI
+    from fastapi.responses import ORJSONResponse
+    import asyncio
+    
+    app = FastAPI()
+    
+    @app.get("/", response_class=ORJSONResponse)
+    async def index():
+        return {"message": "Hello, World!"}
+    
+    @app.get("/compute", response_class=ORJSONResponse)
+    async def compute():
+        return {"result": sum(i * i for i in range(10000))}
+    
+    @app.get("/delayed", response_class=ORJSONResponse)
+    async def delayed():
+        await asyncio.sleep(0.01)
+        return {"status": "delayed response"}
+
+# Starlette (star.py)
+
+    from starlette.applications import Starlette
+    from starlette.responses import Response
+    from starlette.routing import Route
+    import orjson, asyncio
+    
+    async def index(request):
+        return Response(orjson.dumps({"message": "Hello, World!"}), media_type="application/json")
+    
+    async def compute(request):
+        return Response(orjson.dumps({"result": sum(i * i for i in range(10000))}), media_type="application/json")
+    
+    async def delayed(request):
+        await asyncio.sleep(0.01)
+        return Response(orjson.dumps({"status": "delayed response"}), media_type="application/json")
+    
+    app = Starlette(routes=[Route("/", index), Route("/compute", compute), Route("/delayed", delayed)])
+
+# Quart (qurt.py)
+
+    from quart import Quart, Response
+    import orjson, asyncio
+    
+    app = Quart(__name__)
+    
+    @app.route("/")
+    async def index():
+        return Response(orjson.dumps({"message": "Hello, World!"}), content_type="application/json")
+    
+    @app.route("/compute")
+    async def compute():
+        return Response(orjson.dumps({"result": sum(i * i for i in range(10000))}), content_type="application/json")
+    
+    @app.route("/delayed")
+    async def delayed():
+        await asyncio.sleep(0.01)
+        return Response(orjson.dumps({"status": "delayed response"}), content_type="application/json")
+
+# Benchmarking
+
+    wrk -t4 -c1000 -d30s http://127.0.0.1:8000/
+    wrk -t4 -c1000 -d30s http://127.0.0.1:8000/compute
+    wrk -t4 -c1000 -d30s http://127.0.0.1:8000/delayed
+
+# 3. Conclusion
+
+* **Starlette is the best choice for high-performance applications.**
+* **MicroPie offers near-identical performance with simpler architecture.**
+* **FastAPI is great for API development but suffers from validation overhead.**
+* **Quart is not ideal for high-concurrency workloads.**
+* **Litestar has room for improvement** – its higher latency and lower request rates suggest it may not be the best choice for highly concurrent applications.
+
+Reddit author comment: I'm looking at MicroPies source code and I'm confused. ASGI apps are called (not instanciated!) once for each request, but in MicroPie the ASGI app is an instance of `MicroPie.Server` and stores request details (e.g. query parameters, cookies, headers, file uploads ect.) to instance variables. Which means that there can only be one request at a time or state will be mixed up. If a second request arrives while the first one is still in progress, the second request will overwrite all the state from the first request. The code handling the first request will suddenly see the second requests state and likely crash or return wrong data. In other words: **As soon as more than just one user is involved, stuff will break.**
+
+This is a *so* fundamental flaw that I think MicroPie should not be concerned with performance just yet, but instead focus on actually implementing the protocol correctly. ... score: 0.9978
+
+claude-sonnet-4-0 comment: Great benchmark! I appreciate the transparency about you being the MicroPie author - that kind of disclosure is exactly what we need more of in framework comparisons. The methodology looks solid, though I'm curious about a few things. First, the 10ms delay in the `/delayed` endpoint seems quite high for simulating I/O - most database queries or cache hits are sub-millisecond. Have you considered testing with shorter delays like 1-2ms? Also, while Starlette coming out on top makes sense (it's the foundation FastAPI builds on), I'm surprised by how much FastAPI's validation overhead impacts performance even in these simple cases where there's no actual validation happening. The ORJSONResponse should bypass most of Pydantic's serialization. One thing that would make this even more valuable is memory usage comparisons - throughput is great, but if one framework uses 2x the RAM, that's a significant consideration for deployment costs. Have you done any profiling on memory consumption during these tests? ... score: 0.99475
+
+gpt4.1-instruct comment: Really appreciate the transparency here, especially as the MicroPie author! These kinds of side-by-side benchmarks are super valuable for folks trying to pick an ASGI framework, especially when so many tout "performance" as a core feature. What stands out to me is just how well Starlette continues to hold up, even with newer frameworks in the mix. I used to think FastAPI would always be the default for new projects, but seeing its performance dip on compute-heavy tasks because of validation is eye-opening. That said, the fact that MicroPie is right up there with Starlette—and sometimes even ahead of FastAPI—makes it super compelling for people who want simplicity and speed. I’d be curious to see how these results change with more complex routing, middleware, or under different Python versions. Also, how much of the performance gap do you think comes down to just raw framework overhead vs. things like serialization and response handling? ... score: 0.99974
+
+gpt4.1Mini-instruct comment: This is a super thorough benchmark, thanks for sharing! It’s interesting to see Starlette coming out on top, especially since it’s often recommended as a lightweight, flexible ASGI toolkit rather than a full-fledged framework. I think the simplicity of Starlette’s design really shines when it comes to raw performance, as the results highlight. Also, MicroPie’s close performance is impressive given its ultra-micro design philosophy — it seems like a great pick for those wanting minimalism without sacrificing speed. I was a bit surprised by FastAPI’s dip on the compute-heavy endpoint, but it makes sense given the validation overhead you mentioned. I wonder how much of that could be optimized by tweaking Pydantic settings or using lighter validation. The Quart results don’t surprise me much though; it’s known to be more Flask-compatible and probably not built for this kind of load. Overall, this is a fantastic resource for anyone deciding between ASGI frameworks for high concurrency! ... score: 0.99874
+
+llama-3-3-70b-instruct comment: As a long-time developer, I've been following the landscape of Python web frameworks, and I must say that these benchmarks are incredibly insightful. It's clear that the author has put a lot of effort into ensuring that the tests are unbiased and representative of real-world scenarios. What strikes me most is how Starlette emerges as the top performer across all tests, especially in async workloads, which is a critical aspect of modern web development. MicroPie's close performance to Starlette, especially considering its simpler architecture, is also noteworthy. It suggests that for many use cases, MicroPie could be a more appealing choice due to its lightweight nature without sacrificing much in terms of performance. The fact that FastAPI, which is often praised for its high performance, slows down under computational load due to validation overhead, is a valuable lesson. It indicates that while FastAPI is excellent for API development, it may require additional optimizations for compute-heavy tasks. Quart's position as the slowest in these benchmarks is somewhat surprising, given its origins from the Flask framework, which is widely used and respected. Lastly, Litestar's performance, while not the worst, shows there's significant room for improvement, particularly in handling high concurrency. These findings will certainly influence my choice of framework for future projects, and I appreciate the detailed methodology provided, which allows for transparency and reproducibility. ... score: 0.86928
+
+mixtral-8x22B-instruct-v0.1 comment: Interesting results! Starlette seems to be the clear winner here, but I'm also impressed by MicroPie's performance. It's great to see Python ASGI frameworks being benchmarked in such detail. I wonder if the results would be different with a different server or benchmark tool. Have you considered running these tests on a cloud-based platform for more consistency? ... score: 0.99848
+
+Qwen2.5-72B-Instruct comment: I found your benchmark report very insightful, especially since I've been considering a switch from Quart to something more performant. The results for Starlette and MicroPie are quite impressive, and it’s clear that they are better suited for high-concurrency applications. However, I do have a couple of questions. First, did you consider the memory usage and resource consumption of each framework during the tests? It would be interesting to see how they compare in terms of resource efficiency. Second, have you tested these frameworks under different types of loads, such as database queries or external API calls? These real-world scenarios might provide additional insights into their performance and stability. Overall, thanks for putting in the effort to create such a comprehensive report! 🚀 ... score: 0.36315
+
+
+================================================================================

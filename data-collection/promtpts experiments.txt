@@ -1,0 +1,81 @@
+prompts tries:
+
+
+ "Behave as a Reddit random user. "
+        "Please generate a comment to this Reddit post:\n\n"
+        f"Post's title: {title}\n"
+        f"Post content: {text}."
+
+  returned an intro such as "sure! i can create one"
+
+ "Behave as a Reddit random user. "
+        "Please generate a comment to this Reddit post:\n\n"
+        f"Post's title: {title}\n"
+        f"Post content: {text}. return only the comment with no farther content"
+
+returned identical comments in some cases
+ "Behave as a Reddit random user number " + str(i+1) + ". "
+    "Please generate a comment to this Reddit post:\n\n"
+    f"Post's title: {title}\n"
+    f"Post content: {text}"
+
+returned still very alike comments with slight changes 
+
+"Behave as a Reddit human user. "
+        "Generate a comment to this Reddit post:\n\n"
+        f"Post's title: {title}\n"
+        f"Post content: {text}. return only the comment with no farther content"
+
+returned still very alike comments with slight changes 
+     
+
+
+"you are a Reddit user. "
+        "Generate a comment to this Reddit post:\n\n"
+        f"Post's title: {title}\n"
+        f"Post content: {text}. return only the comment with no farther content"
+
+*************returned still very alike comments with slight changes - csv generated. "gpt4.1_generated_comments_temp0_context_per_comment"*************
+     
+     
+
+
+
+one context per post:
+
+
+    (batch)
+            "You are a Reddit user. "
+        f"Generate {num_long_comments} different comments "
+        f"in response to the following Reddit post. Number each comment:\n\n"
+        f"Post's title: {title}\n"
+        f"Post content: {text}\n\n"
+        "Only return the numbered list of comments."
+
+             "You are a Reddit user. "
+        f"Generate {num_long_comments}  comments "
+        f"in response to the following Reddit post. Number each comment:\n\n"
+        f"Post's title: {title}\n"
+        f"Post content: {text}\n\n"
+        "Only return the numbered list of comments."
+
+        looks great also without similarity when i removed the word different
+
+                "You are several Reddit users. "
+        f"Generate {num_long_comments} comments "
+        f"in response to the following Reddit post. Number each comment:\n\n"
+        f"Post's title: {title}\n"
+        f"Post content: {text}\n\n"
+        "Only return the numbered list of comments."
+
+         ******** looks great also without similarity - csv generated. "gpt4.1_generated_comments_temp0_context_per_post" ***********
+
+
+        "You are several Reddit users. "
+        f"Generate {num_long_comments} comments, at least 100 words long,  "
+        f"in response to the following Reddit post. Number each comment:\n\n"
+        f"Post's title: {title}\n"
+        f"Post content: {text}\n\n"
+        "Only return the numbered list of comments."
+
+        

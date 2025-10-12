@@ -1,0 +1,14 @@
+Model_Name,Num_Comments,Num_Duplicates,Num_unique
+comments_reddit_OC,11672,0,11672
+generated_comments_claude-sonnet-4-0_temp_0.0,9340,0,9340
+generated_comments_claude-sonnet-4-0_temp_0.7,8813,0,8813
+generated_comments_gpt4.1-instruct_temp-0.0,8315,0,8315
+generated_comments_gpt4.1-instruct_temp-0.7,15525,0,15525
+generated_comments_gpt4.1Mini-instruct_temp-0.0,7155,0,7155
+generated_comments_gpt4.1Mini-instruct_temp-0.7,7407,0,7407
+generated_comments_llama-3-3-70b-instruct_temp-0.0,15386,0,15386
+generated_comments_llama-3-3-70b-instruct_temp-0.7,15234,0,15234
+generated_comments_mixtral-8x22B-instruct-v0.1_temp-0.0,8271,0,8271
+generated_comments_mixtral-8x22B-instruct-v0.1_temp-0.7,8082,0,8082
+generated_comments_Qwen2.5-72B-Instruct_temp-0.0,8015,0,8015
+generated_comments_Qwen2.5-72B-Instruct_temp-0.7,8904,0,8904
