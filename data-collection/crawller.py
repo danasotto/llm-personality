@@ -215,8 +215,8 @@ def get_posts(subreddit_name, post_limit, limit=1000):
 
 # Initialize Reddit instance
 reddit = praw.Reddit(
-    client_id="CzK17uE7gzRJRuuEhHp7cQ",
-    client_secret="5jqbHALUVEHuScmejK-4nvlitUGw1A",
+    client_id="<replace-client-id>",
+    client_secret="<replace-client-secret>",
     user_agent="MyBot/0.0.1"
 )
 
